@@ -1,0 +1,2115 @@
+customer_id,conversion_id,timestamp,channel,campaign_id,touchpoint_order,path_length,first_channel,last_channel,revenue
+7,1,2025-11-29 04:36:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,798.94
+7,1,2025-12-12 00:31:00,Paid Social,META-Prospecting,2,2,Paid Search,Paid Social,798.94
+10,2,2026-09-02 13:56:00,Paid Search,PS-NonBrand,1,2,Paid Search,Display,164.97
+10,2,2026-09-13 21:05:00,Display,DISPLAY-Retargeting,2,2,Paid Search,Display,164.97
+28,3,2025-10-29 19:00:00,Email,EMAIL-Reactivation,1,1,Email,Email,132.2
+30,4,2026-06-30 21:32:00,Paid Social,META-Prospecting,1,5,Paid Social,Organic Search,820.52
+30,4,2026-07-01 23:04:00,Paid Search,PS-NonBrand,2,5,Paid Social,Organic Search,820.52
+30,4,2026-07-04 18:09:00,Paid Search,PS-Brand,3,5,Paid Social,Organic Search,820.52
+30,4,2026-07-05 07:14:00,Organic Search,SEO-Content,4,5,Paid Social,Organic Search,820.52
+30,4,2026-07-23 05:20:00,Organic Search,SEO-Product,5,5,Paid Social,Organic Search,820.52
+65,5,2026-03-26 07:12:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Social,80.0
+65,5,2026-03-30 03:57:00,Paid Search,PS-NonBrand,2,4,Paid Social,Paid Social,80.0
+65,5,2026-04-03 17:05:00,Display,DISPLAY-Retargeting,3,4,Paid Social,Paid Social,80.0
+65,5,2026-04-13 09:29:00,Paid Social,META-Retargeting,4,4,Paid Social,Paid Social,80.0
+75,6,2026-06-26 20:26:00,Referral,REF-Partner,1,5,Referral,Paid Search,862.33
+75,6,2026-06-30 20:32:00,Paid Social,META-Prospecting,2,5,Referral,Paid Search,862.33
+75,6,2026-07-03 16:30:00,Paid Social,META-Prospecting,3,5,Referral,Paid Search,862.33
+75,6,2026-07-12 19:51:00,Paid Social,META-Retargeting,4,5,Referral,Paid Search,862.33
+75,6,2026-07-18 22:01:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,862.33
+77,7,2026-03-07 21:17:00,Email,EMAIL-Nurture,1,5,Email,Organic Search,419.15
+77,7,2026-03-08 12:32:00,Email,EMAIL-Nurture,2,5,Email,Organic Search,419.15
+77,7,2026-03-13 02:46:00,Email,EMAIL-Reactivation,3,5,Email,Organic Search,419.15
+77,7,2026-03-14 13:06:00,Organic Search,SEO-Product,4,5,Email,Organic Search,419.15
+77,7,2026-03-22 23:53:00,Organic Search,SEO-Product,5,5,Email,Organic Search,419.15
+79,8,2026-06-02 20:22:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,377.97
+84,9,2026-08-11 02:23:00,Email,EMAIL-Nurture,1,5,Email,Paid Social,205.84
+84,9,2026-08-16 04:24:00,Paid Search,PS-Brand,2,5,Email,Paid Social,205.84
+84,9,2026-08-26 11:13:00,Referral,REF-Customer,3,5,Email,Paid Social,205.84
+84,9,2026-08-30 18:27:00,Referral,REF-Customer,4,5,Email,Paid Social,205.84
+84,9,2026-09-03 11:04:00,Paid Social,META-Retargeting,5,5,Email,Paid Social,205.84
+106,10,2025-12-17 01:20:00,Paid Social,META-Prospecting,1,5,Paid Social,Email,531.1
+106,10,2025-12-31 11:15:00,Display,DISPLAY-Retargeting,2,5,Paid Social,Email,531.1
+106,10,2026-01-01 02:14:00,Paid Search,PS-Brand,3,5,Paid Social,Email,531.1
+106,10,2026-01-04 20:15:00,Organic Search,SEO-Product,4,5,Paid Social,Email,531.1
+106,10,2026-01-14 05:22:00,Email,EMAIL-Nurture,5,5,Paid Social,Email,531.1
+118,11,2026-07-29 04:43:00,Email,EMAIL-Nurture,1,4,Email,Organic Search,288.5
+118,11,2026-07-29 07:15:00,Paid Search,PS-NonBrand,2,4,Email,Organic Search,288.5
+118,11,2026-07-30 19:54:00,Paid Social,META-Retargeting,3,4,Email,Organic Search,288.5
+118,11,2026-08-01 22:08:00,Organic Search,SEO-Product,4,4,Email,Organic Search,288.5
+125,12,2026-04-07 00:50:00,Paid Social,META-Prospecting,1,3,Paid Social,Email,599.68
+125,12,2026-04-08 17:07:00,Paid Search,PS-NonBrand,2,3,Paid Social,Email,599.68
+125,12,2026-04-12 12:47:00,Email,EMAIL-Reactivation,3,3,Paid Social,Email,599.68
+145,13,2025-11-09 14:27:00,Organic Search,SEO-Product,1,5,Organic Search,Paid Search,370.37
+145,13,2025-11-13 12:44:00,Email,EMAIL-Nurture,2,5,Organic Search,Paid Search,370.37
+145,13,2025-11-15 01:49:00,Organic Search,SEO-Content,3,5,Organic Search,Paid Search,370.37
+145,13,2025-11-28 19:13:00,Paid Search,PS-NonBrand,4,5,Organic Search,Paid Search,370.37
+145,13,2025-12-06 02:21:00,Paid Search,PS-NonBrand,5,5,Organic Search,Paid Search,370.37
+149,14,2025-10-29 20:26:00,Email,EMAIL-Nurture,1,5,Email,Organic Search,613.43
+149,14,2025-10-30 06:31:00,Paid Social,META-Retargeting,2,5,Email,Organic Search,613.43
+149,14,2025-10-31 14:23:00,Paid Search,PS-Brand,3,5,Email,Organic Search,613.43
+149,14,2025-11-03 11:45:00,Organic Search,SEO-Product,4,5,Email,Organic Search,613.43
+149,14,2025-11-10 23:33:00,Organic Search,SEO-Product,5,5,Email,Organic Search,613.43
+150,15,2026-08-04 17:45:00,Display,DISPLAY-Prospecting,1,5,Display,Organic Search,399.38
+150,15,2026-08-09 03:23:00,Paid Social,META-Retargeting,2,5,Display,Organic Search,399.38
+150,15,2026-08-10 14:32:00,Paid Search,PS-Brand,3,5,Display,Organic Search,399.38
+150,15,2026-08-21 12:36:00,Referral,REF-Customer,4,5,Display,Organic Search,399.38
+150,15,2026-08-30 06:49:00,Organic Search,SEO-Product,5,5,Display,Organic Search,399.38
+169,16,2026-04-25 18:46:00,Organic Search,SEO-Content,1,5,Organic Search,Referral,820.64
+169,16,2026-04-26 06:57:00,Paid Search,PS-NonBrand,2,5,Organic Search,Referral,820.64
+169,16,2026-04-29 04:15:00,Paid Social,META-Retargeting,3,5,Organic Search,Referral,820.64
+169,16,2026-05-03 17:29:00,Display,DISPLAY-Retargeting,4,5,Organic Search,Referral,820.64
+169,16,2026-05-05 05:00:00,Referral,REF-Customer,5,5,Organic Search,Referral,820.64
+170,17,2026-07-31 20:45:00,Referral,REF-Customer,1,3,Referral,Paid Social,773.56
+170,17,2026-08-12 11:09:00,Paid Social,META-Retargeting,2,3,Referral,Paid Social,773.56
+170,17,2026-08-16 23:49:00,Paid Social,META-Retargeting,3,3,Referral,Paid Social,773.56
+175,18,2026-05-03 07:19:00,Paid Social,META-Retargeting,1,5,Paid Social,Organic Search,243.5
+175,18,2026-05-10 16:03:00,Paid Search,PS-Brand,2,5,Paid Social,Organic Search,243.5
+175,18,2026-05-12 21:54:00,Paid Search,PS-Brand,3,5,Paid Social,Organic Search,243.5
+175,18,2026-05-13 00:03:00,Referral,REF-Customer,4,5,Paid Social,Organic Search,243.5
+175,18,2026-05-19 18:05:00,Organic Search,SEO-Content,5,5,Paid Social,Organic Search,243.5
+178,19,2025-10-27 22:19:00,Referral,REF-Customer,1,4,Referral,Display,716.11
+178,19,2025-10-31 04:19:00,Paid Search,PS-NonBrand,2,4,Referral,Display,716.11
+178,19,2025-11-08 05:48:00,Paid Search,PS-NonBrand,3,4,Referral,Display,716.11
+178,19,2025-11-20 18:00:00,Display,DISPLAY-Retargeting,4,4,Referral,Display,716.11
+184,20,2026-04-22 10:42:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,245.43
+185,21,2025-10-18 21:29:00,Email,EMAIL-Reactivation,1,5,Email,Paid Search,385.12
+185,21,2025-10-24 18:26:00,Referral,REF-Customer,2,5,Email,Paid Search,385.12
+185,21,2025-10-26 17:46:00,Organic Search,SEO-Product,3,5,Email,Paid Search,385.12
+185,21,2025-10-30 08:35:00,Paid Social,META-Retargeting,4,5,Email,Paid Search,385.12
+185,21,2025-11-01 18:07:00,Paid Search,PS-Brand,5,5,Email,Paid Search,385.12
+186,22,2026-06-16 15:50:00,Referral,REF-Customer,1,5,Referral,Display,294.24
+186,22,2026-06-22 21:33:00,Organic Search,SEO-Product,2,5,Referral,Display,294.24
+186,22,2026-07-02 05:29:00,Organic Search,SEO-Product,3,5,Referral,Display,294.24
+186,22,2026-07-02 14:29:00,Referral,REF-Customer,4,5,Referral,Display,294.24
+186,22,2026-07-04 00:24:00,Display,DISPLAY-Retargeting,5,5,Referral,Display,294.24
+197,23,2026-04-02 12:23:00,Paid Social,META-Retargeting,1,3,Paid Social,Organic Search,447.89
+197,23,2026-04-03 18:48:00,Display,DISPLAY-Prospecting,2,3,Paid Social,Organic Search,447.89
+197,23,2026-04-21 11:18:00,Organic Search,SEO-Content,3,3,Paid Social,Organic Search,447.89
+198,24,2026-08-14 23:49:00,Referral,REF-Partner,1,3,Referral,Paid Social,178.91
+198,24,2026-08-17 02:32:00,Paid Social,META-Prospecting,2,3,Referral,Paid Social,178.91
+198,24,2026-08-18 18:51:00,Paid Social,META-Retargeting,3,3,Referral,Paid Social,178.91
+205,25,2025-11-15 19:22:00,Organic Search,SEO-Product,1,4,Organic Search,Display,704.3
+205,25,2025-11-16 11:08:00,Paid Social,META-Retargeting,2,4,Organic Search,Display,704.3
+205,25,2025-12-01 11:39:00,Referral,REF-Customer,3,4,Organic Search,Display,704.3
+205,25,2025-12-10 23:47:00,Display,DISPLAY-Prospecting,4,4,Organic Search,Display,704.3
+212,26,2026-06-16 19:24:00,Organic Search,SEO-Product,1,4,Organic Search,Email,407.51
+212,26,2026-06-18 17:07:00,Paid Social,META-Retargeting,2,4,Organic Search,Email,407.51
+212,26,2026-06-25 22:46:00,Paid Search,PS-NonBrand,3,4,Organic Search,Email,407.51
+212,26,2026-07-12 23:40:00,Email,EMAIL-Nurture,4,4,Organic Search,Email,407.51
+218,27,2026-05-02 05:26:00,Organic Search,SEO-Product,1,2,Organic Search,Display,482.72
+218,27,2026-05-06 23:59:00,Display,DISPLAY-Prospecting,2,2,Organic Search,Display,482.72
+233,28,2026-01-13 09:54:00,Paid Search,PS-Brand,1,5,Paid Search,Organic Search,314.66
+233,28,2026-01-21 05:47:00,Paid Social,META-Retargeting,2,5,Paid Search,Organic Search,314.66
+233,28,2026-01-26 06:24:00,Email,EMAIL-Nurture,3,5,Paid Search,Organic Search,314.66
+233,28,2026-01-31 15:12:00,Paid Social,META-Prospecting,4,5,Paid Search,Organic Search,314.66
+233,28,2026-02-01 02:19:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,314.66
+235,29,2026-01-04 07:32:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,755.01
+238,30,2025-12-19 03:43:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,905.69
+241,31,2025-10-15 06:17:00,Email,EMAIL-Reactivation,1,4,Email,Paid Social,470.21
+241,31,2025-10-22 18:40:00,Email,EMAIL-Reactivation,2,4,Email,Paid Social,470.21
+241,31,2025-10-28 19:05:00,Paid Social,META-Prospecting,3,4,Email,Paid Social,470.21
+241,31,2025-11-03 06:50:00,Paid Social,META-Retargeting,4,4,Email,Paid Social,470.21
+250,32,2026-07-12 23:13:00,Email,EMAIL-Reactivation,1,1,Email,Email,371.11
+257,33,2025-11-17 00:39:00,Referral,REF-Customer,1,3,Referral,Email,488.94
+257,33,2025-11-20 15:00:00,Paid Search,PS-NonBrand,2,3,Referral,Email,488.94
+257,33,2025-12-02 05:01:00,Email,EMAIL-Nurture,3,3,Referral,Email,488.94
+261,34,2025-10-06 08:08:00,Paid Search,PS-Brand,1,5,Paid Search,Organic Search,470.58
+261,34,2025-10-08 01:19:00,Display,DISPLAY-Retargeting,2,5,Paid Search,Organic Search,470.58
+261,34,2025-10-11 03:24:00,Paid Search,PS-NonBrand,3,5,Paid Search,Organic Search,470.58
+261,34,2025-10-15 08:20:00,Paid Social,META-Retargeting,4,5,Paid Search,Organic Search,470.58
+261,34,2025-10-28 22:12:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,470.58
+267,35,2025-10-18 04:13:00,Email,EMAIL-Reactivation,1,3,Email,Referral,820.2
+267,35,2025-10-27 16:29:00,Organic Search,SEO-Product,2,3,Email,Referral,820.2
+267,35,2025-11-06 23:30:00,Referral,REF-Partner,3,3,Email,Referral,820.2
+284,36,2026-07-25 08:56:00,Referral,REF-Customer,1,1,Referral,Referral,591.28
+314,37,2026-03-05 23:54:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Social,258.42
+314,37,2026-03-16 10:03:00,Display,DISPLAY-Prospecting,2,3,Organic Search,Paid Social,258.42
+314,37,2026-03-19 23:32:00,Paid Social,META-Prospecting,3,3,Organic Search,Paid Social,258.42
+315,38,2026-03-16 09:29:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,240.89
+317,39,2026-07-03 04:34:00,Paid Social,META-Prospecting,1,3,Paid Social,Organic Search,868.52
+317,39,2026-07-06 08:45:00,Paid Social,META-Retargeting,2,3,Paid Social,Organic Search,868.52
+317,39,2026-07-11 08:11:00,Organic Search,SEO-Product,3,3,Paid Social,Organic Search,868.52
+321,40,2026-02-22 20:10:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Search,683.56
+321,40,2026-02-24 06:58:00,Paid Search,PS-NonBrand,2,3,Paid Search,Paid Search,683.56
+321,40,2026-03-09 19:18:00,Paid Search,PS-Brand,3,3,Paid Search,Paid Search,683.56
+339,41,2026-06-27 07:38:00,Paid Search,PS-NonBrand,1,4,Paid Search,Referral,909.67
+339,41,2026-06-28 09:20:00,Email,EMAIL-Nurture,2,4,Paid Search,Referral,909.67
+339,41,2026-06-29 04:41:00,Referral,REF-Partner,3,4,Paid Search,Referral,909.67
+339,41,2026-07-01 01:43:00,Referral,REF-Customer,4,4,Paid Search,Referral,909.67
+349,42,2026-04-07 11:46:00,Email,EMAIL-Nurture,1,1,Email,Email,381.15
+350,43,2026-08-28 03:30:00,Paid Search,PS-NonBrand,1,5,Paid Search,Email,355.18
+350,43,2026-09-05 10:03:00,Paid Search,PS-Brand,2,5,Paid Search,Email,355.18
+350,43,2026-09-17 19:52:00,Email,EMAIL-Nurture,3,5,Paid Search,Email,355.18
+350,43,2026-09-18 06:55:00,Display,DISPLAY-Retargeting,4,5,Paid Search,Email,355.18
+350,43,2026-09-23 00:58:00,Email,EMAIL-Nurture,5,5,Paid Search,Email,355.18
+354,44,2025-12-29 10:20:00,Display,DISPLAY-Retargeting,1,1,Display,Display,336.79
+360,45,2026-05-10 11:01:00,Display,DISPLAY-Prospecting,1,4,Display,Paid Search,213.74
+360,45,2026-05-27 19:52:00,Paid Social,META-Retargeting,2,4,Display,Paid Search,213.74
+360,45,2026-06-01 20:31:00,Organic Search,SEO-Content,3,4,Display,Paid Search,213.74
+360,45,2026-06-05 23:55:00,Paid Search,PS-NonBrand,4,4,Display,Paid Search,213.74
+361,46,2026-01-09 11:07:00,Organic Search,SEO-Product,1,5,Organic Search,Referral,520.12
+361,46,2026-01-12 20:03:00,Paid Social,META-Prospecting,2,5,Organic Search,Referral,520.12
+361,46,2026-01-24 15:30:00,Referral,REF-Customer,3,5,Organic Search,Referral,520.12
+361,46,2026-01-25 17:31:00,Display,DISPLAY-Retargeting,4,5,Organic Search,Referral,520.12
+361,46,2026-01-26 23:40:00,Referral,REF-Partner,5,5,Organic Search,Referral,520.12
+364,47,2026-02-13 17:50:00,Email,EMAIL-Reactivation,1,4,Email,Referral,368.11
+364,47,2026-02-16 03:07:00,Paid Social,META-Retargeting,2,4,Email,Referral,368.11
+364,47,2026-02-24 01:20:00,Paid Search,PS-NonBrand,3,4,Email,Referral,368.11
+364,47,2026-03-12 07:02:00,Referral,REF-Customer,4,4,Email,Referral,368.11
+369,48,2025-11-15 13:59:00,Organic Search,SEO-Content,1,3,Organic Search,Display,416.31
+369,48,2025-11-16 02:50:00,Email,EMAIL-Nurture,2,3,Organic Search,Display,416.31
+369,48,2025-12-07 03:08:00,Display,DISPLAY-Retargeting,3,3,Organic Search,Display,416.31
+387,49,2026-07-20 20:59:00,Referral,REF-Customer,1,5,Referral,Paid Social,203.6
+387,49,2026-07-25 09:08:00,Organic Search,SEO-Product,2,5,Referral,Paid Social,203.6
+387,49,2026-08-04 21:26:00,Paid Social,META-Retargeting,3,5,Referral,Paid Social,203.6
+387,49,2026-08-05 04:23:00,Referral,REF-Partner,4,5,Referral,Paid Social,203.6
+387,49,2026-08-12 10:59:00,Paid Social,META-Prospecting,5,5,Referral,Paid Social,203.6
+389,50,2026-01-30 14:57:00,Email,EMAIL-Reactivation,1,2,Email,Paid Social,450.3
+389,50,2026-02-02 01:11:00,Paid Social,META-Retargeting,2,2,Email,Paid Social,450.3
+391,51,2026-02-24 00:53:00,Paid Search,PS-Brand,1,4,Paid Search,Referral,154.21
+391,51,2026-03-03 01:11:00,Email,EMAIL-Nurture,2,4,Paid Search,Referral,154.21
+391,51,2026-03-13 22:16:00,Paid Search,PS-Brand,3,4,Paid Search,Referral,154.21
+391,51,2026-03-17 09:20:00,Referral,REF-Partner,4,4,Paid Search,Referral,154.21
+395,52,2026-09-03 00:58:00,Referral,REF-Customer,1,2,Referral,Referral,825.45
+395,52,2026-09-24 15:38:00,Referral,REF-Partner,2,2,Referral,Referral,825.45
+423,53,2026-03-27 04:21:00,Email,EMAIL-Reactivation,1,2,Email,Paid Search,644.72
+423,53,2026-04-16 14:39:00,Paid Search,PS-Brand,2,2,Email,Paid Search,644.72
+430,54,2026-07-09 18:02:00,Referral,REF-Partner,1,5,Referral,Email,211.09
+430,54,2026-07-15 02:22:00,Organic Search,SEO-Product,2,5,Referral,Email,211.09
+430,54,2026-07-21 12:48:00,Email,EMAIL-Nurture,3,5,Referral,Email,211.09
+430,54,2026-07-27 19:31:00,Organic Search,SEO-Content,4,5,Referral,Email,211.09
+430,54,2026-08-04 21:28:00,Email,EMAIL-Reactivation,5,5,Referral,Email,211.09
+442,55,2026-04-13 16:57:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,999.86
+442,55,2026-04-20 17:46:00,Email,EMAIL-Reactivation,2,4,Paid Social,Paid Search,999.86
+442,55,2026-04-24 08:07:00,Email,EMAIL-Nurture,3,4,Paid Social,Paid Search,999.86
+442,55,2026-05-05 05:31:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,999.86
+452,56,2025-11-11 08:02:00,Referral,REF-Partner,1,5,Referral,Email,411.37
+452,56,2025-11-15 08:45:00,Referral,REF-Customer,2,5,Referral,Email,411.37
+452,56,2025-11-19 04:38:00,Organic Search,SEO-Product,3,5,Referral,Email,411.37
+452,56,2025-12-06 18:29:00,Organic Search,SEO-Product,4,5,Referral,Email,411.37
+452,56,2025-12-08 23:18:00,Email,EMAIL-Reactivation,5,5,Referral,Email,411.37
+453,57,2025-12-17 05:48:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,275.76
+453,57,2025-12-18 19:29:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,275.76
+456,58,2025-12-10 00:45:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Social,326.52
+456,58,2025-12-10 16:39:00,Display,DISPLAY-Retargeting,2,4,Paid Social,Paid Social,326.52
+456,58,2025-12-25 16:49:00,Paid Search,PS-NonBrand,3,4,Paid Social,Paid Social,326.52
+456,58,2025-12-30 23:03:00,Paid Social,META-Prospecting,4,4,Paid Social,Paid Social,326.52
+458,59,2025-12-12 09:18:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,243.87
+461,60,2026-08-03 09:08:00,Paid Search,PS-NonBrand,1,2,Paid Search,Email,530.18
+461,60,2026-08-09 20:48:00,Email,EMAIL-Nurture,2,2,Paid Search,Email,530.18
+466,61,2026-03-08 10:21:00,Email,EMAIL-Reactivation,1,3,Email,Paid Search,403.42
+466,61,2026-03-16 17:35:00,Email,EMAIL-Nurture,2,3,Email,Paid Search,403.42
+466,61,2026-03-20 03:15:00,Paid Search,PS-Brand,3,3,Email,Paid Search,403.42
+467,62,2026-04-03 16:19:00,Paid Search,PS-Brand,1,3,Paid Search,Referral,676.95
+467,62,2026-04-13 04:35:00,Email,EMAIL-Nurture,2,3,Paid Search,Referral,676.95
+467,62,2026-04-21 00:24:00,Referral,REF-Customer,3,3,Paid Search,Referral,676.95
+479,63,2026-08-16 08:40:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,316.48
+481,64,2026-08-31 20:40:00,Referral,REF-Customer,1,5,Referral,Paid Search,418.79
+481,64,2026-09-03 04:46:00,Paid Social,META-Retargeting,2,5,Referral,Paid Search,418.79
+481,64,2026-09-11 15:51:00,Paid Search,PS-NonBrand,3,5,Referral,Paid Search,418.79
+481,64,2026-09-15 04:43:00,Organic Search,SEO-Content,4,5,Referral,Paid Search,418.79
+481,64,2026-09-15 04:52:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,418.79
+495,65,2026-07-08 00:41:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Search,416.02
+495,65,2026-07-30 16:18:00,Paid Search,PS-Brand,2,3,Paid Search,Paid Search,416.02
+495,65,2026-08-01 02:16:00,Paid Search,PS-NonBrand,3,3,Paid Search,Paid Search,416.02
+496,66,2026-09-09 04:43:00,Paid Social,META-Prospecting,1,4,Paid Social,Referral,767.87
+496,66,2026-09-10 17:25:00,Email,EMAIL-Reactivation,2,4,Paid Social,Referral,767.87
+496,66,2026-09-13 22:30:00,Organic Search,SEO-Content,3,4,Paid Social,Referral,767.87
+496,66,2026-09-16 19:42:00,Referral,REF-Customer,4,4,Paid Social,Referral,767.87
+506,67,2025-10-10 14:31:00,Referral,REF-Partner,1,4,Referral,Referral,602.53
+506,67,2025-10-11 00:15:00,Paid Search,PS-NonBrand,2,4,Referral,Referral,602.53
+506,67,2025-10-17 20:30:00,Organic Search,SEO-Product,3,4,Referral,Referral,602.53
+506,67,2025-10-21 23:42:00,Referral,REF-Customer,4,4,Referral,Referral,602.53
+516,68,2026-07-28 14:34:00,Paid Search,PS-NonBrand,1,4,Paid Search,Display,321.33
+516,68,2026-07-28 14:57:00,Email,EMAIL-Reactivation,2,4,Paid Search,Display,321.33
+516,68,2026-08-03 23:14:00,Paid Search,PS-NonBrand,3,4,Paid Search,Display,321.33
+516,68,2026-08-07 08:56:00,Display,DISPLAY-Retargeting,4,4,Paid Search,Display,321.33
+522,69,2025-10-25 12:46:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Search,570.14
+522,69,2025-11-04 14:59:00,Paid Search,PS-Brand,2,2,Paid Social,Paid Search,570.14
+530,70,2026-05-16 08:42:00,Display,DISPLAY-Retargeting,1,2,Display,Paid Search,403.52
+530,70,2026-05-19 18:40:00,Paid Search,PS-Brand,2,2,Display,Paid Search,403.52
+531,71,2026-03-11 23:01:00,Paid Social,META-Prospecting,1,2,Paid Social,Organic Search,697.99
+531,71,2026-03-14 05:19:00,Organic Search,SEO-Content,2,2,Paid Social,Organic Search,697.99
+533,72,2026-06-05 11:08:00,Paid Social,META-Retargeting,1,5,Paid Social,Email,634.24
+533,72,2026-06-08 06:43:00,Paid Search,PS-Brand,2,5,Paid Social,Email,634.24
+533,72,2026-06-10 01:58:00,Paid Social,META-Retargeting,3,5,Paid Social,Email,634.24
+533,72,2026-06-16 23:27:00,Referral,REF-Customer,4,5,Paid Social,Email,634.24
+533,72,2026-06-18 10:20:00,Email,EMAIL-Reactivation,5,5,Paid Social,Email,634.24
+535,73,2026-07-20 23:56:00,Email,EMAIL-Nurture,1,1,Email,Email,554.7
+539,74,2026-07-06 03:51:00,Paid Social,META-Prospecting,1,2,Paid Social,Email,213.58
+539,74,2026-07-12 15:48:00,Email,EMAIL-Nurture,2,2,Paid Social,Email,213.58
+540,75,2026-01-20 18:18:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,539.84
+540,75,2026-01-23 21:30:00,Paid Search,PS-Brand,2,4,Organic Search,Paid Search,539.84
+540,75,2026-01-30 16:25:00,Paid Social,META-Retargeting,3,4,Organic Search,Paid Search,539.84
+540,75,2026-01-31 15:11:00,Paid Search,PS-Brand,4,4,Organic Search,Paid Search,539.84
+552,76,2026-04-07 01:00:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Search,339.83
+552,76,2026-04-15 03:13:00,Paid Search,PS-Brand,2,2,Organic Search,Paid Search,339.83
+557,77,2026-09-02 02:33:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,497.12
+557,77,2026-09-02 14:53:00,Email,EMAIL-Reactivation,2,4,Organic Search,Paid Search,497.12
+557,77,2026-09-05 10:01:00,Paid Social,META-Retargeting,3,4,Organic Search,Paid Search,497.12
+557,77,2026-09-08 16:27:00,Paid Search,PS-Brand,4,4,Organic Search,Paid Search,497.12
+564,78,2026-08-08 14:57:00,Referral,REF-Customer,1,3,Referral,Paid Social,312.76
+564,78,2026-08-09 22:39:00,Email,EMAIL-Nurture,2,3,Referral,Paid Social,312.76
+564,78,2026-08-28 09:18:00,Paid Social,META-Retargeting,3,3,Referral,Paid Social,312.76
+572,79,2026-08-02 11:07:00,Referral,REF-Partner,1,5,Referral,Paid Search,225.28
+572,79,2026-08-04 17:30:00,Email,EMAIL-Nurture,2,5,Referral,Paid Search,225.28
+572,79,2026-08-13 17:57:00,Referral,REF-Customer,3,5,Referral,Paid Search,225.28
+572,79,2026-08-19 13:19:00,Paid Social,META-Prospecting,4,5,Referral,Paid Search,225.28
+572,79,2026-08-21 18:31:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,225.28
+584,80,2026-07-16 10:42:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,295.39
+588,81,2026-01-19 12:02:00,Referral,REF-Customer,1,4,Referral,Paid Search,387.11
+588,81,2026-01-21 21:59:00,Paid Search,PS-NonBrand,2,4,Referral,Paid Search,387.11
+588,81,2026-01-30 22:03:00,Email,EMAIL-Nurture,3,4,Referral,Paid Search,387.11
+588,81,2026-02-16 09:09:00,Paid Search,PS-Brand,4,4,Referral,Paid Search,387.11
+595,82,2026-01-17 08:19:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,518.01
+600,83,2026-01-12 00:57:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Social,204.02
+600,83,2026-01-18 11:24:00,Organic Search,SEO-Content,2,3,Paid Search,Paid Social,204.02
+600,83,2026-02-10 05:45:00,Paid Social,META-Prospecting,3,3,Paid Search,Paid Social,204.02
+629,84,2025-11-25 23:16:00,Referral,REF-Customer,1,2,Referral,Organic Search,1133.07
+629,84,2025-12-13 03:04:00,Organic Search,SEO-Product,2,2,Referral,Organic Search,1133.07
+638,85,2026-04-19 11:53:00,Paid Search,PS-Brand,1,2,Paid Search,Referral,576.99
+638,85,2026-05-06 04:03:00,Referral,REF-Customer,2,2,Paid Search,Referral,576.99
+639,86,2026-08-08 20:11:00,Referral,REF-Partner,1,2,Referral,Paid Social,296.62
+639,86,2026-08-19 03:56:00,Paid Social,META-Retargeting,2,2,Referral,Paid Social,296.62
+646,87,2026-04-24 02:37:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,464.12
+648,88,2026-09-11 16:56:00,Referral,REF-Customer,1,1,Referral,Referral,791.43
+654,89,2025-11-28 16:08:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Search,402.72
+654,89,2025-12-05 16:21:00,Display,DISPLAY-Prospecting,2,4,Paid Search,Paid Search,402.72
+654,89,2025-12-09 08:39:00,Organic Search,SEO-Product,3,4,Paid Search,Paid Search,402.72
+654,89,2025-12-22 21:09:00,Paid Search,PS-Brand,4,4,Paid Search,Paid Search,402.72
+657,90,2026-05-22 16:25:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Social,545.1
+657,90,2026-05-22 21:23:00,Organic Search,SEO-Content,2,4,Paid Search,Paid Social,545.1
+657,90,2026-05-29 07:15:00,Paid Social,META-Retargeting,3,4,Paid Search,Paid Social,545.1
+657,90,2026-06-08 08:36:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,545.1
+672,91,2025-12-27 13:14:00,Paid Social,META-Prospecting,1,2,Paid Social,Organic Search,167.22
+672,91,2026-01-19 05:47:00,Organic Search,SEO-Content,2,2,Paid Social,Organic Search,167.22
+678,92,2026-05-07 06:17:00,Paid Search,PS-Brand,1,3,Paid Search,Organic Search,367.43
+678,92,2026-05-10 06:51:00,Organic Search,SEO-Content,2,3,Paid Search,Organic Search,367.43
+678,92,2026-05-31 04:25:00,Organic Search,SEO-Content,3,3,Paid Search,Organic Search,367.43
+679,93,2026-04-03 06:53:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,453.31
+679,93,2026-04-05 22:47:00,Email,EMAIL-Nurture,2,3,Paid Search,Paid Social,453.31
+679,93,2026-04-22 07:05:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,453.31
+701,94,2026-09-13 07:48:00,Email,EMAIL-Nurture,1,1,Email,Email,454.6
+705,95,2025-10-29 16:36:00,Paid Social,META-Retargeting,1,5,Paid Social,Email,229.6
+705,95,2025-11-04 17:46:00,Display,DISPLAY-Retargeting,2,5,Paid Social,Email,229.6
+705,95,2025-11-15 01:15:00,Referral,REF-Customer,3,5,Paid Social,Email,229.6
+705,95,2025-11-19 11:46:00,Paid Search,PS-NonBrand,4,5,Paid Social,Email,229.6
+705,95,2025-11-20 23:14:00,Email,EMAIL-Nurture,5,5,Paid Social,Email,229.6
+713,96,2026-07-05 01:16:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Social,436.77
+713,96,2026-07-20 11:13:00,Paid Social,META-Retargeting,2,2,Paid Social,Paid Social,436.77
+715,97,2026-06-24 23:30:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,241.37
+724,98,2025-12-16 15:34:00,Paid Search,PS-NonBrand,1,2,Paid Search,Organic Search,405.27
+724,98,2025-12-18 19:29:00,Organic Search,SEO-Content,2,2,Paid Search,Organic Search,405.27
+742,99,2026-06-02 08:45:00,Paid Social,META-Retargeting,1,3,Paid Social,Display,457.89
+742,99,2026-06-03 04:56:00,Paid Search,PS-Brand,2,3,Paid Social,Display,457.89
+742,99,2026-06-16 17:44:00,Display,DISPLAY-Retargeting,3,3,Paid Social,Display,457.89
+745,100,2026-08-04 11:23:00,Paid Social,META-Retargeting,1,5,Paid Social,Referral,259.43
+745,100,2026-08-09 09:46:00,Email,EMAIL-Nurture,2,5,Paid Social,Referral,259.43
+745,100,2026-08-18 09:10:00,Display,DISPLAY-Retargeting,3,5,Paid Social,Referral,259.43
+745,100,2026-08-18 17:31:00,Paid Social,META-Retargeting,4,5,Paid Social,Referral,259.43
+745,100,2026-08-23 12:35:00,Referral,REF-Customer,5,5,Paid Social,Referral,259.43
+747,101,2026-06-03 21:37:00,Referral,REF-Partner,1,4,Referral,Paid Social,198.37
+747,101,2026-06-04 02:16:00,Referral,REF-Partner,2,4,Referral,Paid Social,198.37
+747,101,2026-06-13 15:28:00,Paid Social,META-Prospecting,3,4,Referral,Paid Social,198.37
+747,101,2026-06-14 09:32:00,Paid Social,META-Retargeting,4,4,Referral,Paid Social,198.37
+753,102,2026-07-25 08:18:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,508.49
+755,103,2025-11-13 13:16:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,326.78
+774,104,2026-01-06 19:38:00,Organic Search,SEO-Product,1,5,Organic Search,Email,913.37
+774,104,2026-01-07 00:14:00,Paid Search,PS-NonBrand,2,5,Organic Search,Email,913.37
+774,104,2026-01-20 15:57:00,Paid Social,META-Prospecting,3,5,Organic Search,Email,913.37
+774,104,2026-01-25 18:22:00,Referral,REF-Partner,4,5,Organic Search,Email,913.37
+774,104,2026-01-27 00:17:00,Email,EMAIL-Reactivation,5,5,Organic Search,Email,913.37
+798,105,2026-06-15 16:00:00,Organic Search,SEO-Product,1,5,Organic Search,Paid Social,330.04
+798,105,2026-06-23 18:07:00,Organic Search,SEO-Content,2,5,Organic Search,Paid Social,330.04
+798,105,2026-07-02 21:55:00,Organic Search,SEO-Product,3,5,Organic Search,Paid Social,330.04
+798,105,2026-07-07 02:42:00,Organic Search,SEO-Content,4,5,Organic Search,Paid Social,330.04
+798,105,2026-07-07 18:35:00,Paid Social,META-Retargeting,5,5,Organic Search,Paid Social,330.04
+810,106,2025-11-22 14:18:00,Referral,REF-Customer,1,4,Referral,Organic Search,1202.37
+810,106,2025-11-27 14:54:00,Paid Search,PS-NonBrand,2,4,Referral,Organic Search,1202.37
+810,106,2025-12-12 16:10:00,Paid Social,META-Retargeting,3,4,Referral,Organic Search,1202.37
+810,106,2025-12-12 20:45:00,Organic Search,SEO-Content,4,4,Referral,Organic Search,1202.37
+811,107,2026-07-08 06:55:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Social,677.03
+811,107,2026-07-13 22:10:00,Paid Search,PS-Brand,2,3,Paid Search,Paid Social,677.03
+811,107,2026-07-14 03:30:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,677.03
+820,108,2026-07-18 19:46:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Search,137.59
+820,108,2026-07-28 12:34:00,Paid Search,PS-NonBrand,2,2,Organic Search,Paid Search,137.59
+823,109,2025-11-19 01:12:00,Referral,REF-Customer,1,1,Referral,Referral,330.39
+824,110,2026-04-18 01:00:00,Display,DISPLAY-Retargeting,1,1,Display,Display,377.47
+826,111,2026-04-20 23:52:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,531.46
+826,111,2026-04-23 23:52:00,Display,DISPLAY-Retargeting,2,3,Paid Search,Paid Social,531.46
+826,111,2026-05-11 18:37:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,531.46
+827,112,2026-01-27 17:32:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Social,823.06
+827,112,2026-01-30 22:12:00,Paid Social,META-Retargeting,2,5,Paid Search,Paid Social,823.06
+827,112,2026-02-01 14:45:00,Referral,REF-Partner,3,5,Paid Search,Paid Social,823.06
+827,112,2026-02-11 06:03:00,Paid Search,PS-Brand,4,5,Paid Search,Paid Social,823.06
+827,112,2026-02-19 15:39:00,Paid Social,META-Retargeting,5,5,Paid Search,Paid Social,823.06
+836,113,2026-04-04 12:32:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Social,301.07
+836,113,2026-04-12 02:16:00,Paid Search,PS-NonBrand,2,4,Organic Search,Paid Social,301.07
+836,113,2026-04-13 21:23:00,Paid Search,PS-Brand,3,4,Organic Search,Paid Social,301.07
+836,113,2026-04-27 23:54:00,Paid Social,META-Retargeting,4,4,Organic Search,Paid Social,301.07
+846,114,2026-07-15 04:20:00,Referral,REF-Partner,1,3,Referral,Referral,570.32
+846,114,2026-07-29 12:28:00,Paid Search,PS-Brand,2,3,Referral,Referral,570.32
+846,114,2026-08-01 04:09:00,Referral,REF-Customer,3,3,Referral,Referral,570.32
+858,115,2026-07-06 11:14:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,858.44
+862,116,2026-07-09 14:26:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Search,512.67
+862,116,2026-07-21 13:21:00,Paid Social,META-Retargeting,2,3,Paid Search,Paid Search,512.67
+862,116,2026-07-25 15:30:00,Paid Search,PS-NonBrand,3,3,Paid Search,Paid Search,512.67
+868,117,2026-05-06 02:34:00,Paid Search,PS-Brand,1,2,Paid Search,Display,488.98
+868,117,2026-05-12 11:01:00,Display,DISPLAY-Retargeting,2,2,Paid Search,Display,488.98
+882,118,2026-06-05 02:59:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Social,596.07
+882,118,2026-06-20 07:03:00,Paid Social,META-Prospecting,2,2,Paid Social,Paid Social,596.07
+895,119,2025-12-30 00:50:00,Paid Search,PS-NonBrand,1,4,Paid Search,Organic Search,204.4
+895,119,2025-12-31 01:57:00,Paid Search,PS-NonBrand,2,4,Paid Search,Organic Search,204.4
+895,119,2026-01-09 02:37:00,Paid Social,META-Retargeting,3,4,Paid Search,Organic Search,204.4
+895,119,2026-01-12 19:22:00,Organic Search,SEO-Content,4,4,Paid Search,Organic Search,204.4
+896,120,2026-04-20 06:53:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,542.89
+913,121,2026-07-05 03:14:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,421.94
+913,121,2026-07-06 10:24:00,Paid Search,PS-Brand,2,5,Paid Search,Organic Search,421.94
+913,121,2026-07-09 10:48:00,Organic Search,SEO-Content,3,5,Paid Search,Organic Search,421.94
+913,121,2026-07-12 16:30:00,Display,DISPLAY-Retargeting,4,5,Paid Search,Organic Search,421.94
+913,121,2026-07-25 03:57:00,Organic Search,SEO-Product,5,5,Paid Search,Organic Search,421.94
+914,122,2026-02-20 15:21:00,Paid Social,META-Retargeting,1,3,Paid Social,Paid Social,474.26
+914,122,2026-03-08 02:44:00,Organic Search,SEO-Content,2,3,Paid Social,Paid Social,474.26
+914,122,2026-03-19 22:13:00,Paid Social,META-Retargeting,3,3,Paid Social,Paid Social,474.26
+922,123,2026-02-04 19:55:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Search,863.63
+922,123,2026-02-10 17:22:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,863.63
+923,124,2026-04-12 06:30:00,Email,EMAIL-Reactivation,1,2,Email,Paid Search,447.85
+923,124,2026-04-21 16:43:00,Paid Search,PS-NonBrand,2,2,Email,Paid Search,447.85
+946,125,2026-01-03 19:37:00,Display,DISPLAY-Retargeting,1,2,Display,Paid Search,270.4
+946,125,2026-01-20 20:49:00,Paid Search,PS-NonBrand,2,2,Display,Paid Search,270.4
+947,126,2026-08-05 13:05:00,Organic Search,SEO-Content,1,2,Organic Search,Paid Search,191.84
+947,126,2026-08-17 17:17:00,Paid Search,PS-NonBrand,2,2,Organic Search,Paid Search,191.84
+953,127,2026-01-25 07:51:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,660.67
+953,127,2026-02-05 17:31:00,Paid Social,META-Retargeting,2,2,Paid Search,Paid Social,660.67
+985,128,2026-09-01 08:23:00,Paid Social,META-Retargeting,1,5,Paid Social,Paid Search,506.14
+985,128,2026-09-03 18:22:00,Paid Social,META-Retargeting,2,5,Paid Social,Paid Search,506.14
+985,128,2026-09-09 10:37:00,Paid Social,META-Retargeting,3,5,Paid Social,Paid Search,506.14
+985,128,2026-09-10 09:55:00,Organic Search,SEO-Content,4,5,Paid Social,Paid Search,506.14
+985,128,2026-09-17 06:42:00,Paid Search,PS-Brand,5,5,Paid Social,Paid Search,506.14
+1004,129,2025-11-14 04:23:00,Organic Search,SEO-Content,1,5,Organic Search,Paid Search,265.17
+1004,129,2025-11-14 10:40:00,Paid Social,META-Retargeting,2,5,Organic Search,Paid Search,265.17
+1004,129,2025-11-28 23:28:00,Referral,REF-Partner,3,5,Organic Search,Paid Search,265.17
+1004,129,2025-12-05 04:20:00,Paid Social,META-Retargeting,4,5,Organic Search,Paid Search,265.17
+1004,129,2025-12-07 23:01:00,Paid Search,PS-Brand,5,5,Organic Search,Paid Search,265.17
+1030,130,2026-05-27 04:38:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,164.56
+1030,130,2026-06-01 03:31:00,Paid Social,META-Prospecting,2,4,Paid Social,Paid Search,164.56
+1030,130,2026-06-05 18:36:00,Display,DISPLAY-Retargeting,3,4,Paid Social,Paid Search,164.56
+1030,130,2026-06-14 23:25:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,164.56
+1040,131,2026-03-19 08:55:00,Display,DISPLAY-Prospecting,1,2,Display,Email,477.16
+1040,131,2026-04-05 22:55:00,Email,EMAIL-Reactivation,2,2,Display,Email,477.16
+1041,132,2026-02-08 06:40:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,361.95
+1049,133,2026-01-26 00:25:00,Organic Search,SEO-Product,1,4,Organic Search,Referral,215.26
+1049,133,2026-01-29 12:45:00,Display,DISPLAY-Retargeting,2,4,Organic Search,Referral,215.26
+1049,133,2026-02-05 10:18:00,Paid Search,PS-NonBrand,3,4,Organic Search,Referral,215.26
+1049,133,2026-02-21 05:44:00,Referral,REF-Customer,4,4,Organic Search,Referral,215.26
+1052,134,2025-12-28 16:10:00,Display,DISPLAY-Prospecting,1,2,Display,Paid Search,364.67
+1052,134,2026-01-04 04:43:00,Paid Search,PS-Brand,2,2,Display,Paid Search,364.67
+1058,135,2025-10-14 09:47:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Social,253.29
+1058,135,2025-10-18 08:40:00,Paid Search,PS-NonBrand,2,4,Paid Social,Paid Social,253.29
+1058,135,2025-10-26 22:52:00,Paid Search,PS-Brand,3,4,Paid Social,Paid Social,253.29
+1058,135,2025-10-28 20:38:00,Paid Social,META-Retargeting,4,4,Paid Social,Paid Social,253.29
+1061,136,2026-01-12 21:42:00,Email,EMAIL-Nurture,1,1,Email,Email,509.71
+1063,137,2025-12-08 14:36:00,Referral,REF-Partner,1,2,Referral,Organic Search,566.76
+1063,137,2025-12-11 15:23:00,Organic Search,SEO-Content,2,2,Referral,Organic Search,566.76
+1070,138,2026-07-04 06:29:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,700.07
+1070,138,2026-07-10 22:43:00,Paid Social,META-Retargeting,2,5,Paid Search,Organic Search,700.07
+1070,138,2026-07-15 14:19:00,Paid Search,PS-NonBrand,3,5,Paid Search,Organic Search,700.07
+1070,138,2026-07-16 09:10:00,Paid Social,META-Retargeting,4,5,Paid Search,Organic Search,700.07
+1070,138,2026-07-29 10:04:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,700.07
+1072,139,2026-01-21 10:10:00,Email,EMAIL-Reactivation,1,4,Email,Organic Search,619.19
+1072,139,2026-02-01 20:39:00,Paid Social,META-Retargeting,2,4,Email,Organic Search,619.19
+1072,139,2026-02-11 21:55:00,Organic Search,SEO-Content,3,4,Email,Organic Search,619.19
+1072,139,2026-02-12 23:57:00,Organic Search,SEO-Product,4,4,Email,Organic Search,619.19
+1076,140,2026-08-16 14:35:00,Paid Search,PS-Brand,1,5,Paid Search,Display,304.85
+1076,140,2026-08-22 11:16:00,Paid Search,PS-NonBrand,2,5,Paid Search,Display,304.85
+1076,140,2026-08-25 06:36:00,Organic Search,SEO-Content,3,5,Paid Search,Display,304.85
+1076,140,2026-08-26 20:55:00,Email,EMAIL-Reactivation,4,5,Paid Search,Display,304.85
+1076,140,2026-09-06 06:42:00,Display,DISPLAY-Prospecting,5,5,Paid Search,Display,304.85
+1085,141,2026-01-11 21:57:00,Email,EMAIL-Reactivation,1,2,Email,Paid Search,632.8
+1085,141,2026-01-12 01:09:00,Paid Search,PS-Brand,2,2,Email,Paid Search,632.8
+1089,142,2026-03-23 12:07:00,Referral,REF-Partner,1,2,Referral,Organic Search,334.29
+1089,142,2026-03-24 22:48:00,Organic Search,SEO-Content,2,2,Referral,Organic Search,334.29
+1090,143,2026-05-20 17:00:00,Paid Search,PS-Brand,1,3,Paid Search,Organic Search,485.12
+1090,143,2026-05-25 15:04:00,Organic Search,SEO-Content,2,3,Paid Search,Organic Search,485.12
+1090,143,2026-05-26 10:27:00,Organic Search,SEO-Content,3,3,Paid Search,Organic Search,485.12
+1110,144,2026-08-14 11:38:00,Email,EMAIL-Nurture,1,4,Email,Referral,231.47
+1110,144,2026-08-23 04:47:00,Paid Search,PS-Brand,2,4,Email,Referral,231.47
+1110,144,2026-08-28 14:20:00,Email,EMAIL-Reactivation,3,4,Email,Referral,231.47
+1110,144,2026-08-30 18:50:00,Referral,REF-Customer,4,4,Email,Referral,231.47
+1119,145,2026-04-28 18:35:00,Email,EMAIL-Nurture,1,2,Email,Organic Search,163.86
+1119,145,2026-05-07 20:41:00,Organic Search,SEO-Product,2,2,Email,Organic Search,163.86
+1123,146,2026-02-12 02:25:00,Paid Social,META-Prospecting,1,2,Paid Social,Display,954.68
+1123,146,2026-02-17 10:42:00,Display,DISPLAY-Retargeting,2,2,Paid Social,Display,954.68
+1124,147,2026-06-07 03:52:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Social,474.66
+1124,147,2026-06-12 06:14:00,Paid Social,META-Retargeting,2,4,Organic Search,Paid Social,474.66
+1124,147,2026-06-15 07:35:00,Paid Search,PS-Brand,3,4,Organic Search,Paid Social,474.66
+1124,147,2026-06-23 01:48:00,Paid Social,META-Retargeting,4,4,Organic Search,Paid Social,474.66
+1136,148,2025-12-14 06:25:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,524.35
+1140,149,2025-12-05 01:42:00,Paid Search,PS-Brand,1,5,Paid Search,Referral,581.09
+1140,149,2025-12-05 03:30:00,Email,EMAIL-Nurture,2,5,Paid Search,Referral,581.09
+1140,149,2025-12-09 07:37:00,Paid Social,META-Retargeting,3,5,Paid Search,Referral,581.09
+1140,149,2025-12-19 01:02:00,Display,DISPLAY-Retargeting,4,5,Paid Search,Referral,581.09
+1140,149,2025-12-21 18:27:00,Referral,REF-Customer,5,5,Paid Search,Referral,581.09
+1142,150,2026-05-12 05:37:00,Referral,REF-Partner,1,4,Referral,Paid Search,263.14
+1142,150,2026-05-21 00:36:00,Referral,REF-Customer,2,4,Referral,Paid Search,263.14
+1142,150,2026-05-21 01:11:00,Organic Search,SEO-Product,3,4,Referral,Paid Search,263.14
+1142,150,2026-05-31 07:33:00,Paid Search,PS-NonBrand,4,4,Referral,Paid Search,263.14
+1150,151,2026-05-08 08:54:00,Paid Search,PS-Brand,1,4,Paid Search,Organic Search,523.49
+1150,151,2026-05-09 08:01:00,Paid Search,PS-Brand,2,4,Paid Search,Organic Search,523.49
+1150,151,2026-05-09 19:45:00,Referral,REF-Customer,3,4,Paid Search,Organic Search,523.49
+1150,151,2026-05-10 07:38:00,Organic Search,SEO-Product,4,4,Paid Search,Organic Search,523.49
+1151,152,2025-11-01 01:32:00,Paid Social,META-Prospecting,1,5,Paid Social,Organic Search,750.72
+1151,152,2025-11-10 20:25:00,Organic Search,SEO-Product,2,5,Paid Social,Organic Search,750.72
+1151,152,2025-11-13 14:49:00,Paid Social,META-Retargeting,3,5,Paid Social,Organic Search,750.72
+1151,152,2025-11-25 16:11:00,Display,DISPLAY-Prospecting,4,5,Paid Social,Organic Search,750.72
+1151,152,2025-11-28 01:59:00,Organic Search,SEO-Product,5,5,Paid Social,Organic Search,750.72
+1163,153,2025-11-02 09:49:00,Paid Search,PS-NonBrand,1,3,Paid Search,Display,302.45
+1163,153,2025-11-09 12:04:00,Paid Search,PS-NonBrand,2,3,Paid Search,Display,302.45
+1163,153,2025-11-28 19:16:00,Display,DISPLAY-Retargeting,3,3,Paid Search,Display,302.45
+1169,154,2025-11-21 22:50:00,Organic Search,SEO-Content,1,5,Organic Search,Referral,343.2
+1169,154,2025-11-26 06:55:00,Email,EMAIL-Nurture,2,5,Organic Search,Referral,343.2
+1169,154,2025-12-07 18:31:00,Paid Search,PS-Brand,3,5,Organic Search,Referral,343.2
+1169,154,2025-12-11 11:36:00,Paid Social,META-Retargeting,4,5,Organic Search,Referral,343.2
+1169,154,2025-12-13 05:46:00,Referral,REF-Customer,5,5,Organic Search,Referral,343.2
+1185,155,2026-02-27 17:16:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Search,144.73
+1185,155,2026-03-01 05:36:00,Email,EMAIL-Reactivation,2,3,Organic Search,Paid Search,144.73
+1185,155,2026-03-10 08:37:00,Paid Search,PS-NonBrand,3,3,Organic Search,Paid Search,144.73
+1188,156,2026-04-10 04:59:00,Referral,REF-Customer,1,2,Referral,Email,1579.83
+1188,156,2026-05-03 23:50:00,Email,EMAIL-Nurture,2,2,Referral,Email,1579.83
+1201,157,2026-04-12 10:42:00,Referral,REF-Partner,1,5,Referral,Paid Search,427.96
+1201,157,2026-04-13 18:17:00,Referral,REF-Partner,2,5,Referral,Paid Search,427.96
+1201,157,2026-04-27 03:15:00,Organic Search,SEO-Content,3,5,Referral,Paid Search,427.96
+1201,157,2026-04-29 07:56:00,Referral,REF-Customer,4,5,Referral,Paid Search,427.96
+1201,157,2026-04-29 10:30:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,427.96
+1202,158,2026-08-18 08:40:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,622.46
+1215,159,2025-10-10 03:56:00,Paid Search,PS-Brand,1,2,Paid Search,Organic Search,714.65
+1215,159,2025-10-12 21:24:00,Organic Search,SEO-Content,2,2,Paid Search,Organic Search,714.65
+1218,160,2026-01-03 17:33:00,Display,DISPLAY-Prospecting,1,1,Display,Display,474.4
+1219,161,2026-06-25 23:03:00,Display,DISPLAY-Retargeting,1,2,Display,Referral,857.61
+1219,161,2026-06-26 15:21:00,Referral,REF-Customer,2,2,Display,Referral,857.61
+1220,162,2025-10-30 19:47:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,471.25
+1220,162,2025-11-14 01:18:00,Paid Social,META-Prospecting,2,2,Paid Search,Paid Social,471.25
+1252,163,2026-06-14 00:49:00,Paid Social,META-Retargeting,1,3,Paid Social,Display,272.06
+1252,163,2026-06-17 23:09:00,Organic Search,SEO-Content,2,3,Paid Social,Display,272.06
+1252,163,2026-06-25 03:34:00,Display,DISPLAY-Retargeting,3,3,Paid Social,Display,272.06
+1261,164,2026-05-14 06:57:00,Referral,REF-Partner,1,5,Referral,Organic Search,928.95
+1261,164,2026-05-26 01:38:00,Email,EMAIL-Reactivation,2,5,Referral,Organic Search,928.95
+1261,164,2026-05-29 23:16:00,Organic Search,SEO-Product,3,5,Referral,Organic Search,928.95
+1261,164,2026-06-04 14:11:00,Paid Social,META-Retargeting,4,5,Referral,Organic Search,928.95
+1261,164,2026-06-07 04:40:00,Organic Search,SEO-Product,5,5,Referral,Organic Search,928.95
+1277,165,2026-06-30 21:07:00,Display,DISPLAY-Prospecting,1,4,Display,Paid Social,343.57
+1277,165,2026-07-05 20:50:00,Paid Social,META-Prospecting,2,4,Display,Paid Social,343.57
+1277,165,2026-07-10 05:40:00,Email,EMAIL-Reactivation,3,4,Display,Paid Social,343.57
+1277,165,2026-07-11 01:11:00,Paid Social,META-Retargeting,4,4,Display,Paid Social,343.57
+1286,166,2026-01-22 10:16:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Search,425.48
+1286,166,2026-02-01 00:46:00,Paid Search,PS-NonBrand,2,4,Paid Search,Paid Search,425.48
+1286,166,2026-02-02 03:06:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Paid Search,425.48
+1286,166,2026-02-09 19:31:00,Paid Search,PS-NonBrand,4,4,Paid Search,Paid Search,425.48
+1291,167,2025-12-11 19:28:00,Referral,REF-Partner,1,2,Referral,Email,981.78
+1291,167,2025-12-12 21:03:00,Email,EMAIL-Reactivation,2,2,Referral,Email,981.78
+1299,168,2025-10-11 11:08:00,Email,EMAIL-Nurture,1,2,Email,Email,632.08
+1299,168,2025-10-25 06:51:00,Email,EMAIL-Nurture,2,2,Email,Email,632.08
+1300,169,2025-11-12 00:23:00,Paid Social,META-Retargeting,1,3,Paid Social,Email,491.45
+1300,169,2025-11-20 20:35:00,Paid Social,META-Prospecting,2,3,Paid Social,Email,491.45
+1300,169,2025-11-28 18:00:00,Email,EMAIL-Nurture,3,3,Paid Social,Email,491.45
+1303,170,2026-02-08 20:09:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Social,1672.08
+1303,170,2026-02-16 00:48:00,Paid Social,META-Prospecting,2,2,Organic Search,Paid Social,1672.08
+1306,171,2026-06-06 21:10:00,Paid Search,PS-NonBrand,1,4,Paid Search,Display,985.1
+1306,171,2026-06-13 11:08:00,Paid Search,PS-Brand,2,4,Paid Search,Display,985.1
+1306,171,2026-06-15 00:42:00,Paid Social,META-Retargeting,3,4,Paid Search,Display,985.1
+1306,171,2026-06-23 21:05:00,Display,DISPLAY-Retargeting,4,4,Paid Search,Display,985.1
+1315,172,2025-12-31 08:18:00,Email,EMAIL-Nurture,1,5,Email,Organic Search,596.26
+1315,172,2026-01-07 04:02:00,Referral,REF-Partner,2,5,Email,Organic Search,596.26
+1315,172,2026-01-09 16:43:00,Referral,REF-Customer,3,5,Email,Organic Search,596.26
+1315,172,2026-01-14 22:34:00,Email,EMAIL-Nurture,4,5,Email,Organic Search,596.26
+1315,172,2026-01-19 17:01:00,Organic Search,SEO-Product,5,5,Email,Organic Search,596.26
+1317,173,2026-07-04 04:56:00,Paid Social,META-Retargeting,1,4,Paid Social,Referral,788.16
+1317,173,2026-07-05 01:42:00,Organic Search,SEO-Content,2,4,Paid Social,Referral,788.16
+1317,173,2026-07-14 11:52:00,Paid Social,META-Retargeting,3,4,Paid Social,Referral,788.16
+1317,173,2026-07-30 18:03:00,Referral,REF-Customer,4,4,Paid Social,Referral,788.16
+1319,174,2026-08-06 01:16:00,Referral,REF-Customer,1,4,Referral,Paid Search,570.68
+1319,174,2026-08-09 11:36:00,Paid Social,META-Retargeting,2,4,Referral,Paid Search,570.68
+1319,174,2026-08-23 05:23:00,Organic Search,SEO-Content,3,4,Referral,Paid Search,570.68
+1319,174,2026-08-26 07:03:00,Paid Search,PS-NonBrand,4,4,Referral,Paid Search,570.68
+1327,175,2026-02-09 09:44:00,Paid Social,META-Prospecting,1,2,Paid Social,Display,753.85
+1327,175,2026-02-20 23:44:00,Display,DISPLAY-Retargeting,2,2,Paid Social,Display,753.85
+1331,176,2025-10-01 16:10:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Search,714.63
+1331,176,2025-10-02 02:17:00,Organic Search,SEO-Content,2,5,Paid Search,Paid Search,714.63
+1331,176,2025-10-10 08:54:00,Referral,REF-Customer,3,5,Paid Search,Paid Search,714.63
+1331,176,2025-10-20 23:51:00,Paid Social,META-Retargeting,4,5,Paid Search,Paid Search,714.63
+1331,176,2025-10-21 10:23:00,Paid Search,PS-NonBrand,5,5,Paid Search,Paid Search,714.63
+1361,177,2026-05-17 10:40:00,Display,DISPLAY-Prospecting,1,3,Display,Organic Search,524.26
+1361,177,2026-05-23 19:48:00,Paid Social,META-Retargeting,2,3,Display,Organic Search,524.26
+1361,177,2026-06-05 12:23:00,Organic Search,SEO-Product,3,3,Display,Organic Search,524.26
+1367,178,2025-11-19 13:57:00,Referral,REF-Partner,1,2,Referral,Paid Search,1104.09
+1367,178,2025-11-27 17:43:00,Paid Search,PS-NonBrand,2,2,Referral,Paid Search,1104.09
+1368,179,2026-09-24 19:00:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,1104.44
+1376,180,2026-07-09 08:56:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Search,310.72
+1376,180,2026-07-15 01:03:00,Paid Search,PS-Brand,2,4,Organic Search,Paid Search,310.72
+1376,180,2026-07-19 01:33:00,Paid Social,META-Prospecting,3,4,Organic Search,Paid Search,310.72
+1376,180,2026-07-21 08:52:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,310.72
+1381,181,2025-12-26 18:48:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,671.61
+1387,182,2026-09-14 10:25:00,Paid Social,META-Prospecting,1,2,Paid Social,Display,605.09
+1387,182,2026-09-24 00:37:00,Display,DISPLAY-Prospecting,2,2,Paid Social,Display,605.09
+1388,183,2025-12-22 00:44:00,Referral,REF-Partner,1,1,Referral,Referral,254.79
+1409,184,2026-05-20 05:41:00,Paid Search,PS-NonBrand,1,3,Paid Search,Display,438.49
+1409,184,2026-05-28 14:42:00,Organic Search,SEO-Content,2,3,Paid Search,Display,438.49
+1409,184,2026-06-09 12:05:00,Display,DISPLAY-Retargeting,3,3,Paid Search,Display,438.49
+1419,185,2026-04-13 02:38:00,Paid Search,PS-NonBrand,1,3,Paid Search,Email,641.87
+1419,185,2026-04-20 22:36:00,Email,EMAIL-Nurture,2,3,Paid Search,Email,641.87
+1419,185,2026-04-29 01:18:00,Email,EMAIL-Nurture,3,3,Paid Search,Email,641.87
+1445,186,2026-03-20 07:04:00,Paid Social,META-Prospecting,1,2,Paid Social,Referral,769.68
+1445,186,2026-03-27 22:22:00,Referral,REF-Customer,2,2,Paid Social,Referral,769.68
+1454,187,2026-01-17 20:52:00,Referral,REF-Partner,1,1,Referral,Referral,513.87
+1457,188,2026-05-27 19:24:00,Display,DISPLAY-Prospecting,1,4,Display,Email,412.19
+1457,188,2026-05-29 00:53:00,Paid Search,PS-NonBrand,2,4,Display,Email,412.19
+1457,188,2026-06-03 14:35:00,Paid Social,META-Prospecting,3,4,Display,Email,412.19
+1457,188,2026-06-20 11:29:00,Email,EMAIL-Reactivation,4,4,Display,Email,412.19
+1474,189,2026-01-26 15:58:00,Email,EMAIL-Reactivation,1,4,Email,Referral,385.44
+1474,189,2026-02-14 03:12:00,Paid Search,PS-Brand,2,4,Email,Referral,385.44
+1474,189,2026-02-14 10:27:00,Display,DISPLAY-Prospecting,3,4,Email,Referral,385.44
+1474,189,2026-02-20 03:35:00,Referral,REF-Customer,4,4,Email,Referral,385.44
+1475,190,2026-07-15 00:56:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,200.39
+1526,191,2026-01-31 00:13:00,Paid Search,PS-Brand,1,4,Paid Search,Referral,639.13
+1526,191,2026-02-04 23:57:00,Referral,REF-Customer,2,4,Paid Search,Referral,639.13
+1526,191,2026-02-25 08:41:00,Paid Social,META-Retargeting,3,4,Paid Search,Referral,639.13
+1526,191,2026-02-25 19:40:00,Referral,REF-Customer,4,4,Paid Search,Referral,639.13
+1530,192,2026-03-12 04:17:00,Referral,REF-Customer,1,3,Referral,Organic Search,465.9
+1530,192,2026-03-17 22:24:00,Paid Search,PS-NonBrand,2,3,Referral,Organic Search,465.9
+1530,192,2026-04-01 22:35:00,Organic Search,SEO-Product,3,3,Referral,Organic Search,465.9
+1531,193,2026-02-04 04:59:00,Organic Search,SEO-Content,1,3,Organic Search,Organic Search,321.12
+1531,193,2026-02-07 02:45:00,Organic Search,SEO-Content,2,3,Organic Search,Organic Search,321.12
+1531,193,2026-02-15 00:11:00,Organic Search,SEO-Product,3,3,Organic Search,Organic Search,321.12
+1540,194,2025-12-09 14:10:00,Paid Search,PS-NonBrand,1,4,Paid Search,Display,306.12
+1540,194,2025-12-14 09:34:00,Paid Search,PS-Brand,2,4,Paid Search,Display,306.12
+1540,194,2025-12-15 17:19:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Display,306.12
+1540,194,2025-12-17 12:23:00,Display,DISPLAY-Retargeting,4,4,Paid Search,Display,306.12
+1544,195,2026-03-28 10:51:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,270.21
+1553,196,2026-08-08 12:43:00,Paid Social,META-Prospecting,1,2,Paid Social,Organic Search,492.17
+1553,196,2026-08-18 01:36:00,Organic Search,SEO-Product,2,2,Paid Social,Organic Search,492.17
+1556,197,2026-07-25 03:31:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,359.08
+1556,197,2026-07-26 09:45:00,Paid Search,PS-NonBrand,2,5,Paid Search,Organic Search,359.08
+1556,197,2026-07-27 17:24:00,Paid Search,PS-Brand,3,5,Paid Search,Organic Search,359.08
+1556,197,2026-07-30 18:26:00,Paid Search,PS-Brand,4,5,Paid Search,Organic Search,359.08
+1556,197,2026-07-31 23:25:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,359.08
+1558,198,2025-12-13 23:04:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Search,328.01
+1558,198,2025-12-22 09:24:00,Paid Search,PS-NonBrand,2,3,Paid Search,Paid Search,328.01
+1558,198,2025-12-28 18:04:00,Paid Search,PS-Brand,3,3,Paid Search,Paid Search,328.01
+1563,199,2025-11-17 08:12:00,Organic Search,SEO-Product,1,5,Organic Search,Paid Search,252.23
+1563,199,2025-11-22 05:46:00,Paid Social,META-Retargeting,2,5,Organic Search,Paid Search,252.23
+1563,199,2025-12-12 00:49:00,Paid Social,META-Retargeting,3,5,Organic Search,Paid Search,252.23
+1563,199,2025-12-13 06:45:00,Paid Search,PS-NonBrand,4,5,Organic Search,Paid Search,252.23
+1563,199,2025-12-13 06:47:00,Paid Search,PS-Brand,5,5,Organic Search,Paid Search,252.23
+1572,200,2026-07-03 02:49:00,Display,DISPLAY-Prospecting,1,4,Display,Paid Social,548.81
+1572,200,2026-07-05 10:51:00,Referral,REF-Customer,2,4,Display,Paid Social,548.81
+1572,200,2026-07-18 02:29:00,Display,DISPLAY-Retargeting,3,4,Display,Paid Social,548.81
+1572,200,2026-07-18 11:10:00,Paid Social,META-Retargeting,4,4,Display,Paid Social,548.81
+1578,201,2026-07-20 22:17:00,Display,DISPLAY-Prospecting,1,5,Display,Email,649.89
+1578,201,2026-07-21 03:07:00,Email,EMAIL-Nurture,2,5,Display,Email,649.89
+1578,201,2026-07-22 06:36:00,Organic Search,SEO-Content,3,5,Display,Email,649.89
+1578,201,2026-07-25 09:31:00,Paid Social,META-Retargeting,4,5,Display,Email,649.89
+1578,201,2026-07-28 19:32:00,Email,EMAIL-Nurture,5,5,Display,Email,649.89
+1579,202,2025-11-28 19:43:00,Paid Search,PS-NonBrand,1,3,Paid Search,Organic Search,310.27
+1579,202,2025-12-04 00:12:00,Display,DISPLAY-Retargeting,2,3,Paid Search,Organic Search,310.27
+1579,202,2025-12-09 15:17:00,Organic Search,SEO-Product,3,3,Paid Search,Organic Search,310.27
+1582,203,2025-10-29 19:33:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,144.05
+1584,204,2026-05-14 12:04:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Search,652.22
+1584,204,2026-05-17 00:36:00,Paid Social,META-Retargeting,2,4,Paid Social,Paid Search,652.22
+1584,204,2026-05-25 03:52:00,Paid Social,META-Retargeting,3,4,Paid Social,Paid Search,652.22
+1584,204,2026-05-26 23:38:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,652.22
+1586,205,2025-10-18 03:02:00,Paid Social,META-Prospecting,1,5,Paid Social,Display,716.67
+1586,205,2025-10-23 14:47:00,Paid Search,PS-Brand,2,5,Paid Social,Display,716.67
+1586,205,2025-10-28 00:55:00,Organic Search,SEO-Product,3,5,Paid Social,Display,716.67
+1586,205,2025-10-30 08:20:00,Email,EMAIL-Reactivation,4,5,Paid Social,Display,716.67
+1586,205,2025-11-07 01:00:00,Display,DISPLAY-Retargeting,5,5,Paid Social,Display,716.67
+1590,206,2026-06-29 15:41:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,297.25
+1590,206,2026-07-18 01:48:00,Email,EMAIL-Reactivation,2,5,Paid Search,Organic Search,297.25
+1590,206,2026-07-22 21:42:00,Paid Social,META-Retargeting,3,5,Paid Search,Organic Search,297.25
+1590,206,2026-07-22 22:55:00,Referral,REF-Customer,4,5,Paid Search,Organic Search,297.25
+1590,206,2026-07-23 20:22:00,Organic Search,SEO-Product,5,5,Paid Search,Organic Search,297.25
+1594,207,2025-12-19 06:12:00,Paid Search,PS-Brand,1,2,Paid Search,Email,185.06
+1594,207,2025-12-23 14:48:00,Email,EMAIL-Nurture,2,2,Paid Search,Email,185.06
+1607,208,2025-12-15 21:33:00,Display,DISPLAY-Retargeting,1,4,Display,Paid Social,426.03
+1607,208,2025-12-22 09:04:00,Email,EMAIL-Nurture,2,4,Display,Paid Social,426.03
+1607,208,2025-12-22 13:07:00,Referral,REF-Customer,3,4,Display,Paid Social,426.03
+1607,208,2026-01-07 04:33:00,Paid Social,META-Retargeting,4,4,Display,Paid Social,426.03
+1610,209,2026-05-03 13:03:00,Display,DISPLAY-Retargeting,1,5,Display,Paid Search,262.32
+1610,209,2026-05-20 13:18:00,Email,EMAIL-Reactivation,2,5,Display,Paid Search,262.32
+1610,209,2026-05-23 09:56:00,Organic Search,SEO-Content,3,5,Display,Paid Search,262.32
+1610,209,2026-05-23 10:40:00,Paid Social,META-Prospecting,4,5,Display,Paid Search,262.32
+1610,209,2026-05-28 22:51:00,Paid Search,PS-Brand,5,5,Display,Paid Search,262.32
+1612,210,2025-12-06 00:44:00,Display,DISPLAY-Prospecting,1,5,Display,Organic Search,250.51
+1612,210,2025-12-06 19:59:00,Organic Search,SEO-Content,2,5,Display,Organic Search,250.51
+1612,210,2025-12-11 23:36:00,Display,DISPLAY-Prospecting,3,5,Display,Organic Search,250.51
+1612,210,2025-12-14 04:44:00,Organic Search,SEO-Content,4,5,Display,Organic Search,250.51
+1612,210,2025-12-14 13:07:00,Organic Search,SEO-Content,5,5,Display,Organic Search,250.51
+1621,211,2026-02-15 06:03:00,Email,EMAIL-Nurture,1,2,Email,Paid Social,683.22
+1621,211,2026-02-24 05:02:00,Paid Social,META-Retargeting,2,2,Email,Paid Social,683.22
+1632,212,2026-04-02 23:51:00,Paid Social,META-Prospecting,1,5,Paid Social,Referral,615.7
+1632,212,2026-04-13 01:15:00,Paid Search,PS-Brand,2,5,Paid Social,Referral,615.7
+1632,212,2026-04-18 13:22:00,Paid Search,PS-NonBrand,3,5,Paid Social,Referral,615.7
+1632,212,2026-04-18 16:31:00,Organic Search,SEO-Content,4,5,Paid Social,Referral,615.7
+1632,212,2026-04-19 20:56:00,Referral,REF-Customer,5,5,Paid Social,Referral,615.7
+1645,213,2026-07-18 18:21:00,Paid Social,META-Retargeting,1,3,Paid Social,Referral,661.78
+1645,213,2026-07-23 10:16:00,Referral,REF-Partner,2,3,Paid Social,Referral,661.78
+1645,213,2026-07-27 06:23:00,Referral,REF-Partner,3,3,Paid Social,Referral,661.78
+1658,214,2026-07-02 21:17:00,Organic Search,SEO-Product,1,5,Organic Search,Email,688.27
+1658,214,2026-07-09 00:20:00,Paid Search,PS-Brand,2,5,Organic Search,Email,688.27
+1658,214,2026-07-13 10:20:00,Paid Social,META-Prospecting,3,5,Organic Search,Email,688.27
+1658,214,2026-07-14 05:17:00,Organic Search,SEO-Product,4,5,Organic Search,Email,688.27
+1658,214,2026-07-15 17:55:00,Email,EMAIL-Nurture,5,5,Organic Search,Email,688.27
+1666,215,2025-12-27 01:33:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Search,311.55
+1666,215,2025-12-27 15:31:00,Paid Social,META-Prospecting,2,4,Paid Social,Paid Search,311.55
+1666,215,2026-01-01 21:36:00,Referral,REF-Customer,3,4,Paid Social,Paid Search,311.55
+1666,215,2026-01-12 11:10:00,Paid Search,PS-Brand,4,4,Paid Social,Paid Search,311.55
+1670,216,2025-12-19 07:40:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Search,370.51
+1670,216,2025-12-23 13:19:00,Paid Search,PS-Brand,2,2,Organic Search,Paid Search,370.51
+1672,217,2026-01-18 23:06:00,Paid Search,PS-Brand,1,2,Paid Search,Referral,853.1
+1672,217,2026-01-29 18:23:00,Referral,REF-Partner,2,2,Paid Search,Referral,853.1
+1684,218,2026-03-17 01:58:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,1048.88
+1684,218,2026-04-01 14:07:00,Referral,REF-Customer,2,4,Paid Social,Paid Search,1048.88
+1684,218,2026-04-02 11:54:00,Paid Social,META-Retargeting,3,4,Paid Social,Paid Search,1048.88
+1684,218,2026-04-08 17:56:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,1048.88
+1696,219,2026-09-04 23:45:00,Display,DISPLAY-Prospecting,1,1,Display,Display,492.02
+1698,220,2026-03-16 01:38:00,Paid Search,PS-Brand,1,3,Paid Search,Email,884.69
+1698,220,2026-03-25 16:15:00,Organic Search,SEO-Content,2,3,Paid Search,Email,884.69
+1698,220,2026-04-05 23:25:00,Email,EMAIL-Reactivation,3,3,Paid Search,Email,884.69
+1699,221,2026-04-27 12:06:00,Organic Search,SEO-Product,1,3,Organic Search,Referral,255.26
+1699,221,2026-05-09 11:51:00,Paid Social,META-Prospecting,2,3,Organic Search,Referral,255.26
+1699,221,2026-05-15 14:33:00,Referral,REF-Customer,3,3,Organic Search,Referral,255.26
+1701,222,2026-08-20 10:31:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,908.08
+1736,223,2026-01-09 13:46:00,Display,DISPLAY-Prospecting,1,3,Display,Organic Search,691.52
+1736,223,2026-01-17 06:05:00,Paid Social,META-Retargeting,2,3,Display,Organic Search,691.52
+1736,223,2026-01-28 04:33:00,Organic Search,SEO-Content,3,3,Display,Organic Search,691.52
+1740,224,2026-02-27 13:24:00,Email,EMAIL-Reactivation,1,5,Email,Referral,327.88
+1740,224,2026-02-27 16:09:00,Email,EMAIL-Nurture,2,5,Email,Referral,327.88
+1740,224,2026-03-05 03:15:00,Referral,REF-Customer,3,5,Email,Referral,327.88
+1740,224,2026-03-13 14:02:00,Paid Search,PS-NonBrand,4,5,Email,Referral,327.88
+1740,224,2026-03-20 18:46:00,Referral,REF-Customer,5,5,Email,Referral,327.88
+1742,225,2026-01-22 12:46:00,Referral,REF-Customer,1,1,Referral,Referral,641.9
+1758,226,2026-06-19 04:36:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Social,164.03
+1758,226,2026-06-21 23:49:00,Paid Social,META-Retargeting,2,2,Organic Search,Paid Social,164.03
+1763,227,2026-04-04 05:44:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,937.98
+1769,228,2025-12-12 09:41:00,Paid Search,PS-NonBrand,1,2,Paid Search,Organic Search,374.71
+1769,228,2025-12-22 07:55:00,Organic Search,SEO-Content,2,2,Paid Search,Organic Search,374.71
+1775,229,2026-02-05 05:52:00,Paid Search,PS-NonBrand,1,5,Paid Search,Email,1098.41
+1775,229,2026-02-05 14:45:00,Paid Social,META-Retargeting,2,5,Paid Search,Email,1098.41
+1775,229,2026-02-10 02:19:00,Paid Social,META-Retargeting,3,5,Paid Search,Email,1098.41
+1775,229,2026-02-17 06:24:00,Referral,REF-Customer,4,5,Paid Search,Email,1098.41
+1775,229,2026-02-20 06:40:00,Email,EMAIL-Nurture,5,5,Paid Search,Email,1098.41
+1777,230,2026-06-03 01:22:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,885.6
+1779,231,2025-12-28 07:39:00,Email,EMAIL-Nurture,1,5,Email,Referral,541.66
+1779,231,2026-01-03 02:39:00,Paid Social,META-Prospecting,2,5,Email,Referral,541.66
+1779,231,2026-01-10 05:33:00,Organic Search,SEO-Content,3,5,Email,Referral,541.66
+1779,231,2026-01-24 03:05:00,Paid Search,PS-NonBrand,4,5,Email,Referral,541.66
+1779,231,2026-01-25 00:37:00,Referral,REF-Partner,5,5,Email,Referral,541.66
+1780,232,2026-08-13 05:49:00,Paid Social,META-Retargeting,1,5,Paid Social,Paid Social,266.8
+1780,232,2026-08-20 23:09:00,Referral,REF-Partner,2,5,Paid Social,Paid Social,266.8
+1780,232,2026-08-21 14:30:00,Referral,REF-Customer,3,5,Paid Social,Paid Social,266.8
+1780,232,2026-08-26 04:55:00,Referral,REF-Partner,4,5,Paid Social,Paid Social,266.8
+1780,232,2026-09-05 18:28:00,Paid Social,META-Prospecting,5,5,Paid Social,Paid Social,266.8
+1781,233,2025-12-19 03:55:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,494.32
+1781,233,2025-12-24 21:17:00,Paid Social,META-Retargeting,2,5,Paid Search,Organic Search,494.32
+1781,233,2025-12-26 20:38:00,Paid Social,META-Retargeting,3,5,Paid Search,Organic Search,494.32
+1781,233,2025-12-31 03:39:00,Paid Social,META-Prospecting,4,5,Paid Search,Organic Search,494.32
+1781,233,2026-01-02 18:59:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,494.32
+1788,234,2026-03-14 07:24:00,Paid Search,PS-Brand,1,4,Paid Search,Display,401.41
+1788,234,2026-03-16 12:02:00,Display,DISPLAY-Prospecting,2,4,Paid Search,Display,401.41
+1788,234,2026-03-22 04:18:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Display,401.41
+1788,234,2026-03-22 05:26:00,Display,DISPLAY-Retargeting,4,4,Paid Search,Display,401.41
+1789,235,2025-11-13 08:37:00,Display,DISPLAY-Prospecting,1,1,Display,Display,368.7
+1792,236,2025-11-26 06:07:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,609.34
+1794,237,2025-10-30 13:52:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,819.45
+1795,238,2026-06-15 11:05:00,Email,EMAIL-Reactivation,1,3,Email,Email,485.48
+1795,238,2026-06-17 12:39:00,Email,EMAIL-Reactivation,2,3,Email,Email,485.48
+1795,238,2026-06-26 12:19:00,Email,EMAIL-Nurture,3,3,Email,Email,485.48
+1797,239,2026-01-07 15:55:00,Email,EMAIL-Nurture,1,2,Email,Referral,849.26
+1797,239,2026-01-17 12:59:00,Referral,REF-Customer,2,2,Email,Referral,849.26
+1801,240,2025-12-14 11:18:00,Email,EMAIL-Reactivation,1,3,Email,Paid Search,705.87
+1801,240,2025-12-17 06:05:00,Paid Search,PS-Brand,2,3,Email,Paid Search,705.87
+1801,240,2025-12-24 16:55:00,Paid Search,PS-NonBrand,3,3,Email,Paid Search,705.87
+1805,241,2025-10-24 10:56:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,988.92
+1806,242,2026-03-11 18:41:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,348.39
+1807,243,2026-09-17 15:21:00,Organic Search,SEO-Content,1,4,Organic Search,Organic Search,413.14
+1807,243,2026-09-19 14:19:00,Organic Search,SEO-Content,2,4,Organic Search,Organic Search,413.14
+1807,243,2026-09-24 15:23:00,Paid Search,PS-Brand,3,4,Organic Search,Organic Search,413.14
+1807,243,2026-09-26 13:26:00,Organic Search,SEO-Product,4,4,Organic Search,Organic Search,413.14
+1808,244,2026-01-12 13:42:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,838.4
+1808,244,2026-02-05 08:49:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,838.4
+1809,245,2026-06-30 04:01:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Search,441.82
+1809,245,2026-06-30 22:02:00,Paid Social,META-Prospecting,2,5,Paid Search,Paid Search,441.82
+1809,245,2026-07-09 06:12:00,Display,DISPLAY-Prospecting,3,5,Paid Search,Paid Search,441.82
+1809,245,2026-07-12 15:48:00,Referral,REF-Customer,4,5,Paid Search,Paid Search,441.82
+1809,245,2026-07-25 11:29:00,Paid Search,PS-NonBrand,5,5,Paid Search,Paid Search,441.82
+1812,246,2026-09-06 04:13:00,Paid Search,PS-Brand,1,4,Paid Search,Email,209.29
+1812,246,2026-09-10 05:09:00,Paid Search,PS-NonBrand,2,4,Paid Search,Email,209.29
+1812,246,2026-09-11 06:21:00,Organic Search,SEO-Product,3,4,Paid Search,Email,209.29
+1812,246,2026-09-14 18:26:00,Email,EMAIL-Reactivation,4,4,Paid Search,Email,209.29
+1813,247,2025-12-10 14:58:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,211.36
+1822,248,2026-02-12 14:12:00,Referral,REF-Partner,1,4,Referral,Paid Social,881.01
+1822,248,2026-02-14 22:12:00,Email,EMAIL-Reactivation,2,4,Referral,Paid Social,881.01
+1822,248,2026-02-26 07:13:00,Referral,REF-Partner,3,4,Referral,Paid Social,881.01
+1822,248,2026-03-01 03:47:00,Paid Social,META-Retargeting,4,4,Referral,Paid Social,881.01
+1825,249,2025-11-27 07:10:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,219.31
+1840,250,2026-01-23 14:47:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Search,1803.58
+1840,250,2026-01-30 17:26:00,Paid Search,PS-NonBrand,2,3,Organic Search,Paid Search,1803.58
+1840,250,2026-02-08 00:26:00,Paid Search,PS-Brand,3,3,Organic Search,Paid Search,1803.58
+1845,251,2025-12-22 22:30:00,Organic Search,SEO-Product,1,5,Organic Search,Email,211.65
+1845,251,2025-12-23 12:01:00,Display,DISPLAY-Retargeting,2,5,Organic Search,Email,211.65
+1845,251,2025-12-29 05:05:00,Paid Search,PS-Brand,3,5,Organic Search,Email,211.65
+1845,251,2026-01-20 03:23:00,Paid Search,PS-NonBrand,4,5,Organic Search,Email,211.65
+1845,251,2026-01-20 04:44:00,Email,EMAIL-Nurture,5,5,Organic Search,Email,211.65
+1852,252,2025-12-29 19:44:00,Organic Search,SEO-Content,1,2,Organic Search,Paid Social,499.35
+1852,252,2026-01-08 21:27:00,Paid Social,META-Prospecting,2,2,Organic Search,Paid Social,499.35
+1855,253,2026-05-25 06:09:00,Referral,REF-Customer,1,4,Referral,Paid Social,668.4
+1855,253,2026-05-31 04:20:00,Paid Search,PS-NonBrand,2,4,Referral,Paid Social,668.4
+1855,253,2026-06-04 06:06:00,Paid Social,META-Prospecting,3,4,Referral,Paid Social,668.4
+1855,253,2026-06-05 17:14:00,Paid Social,META-Prospecting,4,4,Referral,Paid Social,668.4
+1873,254,2026-09-24 21:14:00,Email,EMAIL-Reactivation,1,1,Email,Email,307.48
+1881,255,2026-08-04 12:55:00,Paid Search,PS-Brand,1,5,Paid Search,Display,149.16
+1881,255,2026-08-13 16:44:00,Paid Search,PS-Brand,2,5,Paid Search,Display,149.16
+1881,255,2026-08-23 08:06:00,Email,EMAIL-Reactivation,3,5,Paid Search,Display,149.16
+1881,255,2026-08-26 09:03:00,Paid Social,META-Prospecting,4,5,Paid Search,Display,149.16
+1881,255,2026-08-30 05:44:00,Display,DISPLAY-Retargeting,5,5,Paid Search,Display,149.16
+1883,256,2026-08-25 23:19:00,Referral,REF-Customer,1,2,Referral,Paid Social,309.05
+1883,256,2026-08-29 16:43:00,Paid Social,META-Retargeting,2,2,Referral,Paid Social,309.05
+1890,257,2026-06-16 10:32:00,Organic Search,SEO-Product,1,2,Organic Search,Referral,611.96
+1890,257,2026-07-08 01:47:00,Referral,REF-Partner,2,2,Organic Search,Referral,611.96
+1906,258,2025-12-20 18:28:00,Referral,REF-Customer,1,5,Referral,Organic Search,264.34
+1906,258,2025-12-22 22:08:00,Paid Search,PS-Brand,2,5,Referral,Organic Search,264.34
+1906,258,2025-12-26 01:55:00,Email,EMAIL-Nurture,3,5,Referral,Organic Search,264.34
+1906,258,2025-12-27 20:56:00,Display,DISPLAY-Retargeting,4,5,Referral,Organic Search,264.34
+1906,258,2026-01-08 13:12:00,Organic Search,SEO-Content,5,5,Referral,Organic Search,264.34
+1926,259,2026-02-20 15:41:00,Referral,REF-Partner,1,4,Referral,Email,731.27
+1926,259,2026-02-25 20:47:00,Paid Search,PS-NonBrand,2,4,Referral,Email,731.27
+1926,259,2026-03-04 11:13:00,Referral,REF-Customer,3,4,Referral,Email,731.27
+1926,259,2026-03-07 18:55:00,Email,EMAIL-Reactivation,4,4,Referral,Email,731.27
+1940,260,2026-09-12 04:47:00,Paid Search,PS-NonBrand,1,2,Paid Search,Organic Search,878.38
+1940,260,2026-09-12 13:13:00,Organic Search,SEO-Content,2,2,Paid Search,Organic Search,878.38
+1951,261,2026-04-07 19:37:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,610.42
+1951,261,2026-04-13 07:09:00,Paid Social,META-Retargeting,2,4,Organic Search,Paid Search,610.42
+1951,261,2026-04-24 18:45:00,Paid Search,PS-Brand,3,4,Organic Search,Paid Search,610.42
+1951,261,2026-04-25 03:16:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,610.42
+1954,262,2025-12-29 14:18:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,817.18
+1956,263,2026-05-03 16:39:00,Organic Search,SEO-Content,1,2,Organic Search,Paid Search,871.17
+1956,263,2026-05-13 06:21:00,Paid Search,PS-NonBrand,2,2,Organic Search,Paid Search,871.17
+1960,264,2026-01-26 00:19:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,305.77
+1970,265,2026-01-25 18:54:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Social,204.13
+1970,265,2026-01-29 21:44:00,Email,EMAIL-Nurture,2,4,Paid Social,Paid Social,204.13
+1970,265,2026-02-13 01:18:00,Email,EMAIL-Reactivation,3,4,Paid Social,Paid Social,204.13
+1970,265,2026-02-21 02:45:00,Paid Social,META-Retargeting,4,4,Paid Social,Paid Social,204.13
+1971,266,2026-04-02 14:01:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,227.73
+1973,267,2026-06-11 07:36:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,524.12
+1976,268,2026-05-17 20:41:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,348.43
+1981,269,2026-09-12 15:25:00,Email,EMAIL-Reactivation,1,1,Email,Email,218.69
+1991,270,2026-06-23 11:06:00,Email,EMAIL-Reactivation,1,3,Email,Paid Search,270.01
+1991,270,2026-06-25 14:41:00,Display,DISPLAY-Prospecting,2,3,Email,Paid Search,270.01
+1991,270,2026-07-10 19:17:00,Paid Search,PS-Brand,3,3,Email,Paid Search,270.01
+1994,271,2026-01-02 03:14:00,Paid Search,PS-Brand,1,5,Paid Search,Organic Search,322.84
+1994,271,2026-01-08 17:21:00,Organic Search,SEO-Content,2,5,Paid Search,Organic Search,322.84
+1994,271,2026-01-13 06:18:00,Referral,REF-Partner,3,5,Paid Search,Organic Search,322.84
+1994,271,2026-01-16 16:30:00,Organic Search,SEO-Content,4,5,Paid Search,Organic Search,322.84
+1994,271,2026-01-21 04:34:00,Organic Search,SEO-Product,5,5,Paid Search,Organic Search,322.84
+1995,272,2025-11-03 11:49:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Search,682.91
+1995,272,2025-11-07 18:54:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,682.91
+1998,273,2026-06-08 09:58:00,Email,EMAIL-Nurture,1,1,Email,Email,127.77
+2000,274,2026-02-16 16:28:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Social,330.53
+2000,274,2026-02-21 15:33:00,Organic Search,SEO-Product,2,5,Paid Search,Paid Social,330.53
+2000,274,2026-02-23 00:21:00,Email,EMAIL-Reactivation,3,5,Paid Search,Paid Social,330.53
+2000,274,2026-02-26 10:31:00,Paid Social,META-Prospecting,4,5,Paid Search,Paid Social,330.53
+2000,274,2026-03-05 23:23:00,Paid Social,META-Retargeting,5,5,Paid Search,Paid Social,330.53
+2015,275,2025-12-11 00:29:00,Referral,REF-Customer,1,1,Referral,Referral,587.8
+2016,276,2026-05-28 08:51:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Social,374.32
+2016,276,2026-06-08 01:58:00,Paid Social,META-Retargeting,2,4,Paid Social,Paid Social,374.32
+2016,276,2026-06-10 16:54:00,Paid Social,META-Prospecting,3,4,Paid Social,Paid Social,374.32
+2016,276,2026-06-15 08:38:00,Paid Social,META-Prospecting,4,4,Paid Social,Paid Social,374.32
+2019,277,2026-01-19 07:29:00,Display,DISPLAY-Retargeting,1,1,Display,Display,1055.1
+2025,278,2026-04-23 01:50:00,Paid Search,PS-NonBrand,1,3,Paid Search,Referral,948.81
+2025,278,2026-05-04 13:03:00,Referral,REF-Customer,2,3,Paid Search,Referral,948.81
+2025,278,2026-05-12 06:25:00,Referral,REF-Customer,3,3,Paid Search,Referral,948.81
+2033,279,2026-07-15 02:34:00,Display,DISPLAY-Retargeting,1,5,Display,Paid Social,672.59
+2033,279,2026-07-18 20:13:00,Paid Social,META-Retargeting,2,5,Display,Paid Social,672.59
+2033,279,2026-07-21 01:49:00,Email,EMAIL-Nurture,3,5,Display,Paid Social,672.59
+2033,279,2026-07-27 12:27:00,Paid Search,PS-Brand,4,5,Display,Paid Social,672.59
+2033,279,2026-08-03 13:44:00,Paid Social,META-Prospecting,5,5,Display,Paid Social,672.59
+2036,280,2026-08-26 01:24:00,Display,DISPLAY-Prospecting,1,3,Display,Email,1160.27
+2036,280,2026-09-04 00:17:00,Display,DISPLAY-Retargeting,2,3,Display,Email,1160.27
+2036,280,2026-09-08 04:52:00,Email,EMAIL-Nurture,3,3,Display,Email,1160.27
+2037,281,2026-03-16 16:04:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Social,316.91
+2037,281,2026-03-25 06:18:00,Paid Social,META-Retargeting,2,3,Paid Search,Paid Social,316.91
+2037,281,2026-04-02 21:16:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,316.91
+2038,282,2026-03-06 22:34:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,385.13
+2042,283,2026-07-14 04:41:00,Organic Search,SEO-Product,1,5,Organic Search,Organic Search,611.25
+2042,283,2026-07-15 17:02:00,Display,DISPLAY-Prospecting,2,5,Organic Search,Organic Search,611.25
+2042,283,2026-07-22 06:31:00,Paid Search,PS-Brand,3,5,Organic Search,Organic Search,611.25
+2042,283,2026-07-23 02:46:00,Email,EMAIL-Reactivation,4,5,Organic Search,Organic Search,611.25
+2042,283,2026-07-30 04:54:00,Organic Search,SEO-Content,5,5,Organic Search,Organic Search,611.25
+2043,284,2025-12-23 03:32:00,Paid Search,PS-Brand,1,5,Paid Search,Paid Social,585.12
+2043,284,2025-12-29 01:34:00,Paid Search,PS-NonBrand,2,5,Paid Search,Paid Social,585.12
+2043,284,2025-12-31 12:15:00,Paid Social,META-Prospecting,3,5,Paid Search,Paid Social,585.12
+2043,284,2026-01-02 22:24:00,Email,EMAIL-Reactivation,4,5,Paid Search,Paid Social,585.12
+2043,284,2026-01-13 11:02:00,Paid Social,META-Retargeting,5,5,Paid Search,Paid Social,585.12
+2052,285,2026-05-26 20:32:00,Email,EMAIL-Reactivation,1,4,Email,Paid Social,191.1
+2052,285,2026-06-01 11:57:00,Paid Social,META-Retargeting,2,4,Email,Paid Social,191.1
+2052,285,2026-06-04 12:35:00,Paid Social,META-Retargeting,3,4,Email,Paid Social,191.1
+2052,285,2026-06-14 10:56:00,Paid Social,META-Retargeting,4,4,Email,Paid Social,191.1
+2062,286,2025-11-14 02:09:00,Paid Social,META-Prospecting,1,2,Paid Social,Email,480.97
+2062,286,2025-11-27 22:34:00,Email,EMAIL-Nurture,2,2,Paid Social,Email,480.97
+2064,287,2025-12-05 10:43:00,Email,EMAIL-Reactivation,1,5,Email,Paid Social,579.74
+2064,287,2025-12-08 03:50:00,Referral,REF-Customer,2,5,Email,Paid Social,579.74
+2064,287,2025-12-26 11:44:00,Paid Social,META-Prospecting,3,5,Email,Paid Social,579.74
+2064,287,2025-12-28 11:54:00,Paid Social,META-Retargeting,4,5,Email,Paid Social,579.74
+2064,287,2026-01-01 06:58:00,Paid Social,META-Prospecting,5,5,Email,Paid Social,579.74
+2066,288,2026-08-28 11:53:00,Organic Search,SEO-Product,1,2,Organic Search,Email,430.54
+2066,288,2026-08-29 18:15:00,Email,EMAIL-Nurture,2,2,Organic Search,Email,430.54
+2069,289,2025-11-04 04:08:00,Paid Search,PS-Brand,1,3,Paid Search,Display,547.41
+2069,289,2025-11-14 23:13:00,Paid Search,PS-NonBrand,2,3,Paid Search,Display,547.41
+2069,289,2025-11-21 18:15:00,Display,DISPLAY-Retargeting,3,3,Paid Search,Display,547.41
+2071,290,2026-07-06 08:56:00,Referral,REF-Partner,1,3,Referral,Paid Search,1027.71
+2071,290,2026-07-08 13:55:00,Paid Social,META-Prospecting,2,3,Referral,Paid Search,1027.71
+2071,290,2026-07-21 18:12:00,Paid Search,PS-NonBrand,3,3,Referral,Paid Search,1027.71
+2074,291,2025-11-09 05:28:00,Paid Social,META-Prospecting,1,4,Paid Social,Referral,309.42
+2074,291,2025-11-12 10:35:00,Email,EMAIL-Nurture,2,4,Paid Social,Referral,309.42
+2074,291,2025-11-16 08:02:00,Organic Search,SEO-Content,3,4,Paid Social,Referral,309.42
+2074,291,2025-11-25 12:59:00,Referral,REF-Customer,4,4,Paid Social,Referral,309.42
+2075,292,2026-04-05 14:10:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,353.78
+2075,292,2026-04-21 22:01:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,353.78
+2078,293,2026-03-05 03:16:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,333.72
+2078,293,2026-03-05 17:03:00,Paid Social,META-Prospecting,2,3,Paid Search,Paid Social,333.72
+2078,293,2026-03-15 06:56:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,333.72
+2085,294,2025-11-02 01:05:00,Referral,REF-Customer,1,5,Referral,Display,615.14
+2085,294,2025-11-02 01:22:00,Paid Social,META-Prospecting,2,5,Referral,Display,615.14
+2085,294,2025-11-10 11:39:00,Organic Search,SEO-Product,3,5,Referral,Display,615.14
+2085,294,2025-11-14 07:01:00,Paid Search,PS-Brand,4,5,Referral,Display,615.14
+2085,294,2025-11-27 18:31:00,Display,DISPLAY-Retargeting,5,5,Referral,Display,615.14
+2099,295,2025-11-30 22:51:00,Organic Search,SEO-Product,1,3,Organic Search,Paid Search,251.34
+2099,295,2025-12-08 03:21:00,Paid Social,META-Retargeting,2,3,Organic Search,Paid Search,251.34
+2099,295,2025-12-12 06:37:00,Paid Search,PS-Brand,3,3,Organic Search,Paid Search,251.34
+2105,296,2026-01-19 15:57:00,Paid Social,META-Retargeting,1,3,Paid Social,Organic Search,445.99
+2105,296,2026-01-21 15:40:00,Paid Search,PS-NonBrand,2,3,Paid Social,Organic Search,445.99
+2105,296,2026-01-23 13:12:00,Organic Search,SEO-Content,3,3,Paid Social,Organic Search,445.99
+2110,297,2026-05-14 15:40:00,Display,DISPLAY-Prospecting,1,5,Display,Referral,321.75
+2110,297,2026-05-25 08:55:00,Paid Social,META-Retargeting,2,5,Display,Referral,321.75
+2110,297,2026-05-31 00:59:00,Email,EMAIL-Reactivation,3,5,Display,Referral,321.75
+2110,297,2026-06-08 20:42:00,Paid Social,META-Retargeting,4,5,Display,Referral,321.75
+2110,297,2026-06-11 10:13:00,Referral,REF-Customer,5,5,Display,Referral,321.75
+2111,298,2026-09-11 20:47:00,Paid Search,PS-NonBrand,1,2,Paid Search,Referral,457.94
+2111,298,2026-09-13 23:39:00,Referral,REF-Customer,2,2,Paid Search,Referral,457.94
+2112,299,2026-06-08 09:47:00,Display,DISPLAY-Prospecting,1,5,Display,Paid Social,476.87
+2112,299,2026-06-08 12:24:00,Paid Search,PS-NonBrand,2,5,Display,Paid Social,476.87
+2112,299,2026-06-22 13:18:00,Referral,REF-Customer,3,5,Display,Paid Social,476.87
+2112,299,2026-06-23 10:58:00,Paid Social,META-Retargeting,4,5,Display,Paid Social,476.87
+2112,299,2026-06-26 20:58:00,Paid Social,META-Retargeting,5,5,Display,Paid Social,476.87
+2115,300,2026-09-06 11:35:00,Email,EMAIL-Reactivation,1,4,Email,Referral,588.4
+2115,300,2026-09-13 03:37:00,Paid Social,META-Retargeting,2,4,Email,Referral,588.4
+2115,300,2026-09-17 00:34:00,Paid Search,PS-Brand,3,4,Email,Referral,588.4
+2115,300,2026-09-18 04:55:00,Referral,REF-Partner,4,4,Email,Referral,588.4
+2120,301,2026-06-10 13:26:00,Email,EMAIL-Reactivation,1,4,Email,Email,717.13
+2120,301,2026-06-21 06:58:00,Paid Search,PS-NonBrand,2,4,Email,Email,717.13
+2120,301,2026-06-30 00:25:00,Paid Search,PS-NonBrand,3,4,Email,Email,717.13
+2120,301,2026-07-04 22:05:00,Email,EMAIL-Nurture,4,4,Email,Email,717.13
+2136,302,2026-01-04 04:04:00,Display,DISPLAY-Prospecting,1,1,Display,Display,597.57
+2174,303,2026-08-04 23:53:00,Email,EMAIL-Reactivation,1,4,Email,Paid Search,279.92
+2174,303,2026-08-06 10:33:00,Display,DISPLAY-Retargeting,2,4,Email,Paid Search,279.92
+2174,303,2026-08-13 11:09:00,Paid Social,META-Retargeting,3,4,Email,Paid Search,279.92
+2174,303,2026-08-16 05:24:00,Paid Search,PS-Brand,4,4,Email,Paid Search,279.92
+2175,304,2026-03-05 01:55:00,Display,DISPLAY-Prospecting,1,2,Display,Referral,492.18
+2175,304,2026-03-05 13:52:00,Referral,REF-Customer,2,2,Display,Referral,492.18
+2177,305,2026-08-17 22:22:00,Email,EMAIL-Reactivation,1,2,Email,Referral,316.56
+2177,305,2026-09-04 23:45:00,Referral,REF-Customer,2,2,Email,Referral,316.56
+2179,306,2026-01-18 17:53:00,Referral,REF-Partner,1,4,Referral,Paid Social,484.61
+2179,306,2026-01-20 10:51:00,Email,EMAIL-Reactivation,2,4,Referral,Paid Social,484.61
+2179,306,2026-01-21 03:58:00,Paid Search,PS-NonBrand,3,4,Referral,Paid Social,484.61
+2179,306,2026-01-22 16:38:00,Paid Social,META-Retargeting,4,4,Referral,Paid Social,484.61
+2181,307,2026-02-28 08:19:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,552.66
+2181,307,2026-03-02 00:14:00,Organic Search,SEO-Product,2,4,Organic Search,Paid Search,552.66
+2181,307,2026-03-10 21:52:00,Paid Search,PS-NonBrand,3,4,Organic Search,Paid Search,552.66
+2181,307,2026-03-11 00:31:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,552.66
+2187,308,2026-07-13 22:21:00,Referral,REF-Customer,1,2,Referral,Paid Search,567.18
+2187,308,2026-07-27 01:10:00,Paid Search,PS-NonBrand,2,2,Referral,Paid Search,567.18
+2226,309,2025-10-27 04:58:00,Referral,REF-Customer,1,5,Referral,Organic Search,201.66
+2226,309,2025-10-28 06:31:00,Email,EMAIL-Reactivation,2,5,Referral,Organic Search,201.66
+2226,309,2025-11-01 12:33:00,Paid Social,META-Retargeting,3,5,Referral,Organic Search,201.66
+2226,309,2025-11-10 12:28:00,Paid Search,PS-NonBrand,4,5,Referral,Organic Search,201.66
+2226,309,2025-11-13 05:18:00,Organic Search,SEO-Content,5,5,Referral,Organic Search,201.66
+2231,310,2026-05-09 07:38:00,Email,EMAIL-Reactivation,1,1,Email,Email,355.61
+2239,311,2026-02-10 02:51:00,Organic Search,SEO-Content,1,2,Organic Search,Paid Search,1543.08
+2239,311,2026-02-10 05:23:00,Paid Search,PS-Brand,2,2,Organic Search,Paid Search,1543.08
+2249,312,2025-12-12 22:07:00,Paid Search,PS-Brand,1,5,Paid Search,Referral,410.71
+2249,312,2025-12-20 01:42:00,Email,EMAIL-Nurture,2,5,Paid Search,Referral,410.71
+2249,312,2025-12-20 02:53:00,Paid Social,META-Retargeting,3,5,Paid Search,Referral,410.71
+2249,312,2025-12-21 01:33:00,Email,EMAIL-Reactivation,4,5,Paid Search,Referral,410.71
+2249,312,2025-12-26 06:01:00,Referral,REF-Customer,5,5,Paid Search,Referral,410.71
+2251,313,2026-03-02 22:32:00,Email,EMAIL-Nurture,1,1,Email,Email,388.88
+2260,314,2026-06-03 12:01:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,427.94
+2264,315,2026-05-31 18:28:00,Display,DISPLAY-Retargeting,1,3,Display,Organic Search,352.84
+2264,315,2026-06-07 22:56:00,Paid Social,META-Retargeting,2,3,Display,Organic Search,352.84
+2264,315,2026-06-17 06:39:00,Organic Search,SEO-Content,3,3,Display,Organic Search,352.84
+2268,316,2026-01-31 13:49:00,Paid Social,META-Retargeting,1,3,Paid Social,Organic Search,481.23
+2268,316,2026-02-08 07:09:00,Email,EMAIL-Reactivation,2,3,Paid Social,Organic Search,481.23
+2268,316,2026-02-14 12:35:00,Organic Search,SEO-Product,3,3,Paid Social,Organic Search,481.23
+2276,317,2025-11-12 10:45:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,776.81
+2285,318,2026-01-04 11:34:00,Referral,REF-Customer,1,1,Referral,Referral,396.07
+2288,319,2026-07-06 11:29:00,Organic Search,SEO-Content,1,4,Organic Search,Organic Search,1296.43
+2288,319,2026-07-09 12:11:00,Paid Search,PS-NonBrand,2,4,Organic Search,Organic Search,1296.43
+2288,319,2026-07-20 20:52:00,Organic Search,SEO-Product,3,4,Organic Search,Organic Search,1296.43
+2288,319,2026-07-23 15:07:00,Organic Search,SEO-Product,4,4,Organic Search,Organic Search,1296.43
+2290,320,2026-08-07 04:58:00,Organic Search,SEO-Product,1,5,Organic Search,Paid Social,400.69
+2290,320,2026-08-13 05:19:00,Paid Social,META-Retargeting,2,5,Organic Search,Paid Social,400.69
+2290,320,2026-08-13 21:57:00,Paid Search,PS-Brand,3,5,Organic Search,Paid Social,400.69
+2290,320,2026-08-15 13:53:00,Paid Search,PS-NonBrand,4,5,Organic Search,Paid Social,400.69
+2290,320,2026-08-27 16:34:00,Paid Social,META-Prospecting,5,5,Organic Search,Paid Social,400.69
+2295,321,2026-03-10 13:16:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,167.03
+2307,322,2026-01-29 13:46:00,Paid Social,META-Retargeting,1,3,Paid Social,Email,1059.14
+2307,322,2026-02-01 23:30:00,Paid Search,PS-NonBrand,2,3,Paid Social,Email,1059.14
+2307,322,2026-02-16 19:16:00,Email,EMAIL-Nurture,3,3,Paid Social,Email,1059.14
+2308,323,2026-03-01 23:23:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Search,161.0
+2308,323,2026-03-14 01:38:00,Paid Social,META-Prospecting,2,3,Organic Search,Paid Search,161.0
+2308,323,2026-03-19 01:40:00,Paid Search,PS-Brand,3,3,Organic Search,Paid Search,161.0
+2329,324,2026-06-11 22:40:00,Paid Social,META-Retargeting,1,2,Paid Social,Organic Search,375.63
+2329,324,2026-06-23 04:56:00,Organic Search,SEO-Product,2,2,Paid Social,Organic Search,375.63
+2338,325,2025-10-29 14:03:00,Paid Social,META-Prospecting,1,3,Paid Social,Organic Search,557.54
+2338,325,2025-10-30 09:24:00,Display,DISPLAY-Retargeting,2,3,Paid Social,Organic Search,557.54
+2338,325,2025-11-11 13:42:00,Organic Search,SEO-Content,3,3,Paid Social,Organic Search,557.54
+2339,326,2026-01-19 17:17:00,Email,EMAIL-Reactivation,1,5,Email,Paid Search,311.73
+2339,326,2026-02-08 10:10:00,Paid Social,META-Retargeting,2,5,Email,Paid Search,311.73
+2339,326,2026-02-12 03:28:00,Paid Social,META-Retargeting,3,5,Email,Paid Search,311.73
+2339,326,2026-02-13 07:55:00,Organic Search,SEO-Content,4,5,Email,Paid Search,311.73
+2339,326,2026-02-15 14:24:00,Paid Search,PS-Brand,5,5,Email,Paid Search,311.73
+2347,327,2025-10-10 09:51:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Search,933.43
+2347,327,2025-10-25 00:42:00,Paid Social,META-Retargeting,2,4,Paid Search,Paid Search,933.43
+2347,327,2025-10-26 12:45:00,Paid Search,PS-NonBrand,3,4,Paid Search,Paid Search,933.43
+2347,327,2025-11-03 17:29:00,Paid Search,PS-NonBrand,4,4,Paid Search,Paid Search,933.43
+2349,328,2026-08-06 21:36:00,Organic Search,SEO-Content,1,2,Organic Search,Email,593.22
+2349,328,2026-08-19 03:15:00,Email,EMAIL-Nurture,2,2,Organic Search,Email,593.22
+2357,329,2026-02-24 16:46:00,Paid Social,META-Retargeting,1,3,Paid Social,Referral,453.4
+2357,329,2026-02-25 11:44:00,Display,DISPLAY-Retargeting,2,3,Paid Social,Referral,453.4
+2357,329,2026-03-23 19:41:00,Referral,REF-Customer,3,3,Paid Social,Referral,453.4
+2380,330,2025-11-08 02:29:00,Display,DISPLAY-Prospecting,1,5,Display,Organic Search,389.03
+2380,330,2025-11-14 07:04:00,Display,DISPLAY-Retargeting,2,5,Display,Organic Search,389.03
+2380,330,2025-11-20 22:01:00,Paid Search,PS-Brand,3,5,Display,Organic Search,389.03
+2380,330,2025-11-23 03:53:00,Email,EMAIL-Reactivation,4,5,Display,Organic Search,389.03
+2380,330,2025-11-25 12:28:00,Organic Search,SEO-Content,5,5,Display,Organic Search,389.03
+2382,331,2026-02-14 12:20:00,Paid Search,PS-Brand,1,4,Paid Search,Referral,629.92
+2382,331,2026-02-18 15:34:00,Paid Social,META-Retargeting,2,4,Paid Search,Referral,629.92
+2382,331,2026-02-28 06:31:00,Referral,REF-Customer,3,4,Paid Search,Referral,629.92
+2382,331,2026-03-01 01:17:00,Referral,REF-Partner,4,4,Paid Search,Referral,629.92
+2391,332,2026-04-29 16:08:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,848.65
+2411,333,2025-11-29 06:52:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,398.43
+2422,334,2025-10-12 02:23:00,Paid Social,META-Prospecting,1,2,Paid Social,Email,395.2
+2422,334,2025-11-09 16:03:00,Email,EMAIL-Nurture,2,2,Paid Social,Email,395.2
+2431,335,2026-07-07 01:12:00,Email,EMAIL-Nurture,1,3,Email,Organic Search,694.95
+2431,335,2026-07-12 17:29:00,Email,EMAIL-Nurture,2,3,Email,Organic Search,694.95
+2431,335,2026-07-16 02:39:00,Organic Search,SEO-Content,3,3,Email,Organic Search,694.95
+2434,336,2026-01-05 16:42:00,Email,EMAIL-Reactivation,1,5,Email,Organic Search,188.13
+2434,336,2026-01-10 07:19:00,Organic Search,SEO-Content,2,5,Email,Organic Search,188.13
+2434,336,2026-01-10 16:46:00,Email,EMAIL-Reactivation,3,5,Email,Organic Search,188.13
+2434,336,2026-01-13 12:32:00,Paid Search,PS-Brand,4,5,Email,Organic Search,188.13
+2434,336,2026-01-19 03:16:00,Organic Search,SEO-Content,5,5,Email,Organic Search,188.13
+2468,337,2026-04-08 01:24:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,612.71
+2468,337,2026-04-09 15:19:00,Paid Search,PS-Brand,2,3,Paid Search,Paid Social,612.71
+2468,337,2026-05-05 06:56:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,612.71
+2483,338,2026-04-27 05:37:00,Paid Search,PS-Brand,1,3,Paid Search,Organic Search,415.24
+2483,338,2026-05-02 07:26:00,Referral,REF-Customer,2,3,Paid Search,Organic Search,415.24
+2483,338,2026-05-10 21:30:00,Organic Search,SEO-Content,3,3,Paid Search,Organic Search,415.24
+2507,339,2026-01-05 11:43:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,1010.48
+2515,340,2026-04-29 04:50:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,696.06
+2522,341,2026-08-01 17:31:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,341.81
+2522,341,2026-08-12 09:39:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,341.81
+2524,342,2025-11-15 12:19:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,2335.85
+2525,343,2026-03-24 20:52:00,Email,EMAIL-Reactivation,1,1,Email,Email,461.94
+2532,344,2026-04-06 10:22:00,Email,EMAIL-Nurture,1,5,Email,Paid Search,536.98
+2532,344,2026-04-13 03:11:00,Paid Search,PS-NonBrand,2,5,Email,Paid Search,536.98
+2532,344,2026-04-22 12:22:00,Email,EMAIL-Reactivation,3,5,Email,Paid Search,536.98
+2532,344,2026-04-24 04:45:00,Paid Search,PS-Brand,4,5,Email,Paid Search,536.98
+2532,344,2026-04-30 23:12:00,Paid Search,PS-Brand,5,5,Email,Paid Search,536.98
+2538,345,2026-03-23 17:50:00,Email,EMAIL-Reactivation,1,5,Email,Referral,758.04
+2538,345,2026-03-28 00:31:00,Paid Search,PS-NonBrand,2,5,Email,Referral,758.04
+2538,345,2026-03-28 08:01:00,Referral,REF-Customer,3,5,Email,Referral,758.04
+2538,345,2026-04-03 19:33:00,Email,EMAIL-Reactivation,4,5,Email,Referral,758.04
+2538,345,2026-04-14 07:02:00,Referral,REF-Partner,5,5,Email,Referral,758.04
+2548,346,2026-08-27 22:56:00,Email,EMAIL-Reactivation,1,1,Email,Email,644.98
+2558,347,2026-02-08 03:52:00,Paid Social,META-Prospecting,1,3,Paid Social,Organic Search,143.67
+2558,347,2026-02-15 10:20:00,Display,DISPLAY-Prospecting,2,3,Paid Social,Organic Search,143.67
+2558,347,2026-03-04 18:06:00,Organic Search,SEO-Content,3,3,Paid Social,Organic Search,143.67
+2559,348,2025-12-10 18:46:00,Display,DISPLAY-Prospecting,1,1,Display,Display,1316.66
+2566,349,2025-12-08 23:54:00,Email,EMAIL-Reactivation,1,2,Email,Paid Search,391.94
+2566,349,2026-01-01 23:55:00,Paid Search,PS-NonBrand,2,2,Email,Paid Search,391.94
+2576,350,2026-03-19 13:22:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,322.03
+2589,351,2026-05-18 22:32:00,Email,EMAIL-Nurture,1,1,Email,Email,294.69
+2592,352,2025-11-20 01:35:00,Email,EMAIL-Nurture,1,2,Email,Paid Search,382.77
+2592,352,2025-11-25 11:06:00,Paid Search,PS-NonBrand,2,2,Email,Paid Search,382.77
+2605,353,2025-12-21 22:52:00,Display,DISPLAY-Prospecting,1,3,Display,Referral,667.73
+2605,353,2025-12-26 11:21:00,Organic Search,SEO-Content,2,3,Display,Referral,667.73
+2605,353,2026-01-05 11:30:00,Referral,REF-Customer,3,3,Display,Referral,667.73
+2607,354,2026-09-19 18:58:00,Referral,REF-Customer,1,1,Referral,Referral,385.91
+2608,355,2026-05-30 02:47:00,Organic Search,SEO-Product,1,3,Organic Search,Referral,260.98
+2608,355,2026-06-02 05:00:00,Paid Social,META-Retargeting,2,3,Organic Search,Referral,260.98
+2608,355,2026-06-10 22:59:00,Referral,REF-Customer,3,3,Organic Search,Referral,260.98
+2634,356,2026-03-23 21:15:00,Referral,REF-Customer,1,3,Referral,Organic Search,547.9
+2634,356,2026-03-24 17:41:00,Paid Search,PS-NonBrand,2,3,Referral,Organic Search,547.9
+2634,356,2026-04-11 22:40:00,Organic Search,SEO-Product,3,3,Referral,Organic Search,547.9
+2636,357,2026-05-26 23:23:00,Organic Search,SEO-Product,1,2,Organic Search,Referral,203.05
+2636,357,2026-06-02 13:13:00,Referral,REF-Customer,2,2,Organic Search,Referral,203.05
+2654,358,2025-12-18 11:43:00,Email,EMAIL-Nurture,1,1,Email,Email,309.69
+2656,359,2026-09-28 11:02:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,338.38
+2676,360,2026-04-26 11:45:00,Email,EMAIL-Reactivation,1,5,Email,Organic Search,667.45
+2676,360,2026-04-30 19:49:00,Paid Search,PS-Brand,2,5,Email,Organic Search,667.45
+2676,360,2026-04-30 20:01:00,Display,DISPLAY-Retargeting,3,5,Email,Organic Search,667.45
+2676,360,2026-05-02 00:16:00,Organic Search,SEO-Product,4,5,Email,Organic Search,667.45
+2676,360,2026-05-09 22:40:00,Organic Search,SEO-Content,5,5,Email,Organic Search,667.45
+2681,361,2026-03-20 03:01:00,Referral,REF-Partner,1,1,Referral,Referral,300.95
+2694,362,2026-01-01 03:24:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,279.58
+2710,363,2026-02-02 07:17:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,624.21
+2710,363,2026-02-07 21:32:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,624.21
+2723,364,2026-09-12 04:54:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,210.88
+2732,365,2026-03-01 01:48:00,Display,DISPLAY-Retargeting,1,1,Display,Display,425.33
+2748,366,2026-02-05 16:53:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Social,511.31
+2748,366,2026-02-09 09:06:00,Organic Search,SEO-Content,2,4,Paid Search,Paid Social,511.31
+2748,366,2026-02-10 07:19:00,Paid Social,META-Retargeting,3,4,Paid Search,Paid Social,511.31
+2748,366,2026-02-28 08:16:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,511.31
+2749,367,2026-03-21 14:28:00,Display,DISPLAY-Retargeting,1,5,Display,Organic Search,902.6
+2749,367,2026-04-02 12:14:00,Display,DISPLAY-Retargeting,2,5,Display,Organic Search,902.6
+2749,367,2026-04-02 23:04:00,Paid Social,META-Retargeting,3,5,Display,Organic Search,902.6
+2749,367,2026-04-07 05:23:00,Referral,REF-Partner,4,5,Display,Organic Search,902.6
+2749,367,2026-04-14 19:28:00,Organic Search,SEO-Content,5,5,Display,Organic Search,902.6
+2758,368,2025-12-31 05:03:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Search,257.1
+2758,368,2026-01-05 13:10:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,257.1
+2760,369,2026-05-02 14:43:00,Organic Search,SEO-Product,1,4,Organic Search,Organic Search,264.55
+2760,369,2026-05-05 21:03:00,Organic Search,SEO-Content,2,4,Organic Search,Organic Search,264.55
+2760,369,2026-05-13 16:21:00,Email,EMAIL-Reactivation,3,4,Organic Search,Organic Search,264.55
+2760,369,2026-05-19 19:09:00,Organic Search,SEO-Product,4,4,Organic Search,Organic Search,264.55
+2762,370,2025-10-15 01:12:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,209.72
+2765,371,2026-03-04 22:53:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Search,344.72
+2765,371,2026-03-21 11:53:00,Paid Search,PS-Brand,2,2,Paid Social,Paid Search,344.72
+2769,372,2026-05-16 12:28:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Search,609.75
+2769,372,2026-05-27 08:14:00,Paid Social,META-Prospecting,2,4,Organic Search,Paid Search,609.75
+2769,372,2026-06-01 19:10:00,Display,DISPLAY-Retargeting,3,4,Organic Search,Paid Search,609.75
+2769,372,2026-06-04 21:45:00,Paid Search,PS-Brand,4,4,Organic Search,Paid Search,609.75
+2771,373,2025-12-19 08:05:00,Organic Search,SEO-Product,1,4,Organic Search,Referral,814.3
+2771,373,2025-12-30 20:05:00,Paid Search,PS-NonBrand,2,4,Organic Search,Referral,814.3
+2771,373,2026-01-01 09:08:00,Organic Search,SEO-Content,3,4,Organic Search,Referral,814.3
+2771,373,2026-01-03 16:37:00,Referral,REF-Partner,4,4,Organic Search,Referral,814.3
+2788,374,2025-10-20 17:50:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,225.58
+2790,375,2026-05-10 23:05:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,446.74
+2791,376,2025-12-12 13:41:00,Email,EMAIL-Reactivation,1,1,Email,Email,415.13
+2794,377,2025-11-16 04:41:00,Referral,REF-Partner,1,1,Referral,Referral,638.09
+2795,378,2026-08-12 20:41:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,578.45
+2795,378,2026-08-14 04:15:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,578.45
+2797,379,2026-02-14 01:34:00,Paid Search,PS-Brand,1,5,Paid Search,Referral,143.15
+2797,379,2026-02-16 16:20:00,Paid Social,META-Retargeting,2,5,Paid Search,Referral,143.15
+2797,379,2026-02-23 07:07:00,Paid Social,META-Retargeting,3,5,Paid Search,Referral,143.15
+2797,379,2026-02-23 08:24:00,Referral,REF-Partner,4,5,Paid Search,Referral,143.15
+2797,379,2026-02-27 18:17:00,Referral,REF-Customer,5,5,Paid Search,Referral,143.15
+2805,380,2025-12-18 23:46:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,532.28
+2814,381,2026-06-24 22:42:00,Email,EMAIL-Nurture,1,2,Email,Paid Search,740.34
+2814,381,2026-07-01 18:08:00,Paid Search,PS-Brand,2,2,Email,Paid Search,740.34
+2821,382,2026-02-22 05:16:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,534.87
+2821,382,2026-02-27 10:09:00,Paid Social,META-Retargeting,2,4,Organic Search,Paid Search,534.87
+2821,382,2026-03-02 03:22:00,Display,DISPLAY-Retargeting,3,4,Organic Search,Paid Search,534.87
+2821,382,2026-03-16 20:49:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,534.87
+2835,383,2026-02-05 18:22:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Search,695.31
+2835,383,2026-02-15 22:04:00,Organic Search,SEO-Product,2,3,Organic Search,Paid Search,695.31
+2835,383,2026-02-20 14:24:00,Paid Search,PS-Brand,3,3,Organic Search,Paid Search,695.31
+2841,384,2026-05-13 03:20:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Social,246.6
+2841,384,2026-05-24 12:20:00,Organic Search,SEO-Content,2,5,Paid Search,Paid Social,246.6
+2841,384,2026-05-27 19:50:00,Paid Search,PS-NonBrand,3,5,Paid Search,Paid Social,246.6
+2841,384,2026-05-29 11:43:00,Organic Search,SEO-Product,4,5,Paid Search,Paid Social,246.6
+2841,384,2026-05-31 20:53:00,Paid Social,META-Retargeting,5,5,Paid Search,Paid Social,246.6
+2845,385,2026-05-11 23:49:00,Paid Social,META-Prospecting,1,4,Paid Social,Organic Search,642.68
+2845,385,2026-05-27 05:03:00,Paid Social,META-Retargeting,2,4,Paid Social,Organic Search,642.68
+2845,385,2026-05-27 10:30:00,Paid Search,PS-NonBrand,3,4,Paid Social,Organic Search,642.68
+2845,385,2026-06-01 01:13:00,Organic Search,SEO-Product,4,4,Paid Social,Organic Search,642.68
+2849,386,2025-11-25 07:34:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,169.04
+2852,387,2026-03-12 17:18:00,Referral,REF-Partner,1,1,Referral,Referral,201.52
+2856,388,2026-09-25 13:08:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,486.53
+2861,389,2026-01-04 17:54:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,1009.89
+2861,389,2026-01-06 05:16:00,Email,EMAIL-Reactivation,2,4,Organic Search,Paid Search,1009.89
+2861,389,2026-01-11 08:05:00,Paid Search,PS-NonBrand,3,4,Organic Search,Paid Search,1009.89
+2861,389,2026-01-19 09:17:00,Paid Search,PS-Brand,4,4,Organic Search,Paid Search,1009.89
+2862,390,2026-01-31 21:26:00,Paid Social,META-Retargeting,1,3,Paid Social,Paid Social,419.43
+2862,390,2026-02-01 13:04:00,Email,EMAIL-Reactivation,2,3,Paid Social,Paid Social,419.43
+2862,390,2026-02-12 19:22:00,Paid Social,META-Prospecting,3,3,Paid Social,Paid Social,419.43
+2879,391,2026-08-09 18:34:00,Paid Search,PS-Brand,1,5,Paid Search,Organic Search,368.03
+2879,391,2026-08-11 20:01:00,Display,DISPLAY-Prospecting,2,5,Paid Search,Organic Search,368.03
+2879,391,2026-08-16 07:26:00,Paid Search,PS-NonBrand,3,5,Paid Search,Organic Search,368.03
+2879,391,2026-08-17 10:38:00,Paid Search,PS-NonBrand,4,5,Paid Search,Organic Search,368.03
+2879,391,2026-08-31 21:06:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,368.03
+2880,392,2026-03-28 19:39:00,Email,EMAIL-Nurture,1,4,Email,Organic Search,654.06
+2880,392,2026-03-29 12:43:00,Display,DISPLAY-Retargeting,2,4,Email,Organic Search,654.06
+2880,392,2026-04-02 10:39:00,Paid Search,PS-Brand,3,4,Email,Organic Search,654.06
+2880,392,2026-04-08 22:42:00,Organic Search,SEO-Product,4,4,Email,Organic Search,654.06
+2889,393,2026-06-19 12:20:00,Organic Search,SEO-Content,1,2,Organic Search,Paid Search,861.53
+2889,393,2026-07-10 21:06:00,Paid Search,PS-Brand,2,2,Organic Search,Paid Search,861.53
+2892,394,2026-05-09 16:01:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Social,246.35
+2892,394,2026-05-13 21:06:00,Paid Search,PS-NonBrand,2,4,Paid Social,Paid Social,246.35
+2892,394,2026-05-18 14:21:00,Referral,REF-Customer,3,4,Paid Social,Paid Social,246.35
+2892,394,2026-05-19 07:06:00,Paid Social,META-Prospecting,4,4,Paid Social,Paid Social,246.35
+2905,395,2026-03-30 22:56:00,Referral,REF-Partner,1,2,Referral,Referral,213.93
+2905,395,2026-04-03 23:03:00,Referral,REF-Partner,2,2,Referral,Referral,213.93
+2929,396,2026-08-05 11:30:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,401.73
+2936,397,2026-02-25 01:18:00,Paid Search,PS-NonBrand,1,5,Paid Search,Display,323.64
+2936,397,2026-02-27 21:23:00,Paid Social,META-Retargeting,2,5,Paid Search,Display,323.64
+2936,397,2026-03-03 05:31:00,Paid Social,META-Retargeting,3,5,Paid Search,Display,323.64
+2936,397,2026-03-10 18:38:00,Email,EMAIL-Nurture,4,5,Paid Search,Display,323.64
+2936,397,2026-03-25 09:37:00,Display,DISPLAY-Retargeting,5,5,Paid Search,Display,323.64
+2937,398,2026-08-02 12:55:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,198.24
+2942,399,2026-08-10 09:03:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,431.85
+2943,400,2026-06-10 06:04:00,Referral,REF-Customer,1,2,Referral,Paid Search,715.66
+2943,400,2026-06-10 08:00:00,Paid Search,PS-NonBrand,2,2,Referral,Paid Search,715.66
+2956,401,2026-07-30 08:29:00,Organic Search,SEO-Product,1,4,Organic Search,Organic Search,624.58
+2956,401,2026-08-01 22:33:00,Paid Social,META-Prospecting,2,4,Organic Search,Organic Search,624.58
+2956,401,2026-08-02 19:35:00,Paid Search,PS-Brand,3,4,Organic Search,Organic Search,624.58
+2956,401,2026-08-12 15:09:00,Organic Search,SEO-Product,4,4,Organic Search,Organic Search,624.58
+2960,402,2026-07-18 04:27:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Social,472.54
+2960,402,2026-07-26 23:50:00,Paid Search,PS-NonBrand,2,3,Organic Search,Paid Social,472.54
+2960,402,2026-08-11 02:35:00,Paid Social,META-Retargeting,3,3,Organic Search,Paid Social,472.54
+2961,403,2025-11-24 01:51:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Search,342.72
+2961,403,2025-12-03 06:24:00,Paid Search,PS-NonBrand,2,4,Organic Search,Paid Search,342.72
+2961,403,2025-12-17 10:14:00,Paid Search,PS-NonBrand,3,4,Organic Search,Paid Search,342.72
+2961,403,2025-12-20 06:32:00,Paid Search,PS-Brand,4,4,Organic Search,Paid Search,342.72
+2975,404,2026-08-11 14:33:00,Email,EMAIL-Reactivation,1,1,Email,Email,320.22
+2982,405,2026-08-17 09:22:00,Paid Search,PS-Brand,1,3,Paid Search,Referral,575.13
+2982,405,2026-09-01 16:26:00,Paid Search,PS-NonBrand,2,3,Paid Search,Referral,575.13
+2982,405,2026-09-02 12:01:00,Referral,REF-Customer,3,3,Paid Search,Referral,575.13
+2986,406,2026-07-26 10:05:00,Paid Social,META-Prospecting,1,5,Paid Social,Paid Search,994.15
+2986,406,2026-07-28 21:49:00,Email,EMAIL-Nurture,2,5,Paid Social,Paid Search,994.15
+2986,406,2026-07-31 06:27:00,Email,EMAIL-Nurture,3,5,Paid Social,Paid Search,994.15
+2986,406,2026-08-05 00:37:00,Paid Social,META-Retargeting,4,5,Paid Social,Paid Search,994.15
+2986,406,2026-08-08 04:11:00,Paid Search,PS-Brand,5,5,Paid Social,Paid Search,994.15
+2988,407,2025-12-10 08:28:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,396.32
+2988,407,2025-12-11 17:01:00,Paid Search,PS-Brand,2,4,Paid Social,Paid Search,396.32
+2988,407,2025-12-12 02:20:00,Referral,REF-Customer,3,4,Paid Social,Paid Search,396.32
+2988,407,2025-12-18 15:15:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,396.32
+2993,408,2025-12-17 07:57:00,Paid Social,META-Retargeting,1,5,Paid Social,Referral,150.18
+2993,408,2025-12-22 08:57:00,Paid Social,META-Retargeting,2,5,Paid Social,Referral,150.18
+2993,408,2025-12-25 21:46:00,Organic Search,SEO-Product,3,5,Paid Social,Referral,150.18
+2993,408,2025-12-26 14:30:00,Referral,REF-Customer,4,5,Paid Social,Referral,150.18
+2993,408,2025-12-30 16:15:00,Referral,REF-Partner,5,5,Paid Social,Referral,150.18
+2996,409,2025-10-26 23:08:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,224.25
+2996,409,2025-10-27 11:54:00,Email,EMAIL-Reactivation,2,4,Paid Search,Paid Social,224.25
+2996,409,2025-11-02 07:27:00,Email,EMAIL-Reactivation,3,4,Paid Search,Paid Social,224.25
+2996,409,2025-11-17 21:01:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,224.25
+3005,410,2026-08-02 19:56:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,891.62
+3005,410,2026-08-06 09:39:00,Referral,REF-Partner,2,4,Paid Search,Paid Social,891.62
+3005,410,2026-08-06 17:36:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Paid Social,891.62
+3005,410,2026-08-21 04:17:00,Paid Social,META-Prospecting,4,4,Paid Search,Paid Social,891.62
+3010,411,2026-01-25 22:44:00,Paid Social,META-Retargeting,1,2,Paid Social,Organic Search,224.07
+3010,411,2026-01-27 16:31:00,Organic Search,SEO-Product,2,2,Paid Social,Organic Search,224.07
+3012,412,2025-12-01 04:48:00,Display,DISPLAY-Retargeting,1,4,Display,Paid Social,607.38
+3012,412,2025-12-03 15:43:00,Organic Search,SEO-Content,2,4,Display,Paid Social,607.38
+3012,412,2025-12-05 16:36:00,Referral,REF-Partner,3,4,Display,Paid Social,607.38
+3012,412,2025-12-21 01:32:00,Paid Social,META-Prospecting,4,4,Display,Paid Social,607.38
+3014,413,2025-10-20 07:47:00,Email,EMAIL-Nurture,1,3,Email,Paid Search,279.85
+3014,413,2025-10-20 23:50:00,Paid Social,META-Retargeting,2,3,Email,Paid Search,279.85
+3014,413,2025-10-27 04:01:00,Paid Search,PS-Brand,3,3,Email,Paid Search,279.85
+3039,414,2026-02-20 20:27:00,Paid Social,META-Prospecting,1,3,Paid Social,Referral,996.44
+3039,414,2026-02-25 00:23:00,Referral,REF-Partner,2,3,Paid Social,Referral,996.44
+3039,414,2026-03-20 09:27:00,Referral,REF-Customer,3,3,Paid Social,Referral,996.44
+3043,415,2026-05-16 23:00:00,Referral,REF-Customer,1,2,Referral,Paid Social,536.46
+3043,415,2026-05-25 11:37:00,Paid Social,META-Retargeting,2,2,Referral,Paid Social,536.46
+3045,416,2026-03-18 21:57:00,Organic Search,SEO-Product,1,3,Organic Search,Paid Social,434.47
+3045,416,2026-03-25 04:57:00,Paid Search,PS-Brand,2,3,Organic Search,Paid Social,434.47
+3045,416,2026-04-04 19:52:00,Paid Social,META-Retargeting,3,3,Organic Search,Paid Social,434.47
+3046,417,2026-07-04 16:42:00,Email,EMAIL-Nurture,1,3,Email,Paid Search,509.14
+3046,417,2026-07-16 19:18:00,Paid Search,PS-Brand,2,3,Email,Paid Search,509.14
+3046,417,2026-07-23 00:56:00,Paid Search,PS-Brand,3,3,Email,Paid Search,509.14
+3049,418,2025-11-23 15:59:00,Email,EMAIL-Reactivation,1,4,Email,Display,1026.65
+3049,418,2025-11-26 16:56:00,Email,EMAIL-Nurture,2,4,Email,Display,1026.65
+3049,418,2025-11-27 03:03:00,Paid Social,META-Retargeting,3,4,Email,Display,1026.65
+3049,418,2025-12-12 09:45:00,Display,DISPLAY-Prospecting,4,4,Email,Display,1026.65
+3058,419,2026-02-02 16:02:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,324.43
+3058,419,2026-02-03 03:44:00,Paid Social,META-Prospecting,2,4,Paid Social,Paid Search,324.43
+3058,419,2026-02-15 02:51:00,Paid Social,META-Retargeting,3,4,Paid Social,Paid Search,324.43
+3058,419,2026-02-16 10:39:00,Paid Search,PS-Brand,4,4,Paid Social,Paid Search,324.43
+3059,420,2025-12-29 00:02:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,531.61
+3064,421,2026-08-21 19:38:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,230.17
+3069,422,2026-06-23 09:13:00,Email,EMAIL-Nurture,1,5,Email,Paid Search,753.97
+3069,422,2026-06-30 08:20:00,Paid Search,PS-NonBrand,2,5,Email,Paid Search,753.97
+3069,422,2026-07-02 10:44:00,Organic Search,SEO-Content,3,5,Email,Paid Search,753.97
+3069,422,2026-07-03 11:58:00,Paid Search,PS-NonBrand,4,5,Email,Paid Search,753.97
+3069,422,2026-07-07 16:12:00,Paid Search,PS-Brand,5,5,Email,Paid Search,753.97
+3070,423,2026-06-12 22:54:00,Display,DISPLAY-Prospecting,1,5,Display,Paid Search,699.02
+3070,423,2026-06-20 08:42:00,Paid Search,PS-NonBrand,2,5,Display,Paid Search,699.02
+3070,423,2026-06-23 21:09:00,Email,EMAIL-Reactivation,3,5,Display,Paid Search,699.02
+3070,423,2026-06-27 05:21:00,Paid Search,PS-Brand,4,5,Display,Paid Search,699.02
+3070,423,2026-06-29 14:39:00,Paid Search,PS-NonBrand,5,5,Display,Paid Search,699.02
+3082,424,2026-07-23 19:13:00,Email,EMAIL-Nurture,1,5,Email,Display,479.77
+3082,424,2026-07-31 10:23:00,Display,DISPLAY-Retargeting,2,5,Email,Display,479.77
+3082,424,2026-08-01 02:52:00,Referral,REF-Customer,3,5,Email,Display,479.77
+3082,424,2026-08-05 06:14:00,Paid Social,META-Retargeting,4,5,Email,Display,479.77
+3082,424,2026-08-05 18:11:00,Display,DISPLAY-Prospecting,5,5,Email,Display,479.77
+3083,425,2026-05-02 17:10:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,320.34
+3083,425,2026-05-03 21:21:00,Organic Search,SEO-Product,2,4,Organic Search,Paid Search,320.34
+3083,425,2026-05-05 02:07:00,Paid Social,META-Prospecting,3,4,Organic Search,Paid Search,320.34
+3083,425,2026-05-12 02:29:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,320.34
+3089,426,2026-04-12 01:15:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Social,297.05
+3089,426,2026-04-19 01:46:00,Paid Social,META-Retargeting,2,2,Paid Social,Paid Social,297.05
+3093,427,2026-06-16 06:32:00,Organic Search,SEO-Product,1,5,Organic Search,Organic Search,202.9
+3093,427,2026-06-24 14:48:00,Referral,REF-Customer,2,5,Organic Search,Organic Search,202.9
+3093,427,2026-07-08 01:02:00,Paid Social,META-Retargeting,3,5,Organic Search,Organic Search,202.9
+3093,427,2026-07-10 16:20:00,Email,EMAIL-Nurture,4,5,Organic Search,Organic Search,202.9
+3093,427,2026-07-10 23:52:00,Organic Search,SEO-Product,5,5,Organic Search,Organic Search,202.9
+3104,428,2025-11-23 15:06:00,Email,EMAIL-Reactivation,1,3,Email,Paid Social,590.24
+3104,428,2025-11-26 12:30:00,Referral,REF-Customer,2,3,Email,Paid Social,590.24
+3104,428,2025-11-28 02:46:00,Paid Social,META-Prospecting,3,3,Email,Paid Social,590.24
+3116,429,2026-05-19 10:44:00,Paid Social,META-Retargeting,1,3,Paid Social,Email,188.46
+3116,429,2026-05-25 14:51:00,Paid Social,META-Retargeting,2,3,Paid Social,Email,188.46
+3116,429,2026-05-26 22:01:00,Email,EMAIL-Reactivation,3,3,Paid Social,Email,188.46
+3123,430,2026-05-19 13:56:00,Referral,REF-Partner,1,5,Referral,Email,571.86
+3123,430,2026-05-29 03:52:00,Paid Search,PS-Brand,2,5,Referral,Email,571.86
+3123,430,2026-05-29 23:50:00,Email,EMAIL-Reactivation,3,5,Referral,Email,571.86
+3123,430,2026-06-01 10:18:00,Email,EMAIL-Nurture,4,5,Referral,Email,571.86
+3123,430,2026-06-03 06:13:00,Email,EMAIL-Reactivation,5,5,Referral,Email,571.86
+3130,431,2026-03-30 12:24:00,Paid Social,META-Retargeting,1,4,Paid Social,Display,970.97
+3130,431,2026-03-31 22:39:00,Referral,REF-Customer,2,4,Paid Social,Display,970.97
+3130,431,2026-04-15 01:58:00,Display,DISPLAY-Prospecting,3,4,Paid Social,Display,970.97
+3130,431,2026-04-15 14:48:00,Display,DISPLAY-Prospecting,4,4,Paid Social,Display,970.97
+3131,432,2026-05-11 20:14:00,Display,DISPLAY-Prospecting,1,2,Display,Paid Search,310.31
+3131,432,2026-05-12 21:38:00,Paid Search,PS-Brand,2,2,Display,Paid Search,310.31
+3132,433,2026-02-17 16:57:00,Paid Social,META-Prospecting,1,2,Paid Social,Display,774.75
+3132,433,2026-03-03 15:00:00,Display,DISPLAY-Retargeting,2,2,Paid Social,Display,774.75
+3140,434,2026-05-26 00:39:00,Paid Social,META-Retargeting,1,2,Paid Social,Referral,307.47
+3140,434,2026-05-26 09:19:00,Referral,REF-Partner,2,2,Paid Social,Referral,307.47
+3143,435,2025-12-21 11:11:00,Email,EMAIL-Nurture,1,3,Email,Referral,554.08
+3143,435,2026-01-11 16:32:00,Paid Search,PS-Brand,2,3,Email,Referral,554.08
+3143,435,2026-01-13 13:01:00,Referral,REF-Customer,3,3,Email,Referral,554.08
+3149,436,2026-05-07 23:32:00,Organic Search,SEO-Content,1,4,Organic Search,Display,294.07
+3149,436,2026-05-22 02:03:00,Display,DISPLAY-Retargeting,2,4,Organic Search,Display,294.07
+3149,436,2026-05-23 14:28:00,Organic Search,SEO-Product,3,4,Organic Search,Display,294.07
+3149,436,2026-05-25 15:20:00,Display,DISPLAY-Retargeting,4,4,Organic Search,Display,294.07
+3150,437,2026-07-20 06:42:00,Organic Search,SEO-Product,1,2,Organic Search,Email,374.88
+3150,437,2026-07-25 21:32:00,Email,EMAIL-Reactivation,2,2,Organic Search,Email,374.88
+3152,438,2026-03-21 12:01:00,Paid Search,PS-Brand,1,5,Paid Search,Paid Search,1217.55
+3152,438,2026-03-29 06:15:00,Referral,REF-Partner,2,5,Paid Search,Paid Search,1217.55
+3152,438,2026-04-02 13:24:00,Paid Search,PS-NonBrand,3,5,Paid Search,Paid Search,1217.55
+3152,438,2026-04-07 13:59:00,Paid Social,META-Retargeting,4,5,Paid Search,Paid Search,1217.55
+3152,438,2026-04-11 09:35:00,Paid Search,PS-Brand,5,5,Paid Search,Paid Search,1217.55
+3154,439,2026-08-28 17:32:00,Email,EMAIL-Nurture,1,1,Email,Email,539.53
+3161,440,2026-05-13 20:04:00,Email,EMAIL-Nurture,1,3,Email,Organic Search,173.1
+3161,440,2026-05-17 20:04:00,Email,EMAIL-Nurture,2,3,Email,Organic Search,173.1
+3161,440,2026-05-26 01:42:00,Organic Search,SEO-Product,3,3,Email,Organic Search,173.1
+3171,441,2026-01-21 10:12:00,Paid Search,PS-NonBrand,1,4,Paid Search,Email,719.81
+3171,441,2026-01-22 21:49:00,Paid Search,PS-Brand,2,4,Paid Search,Email,719.81
+3171,441,2026-01-31 08:50:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Email,719.81
+3171,441,2026-02-05 20:43:00,Email,EMAIL-Reactivation,4,4,Paid Search,Email,719.81
+3174,442,2025-11-11 20:49:00,Paid Search,PS-NonBrand,1,3,Paid Search,Paid Social,357.95
+3174,442,2025-11-27 19:27:00,Paid Social,META-Retargeting,2,3,Paid Search,Paid Social,357.95
+3174,442,2025-12-07 00:21:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,357.95
+3178,443,2026-04-05 04:07:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Social,276.51
+3178,443,2026-04-15 07:40:00,Paid Search,PS-NonBrand,2,4,Organic Search,Paid Social,276.51
+3178,443,2026-04-24 11:21:00,Organic Search,SEO-Product,3,4,Organic Search,Paid Social,276.51
+3178,443,2026-04-30 00:41:00,Paid Social,META-Retargeting,4,4,Organic Search,Paid Social,276.51
+3182,444,2026-05-04 07:49:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Search,322.98
+3182,444,2026-05-19 06:20:00,Paid Search,PS-Brand,2,2,Paid Social,Paid Search,322.98
+3188,445,2026-07-26 09:53:00,Referral,REF-Partner,1,2,Referral,Referral,227.92
+3188,445,2026-08-13 06:17:00,Referral,REF-Partner,2,2,Referral,Referral,227.92
+3194,446,2026-08-16 15:11:00,Display,DISPLAY-Retargeting,1,3,Display,Referral,282.81
+3194,446,2026-08-19 09:11:00,Organic Search,SEO-Product,2,3,Display,Referral,282.81
+3194,446,2026-09-07 08:53:00,Referral,REF-Partner,3,3,Display,Referral,282.81
+3198,447,2026-05-11 05:42:00,Paid Search,PS-NonBrand,1,3,Paid Search,Email,745.71
+3198,447,2026-06-05 06:22:00,Paid Social,META-Retargeting,2,3,Paid Search,Email,745.71
+3198,447,2026-06-07 19:38:00,Email,EMAIL-Nurture,3,3,Paid Search,Email,745.71
+3201,448,2026-01-06 23:29:00,Referral,REF-Partner,1,1,Referral,Referral,731.22
+3210,449,2026-02-11 19:12:00,Paid Search,PS-Brand,1,5,Paid Search,Referral,1281.38
+3210,449,2026-02-14 07:56:00,Email,EMAIL-Nurture,2,5,Paid Search,Referral,1281.38
+3210,449,2026-02-16 20:38:00,Referral,REF-Customer,3,5,Paid Search,Referral,1281.38
+3210,449,2026-02-20 07:32:00,Paid Social,META-Retargeting,4,5,Paid Search,Referral,1281.38
+3210,449,2026-02-26 20:14:00,Referral,REF-Partner,5,5,Paid Search,Referral,1281.38
+3224,450,2026-08-08 10:05:00,Referral,REF-Partner,1,3,Referral,Display,334.74
+3224,450,2026-08-13 01:58:00,Display,DISPLAY-Retargeting,2,3,Referral,Display,334.74
+3224,450,2026-08-21 16:33:00,Display,DISPLAY-Prospecting,3,3,Referral,Display,334.74
+3226,451,2025-10-08 15:12:00,Referral,REF-Partner,1,4,Referral,Paid Search,578.93
+3226,451,2025-10-22 01:55:00,Organic Search,SEO-Content,2,4,Referral,Paid Search,578.93
+3226,451,2025-10-28 01:44:00,Paid Search,PS-Brand,3,4,Referral,Paid Search,578.93
+3226,451,2025-11-01 04:48:00,Paid Search,PS-Brand,4,4,Referral,Paid Search,578.93
+3229,452,2026-04-25 13:17:00,Email,EMAIL-Reactivation,1,5,Email,Paid Search,222.99
+3229,452,2026-05-02 11:36:00,Paid Social,META-Prospecting,2,5,Email,Paid Search,222.99
+3229,452,2026-05-05 21:00:00,Paid Social,META-Prospecting,3,5,Email,Paid Search,222.99
+3229,452,2026-05-08 15:32:00,Paid Social,META-Retargeting,4,5,Email,Paid Search,222.99
+3229,452,2026-05-21 20:35:00,Paid Search,PS-Brand,5,5,Email,Paid Search,222.99
+3237,453,2026-02-05 10:47:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,782.67
+3240,454,2025-10-23 05:56:00,Referral,REF-Partner,1,4,Referral,Paid Search,998.82
+3240,454,2025-10-25 04:55:00,Paid Social,META-Prospecting,2,4,Referral,Paid Search,998.82
+3240,454,2025-10-31 15:59:00,Email,EMAIL-Nurture,3,4,Referral,Paid Search,998.82
+3240,454,2025-11-13 17:10:00,Paid Search,PS-Brand,4,4,Referral,Paid Search,998.82
+3241,455,2026-02-16 08:44:00,Referral,REF-Customer,1,4,Referral,Display,262.67
+3241,455,2026-02-21 21:34:00,Paid Social,META-Retargeting,2,4,Referral,Display,262.67
+3241,455,2026-02-22 14:05:00,Paid Search,PS-Brand,3,4,Referral,Display,262.67
+3241,455,2026-03-08 06:43:00,Display,DISPLAY-Retargeting,4,4,Referral,Display,262.67
+3250,456,2026-01-01 04:04:00,Referral,REF-Customer,1,4,Referral,Display,335.53
+3250,456,2026-01-04 11:17:00,Organic Search,SEO-Content,2,4,Referral,Display,335.53
+3250,456,2026-01-10 20:35:00,Display,DISPLAY-Prospecting,3,4,Referral,Display,335.53
+3250,456,2026-01-14 16:29:00,Display,DISPLAY-Prospecting,4,4,Referral,Display,335.53
+3251,457,2025-11-08 18:15:00,Email,EMAIL-Reactivation,1,5,Email,Display,478.95
+3251,457,2025-11-08 22:47:00,Organic Search,SEO-Content,2,5,Email,Display,478.95
+3251,457,2025-11-19 23:07:00,Email,EMAIL-Reactivation,3,5,Email,Display,478.95
+3251,457,2025-11-24 16:23:00,Paid Search,PS-Brand,4,5,Email,Display,478.95
+3251,457,2025-11-26 17:46:00,Display,DISPLAY-Retargeting,5,5,Email,Display,478.95
+3254,458,2026-06-22 20:50:00,Email,EMAIL-Nurture,1,1,Email,Email,533.65
+3259,459,2025-10-15 03:28:00,Organic Search,SEO-Content,1,4,Organic Search,Organic Search,408.04
+3259,459,2025-10-18 19:41:00,Organic Search,SEO-Content,2,4,Organic Search,Organic Search,408.04
+3259,459,2025-10-19 01:41:00,Paid Social,META-Prospecting,3,4,Organic Search,Organic Search,408.04
+3259,459,2025-10-23 09:43:00,Organic Search,SEO-Content,4,4,Organic Search,Organic Search,408.04
+3262,460,2026-05-01 11:48:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,498.78
+3262,460,2026-05-05 20:33:00,Paid Search,PS-NonBrand,2,4,Paid Search,Paid Social,498.78
+3262,460,2026-05-10 12:22:00,Paid Search,PS-Brand,3,4,Paid Search,Paid Social,498.78
+3262,460,2026-05-16 03:44:00,Paid Social,META-Prospecting,4,4,Paid Search,Paid Social,498.78
+3264,461,2026-03-26 18:42:00,Paid Search,PS-NonBrand,1,3,Paid Search,Referral,567.83
+3264,461,2026-03-31 10:07:00,Referral,REF-Partner,2,3,Paid Search,Referral,567.83
+3264,461,2026-04-02 23:21:00,Referral,REF-Customer,3,3,Paid Search,Referral,567.83
+3272,462,2026-09-03 21:24:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,201.79
+3274,463,2026-03-31 18:06:00,Paid Search,PS-NonBrand,1,5,Paid Search,Display,344.0
+3274,463,2026-04-03 01:21:00,Paid Social,META-Retargeting,2,5,Paid Search,Display,344.0
+3274,463,2026-04-04 22:18:00,Paid Search,PS-NonBrand,3,5,Paid Search,Display,344.0
+3274,463,2026-04-12 17:03:00,Paid Search,PS-NonBrand,4,5,Paid Search,Display,344.0
+3274,463,2026-04-22 18:21:00,Display,DISPLAY-Prospecting,5,5,Paid Search,Display,344.0
+3277,464,2026-01-01 10:18:00,Referral,REF-Customer,1,4,Referral,Paid Search,1127.99
+3277,464,2026-01-06 10:02:00,Email,EMAIL-Nurture,2,4,Referral,Paid Search,1127.99
+3277,464,2026-01-10 12:52:00,Referral,REF-Partner,3,4,Referral,Paid Search,1127.99
+3277,464,2026-01-16 12:01:00,Paid Search,PS-NonBrand,4,4,Referral,Paid Search,1127.99
+3282,465,2026-03-11 10:24:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,431.02
+3283,466,2026-02-01 17:56:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,1019.2
+3324,467,2026-02-21 04:55:00,Email,EMAIL-Reactivation,1,2,Email,Paid Search,501.22
+3324,467,2026-03-10 13:12:00,Paid Search,PS-NonBrand,2,2,Email,Paid Search,501.22
+3331,468,2025-11-19 11:10:00,Email,EMAIL-Reactivation,1,5,Email,Paid Search,666.46
+3331,468,2025-12-03 01:39:00,Organic Search,SEO-Product,2,5,Email,Paid Search,666.46
+3331,468,2025-12-10 07:58:00,Paid Search,PS-NonBrand,3,5,Email,Paid Search,666.46
+3331,468,2025-12-15 18:22:00,Paid Social,META-Retargeting,4,5,Email,Paid Search,666.46
+3331,468,2025-12-16 11:36:00,Paid Search,PS-Brand,5,5,Email,Paid Search,666.46
+3339,469,2025-10-31 02:35:00,Display,DISPLAY-Retargeting,1,1,Display,Display,455.93
+3343,470,2025-10-23 07:41:00,Paid Search,PS-Brand,1,3,Paid Search,Referral,493.4
+3343,470,2025-11-14 19:21:00,Display,DISPLAY-Retargeting,2,3,Paid Search,Referral,493.4
+3343,470,2025-11-17 02:16:00,Referral,REF-Customer,3,3,Paid Search,Referral,493.4
+3348,471,2026-04-13 07:13:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,802.61
+3350,472,2026-07-14 12:01:00,Paid Social,META-Retargeting,1,3,Paid Social,Paid Social,854.51
+3350,472,2026-07-23 06:26:00,Organic Search,SEO-Product,2,3,Paid Social,Paid Social,854.51
+3350,472,2026-08-02 17:25:00,Paid Social,META-Retargeting,3,3,Paid Social,Paid Social,854.51
+3359,473,2025-12-12 21:37:00,Paid Search,PS-Brand,1,4,Paid Search,Referral,825.94
+3359,473,2025-12-23 22:08:00,Display,DISPLAY-Retargeting,2,4,Paid Search,Referral,825.94
+3359,473,2026-01-07 20:51:00,Referral,REF-Partner,3,4,Paid Search,Referral,825.94
+3359,473,2026-01-09 11:01:00,Referral,REF-Customer,4,4,Paid Search,Referral,825.94
+3360,474,2026-08-14 06:03:00,Email,EMAIL-Reactivation,1,5,Email,Referral,364.34
+3360,474,2026-08-15 13:20:00,Display,DISPLAY-Prospecting,2,5,Email,Referral,364.34
+3360,474,2026-08-16 23:34:00,Paid Search,PS-Brand,3,5,Email,Referral,364.34
+3360,474,2026-08-23 04:33:00,Referral,REF-Customer,4,5,Email,Referral,364.34
+3360,474,2026-08-28 16:05:00,Referral,REF-Customer,5,5,Email,Referral,364.34
+3361,475,2025-10-26 21:03:00,Paid Search,PS-Brand,1,3,Paid Search,Organic Search,401.33
+3361,475,2025-11-03 23:25:00,Organic Search,SEO-Content,2,3,Paid Search,Organic Search,401.33
+3361,475,2025-11-06 08:39:00,Organic Search,SEO-Product,3,3,Paid Search,Organic Search,401.33
+3365,476,2026-06-23 03:27:00,Paid Search,PS-Brand,1,3,Paid Search,Referral,181.4
+3365,476,2026-06-26 19:01:00,Email,EMAIL-Nurture,2,3,Paid Search,Referral,181.4
+3365,476,2026-07-17 08:52:00,Referral,REF-Customer,3,3,Paid Search,Referral,181.4
+3374,477,2026-02-18 17:15:00,Paid Social,META-Prospecting,1,2,Paid Social,Email,427.48
+3374,477,2026-02-27 22:41:00,Email,EMAIL-Reactivation,2,2,Paid Social,Email,427.48
+3377,478,2026-09-14 03:59:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,215.57
+3377,478,2026-09-21 01:24:00,Paid Social,META-Retargeting,2,2,Paid Search,Paid Social,215.57
+3383,479,2026-03-17 03:44:00,Referral,REF-Partner,1,5,Referral,Paid Search,651.54
+3383,479,2026-03-20 09:27:00,Display,DISPLAY-Retargeting,2,5,Referral,Paid Search,651.54
+3383,479,2026-03-29 09:47:00,Paid Social,META-Prospecting,3,5,Referral,Paid Search,651.54
+3383,479,2026-03-30 12:37:00,Referral,REF-Customer,4,5,Referral,Paid Search,651.54
+3383,479,2026-03-31 17:59:00,Paid Search,PS-Brand,5,5,Referral,Paid Search,651.54
+3388,480,2026-07-25 04:11:00,Paid Search,PS-NonBrand,1,5,Paid Search,Organic Search,307.67
+3388,480,2026-07-30 02:43:00,Paid Search,PS-Brand,2,5,Paid Search,Organic Search,307.67
+3388,480,2026-08-01 07:37:00,Email,EMAIL-Reactivation,3,5,Paid Search,Organic Search,307.67
+3388,480,2026-08-05 23:34:00,Email,EMAIL-Nurture,4,5,Paid Search,Organic Search,307.67
+3388,480,2026-08-10 12:42:00,Organic Search,SEO-Content,5,5,Paid Search,Organic Search,307.67
+3397,481,2026-08-19 06:31:00,Referral,REF-Partner,1,5,Referral,Paid Search,451.11
+3397,481,2026-08-21 17:55:00,Paid Search,PS-Brand,2,5,Referral,Paid Search,451.11
+3397,481,2026-08-23 03:30:00,Paid Social,META-Prospecting,3,5,Referral,Paid Search,451.11
+3397,481,2026-09-07 22:39:00,Display,DISPLAY-Retargeting,4,5,Referral,Paid Search,451.11
+3397,481,2026-09-10 09:55:00,Paid Search,PS-Brand,5,5,Referral,Paid Search,451.11
+3402,482,2026-08-10 16:50:00,Referral,REF-Partner,1,3,Referral,Paid Search,211.37
+3402,482,2026-08-31 03:24:00,Organic Search,SEO-Content,2,3,Referral,Paid Search,211.37
+3402,482,2026-09-02 23:42:00,Paid Search,PS-Brand,3,3,Referral,Paid Search,211.37
+3405,483,2026-01-05 06:18:00,Paid Search,PS-NonBrand,1,5,Paid Search,Email,373.98
+3405,483,2026-01-12 05:36:00,Referral,REF-Customer,2,5,Paid Search,Email,373.98
+3405,483,2026-01-16 16:35:00,Paid Social,META-Retargeting,3,5,Paid Search,Email,373.98
+3405,483,2026-01-26 22:32:00,Referral,REF-Customer,4,5,Paid Search,Email,373.98
+3405,483,2026-01-27 03:21:00,Email,EMAIL-Nurture,5,5,Paid Search,Email,373.98
+3408,484,2026-04-13 22:37:00,Referral,REF-Partner,1,1,Referral,Referral,554.0
+3429,485,2026-04-24 06:51:00,Paid Search,PS-Brand,1,5,Paid Search,Paid Search,466.07
+3429,485,2026-04-27 23:16:00,Paid Search,PS-Brand,2,5,Paid Search,Paid Search,466.07
+3429,485,2026-04-28 12:58:00,Referral,REF-Customer,3,5,Paid Search,Paid Search,466.07
+3429,485,2026-04-29 11:13:00,Display,DISPLAY-Retargeting,4,5,Paid Search,Paid Search,466.07
+3429,485,2026-05-14 21:28:00,Paid Search,PS-NonBrand,5,5,Paid Search,Paid Search,466.07
+3432,486,2026-03-01 15:11:00,Paid Social,META-Prospecting,1,3,Paid Social,Paid Search,189.54
+3432,486,2026-03-06 15:47:00,Email,EMAIL-Nurture,2,3,Paid Social,Paid Search,189.54
+3432,486,2026-03-23 20:03:00,Paid Search,PS-Brand,3,3,Paid Social,Paid Search,189.54
+3433,487,2026-03-09 10:24:00,Referral,REF-Customer,1,1,Referral,Referral,195.8
+3446,488,2026-07-06 19:47:00,Referral,REF-Customer,1,3,Referral,Paid Search,716.29
+3446,488,2026-07-19 23:15:00,Paid Social,META-Prospecting,2,3,Referral,Paid Search,716.29
+3446,488,2026-07-22 14:11:00,Paid Search,PS-NonBrand,3,3,Referral,Paid Search,716.29
+3462,489,2026-04-13 14:46:00,Email,EMAIL-Nurture,1,4,Email,Paid Search,364.65
+3462,489,2026-04-24 21:09:00,Referral,REF-Customer,2,4,Email,Paid Search,364.65
+3462,489,2026-04-26 13:30:00,Paid Social,META-Prospecting,3,4,Email,Paid Search,364.65
+3462,489,2026-04-28 01:40:00,Paid Search,PS-NonBrand,4,4,Email,Paid Search,364.65
+3465,490,2026-08-10 01:30:00,Paid Search,PS-NonBrand,1,2,Paid Search,Referral,849.71
+3465,490,2026-08-29 20:44:00,Referral,REF-Customer,2,2,Paid Search,Referral,849.71
+3467,491,2026-06-30 19:34:00,Display,DISPLAY-Retargeting,1,2,Display,Organic Search,466.82
+3467,491,2026-07-04 00:53:00,Organic Search,SEO-Product,2,2,Display,Organic Search,466.82
+3471,492,2026-09-01 18:30:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,486.12
+3472,493,2026-02-20 14:36:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,551.87
+3472,493,2026-03-06 08:40:00,Referral,REF-Customer,2,3,Paid Search,Paid Social,551.87
+3472,493,2026-03-13 22:36:00,Paid Social,META-Prospecting,3,3,Paid Search,Paid Social,551.87
+3473,494,2026-04-04 14:03:00,Paid Social,META-Retargeting,1,4,Paid Social,Referral,895.72
+3473,494,2026-04-07 02:14:00,Paid Search,PS-Brand,2,4,Paid Social,Referral,895.72
+3473,494,2026-04-13 17:20:00,Paid Social,META-Retargeting,3,4,Paid Social,Referral,895.72
+3473,494,2026-04-16 15:23:00,Referral,REF-Customer,4,4,Paid Social,Referral,895.72
+3475,495,2025-11-08 10:02:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,194.1
+3479,496,2026-04-20 17:59:00,Email,EMAIL-Reactivation,1,3,Email,Paid Search,360.23
+3479,496,2026-05-13 00:52:00,Paid Search,PS-Brand,2,3,Email,Paid Search,360.23
+3479,496,2026-05-18 15:58:00,Paid Search,PS-Brand,3,3,Email,Paid Search,360.23
+3486,497,2025-12-06 19:48:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Social,431.86
+3486,497,2025-12-29 19:45:00,Paid Social,META-Prospecting,2,2,Paid Social,Paid Social,431.86
+3495,498,2025-11-20 08:18:00,Email,EMAIL-Reactivation,1,4,Email,Email,1089.56
+3495,498,2025-11-30 08:51:00,Paid Social,META-Retargeting,2,4,Email,Email,1089.56
+3495,498,2025-12-08 23:17:00,Paid Social,META-Prospecting,3,4,Email,Email,1089.56
+3495,498,2025-12-12 11:16:00,Email,EMAIL-Reactivation,4,4,Email,Email,1089.56
+3503,499,2026-04-26 12:18:00,Display,DISPLAY-Retargeting,1,2,Display,Organic Search,510.4
+3503,499,2026-05-06 21:39:00,Organic Search,SEO-Content,2,2,Display,Organic Search,510.4
+3510,500,2025-12-01 16:31:00,Email,EMAIL-Nurture,1,3,Email,Organic Search,320.45
+3510,500,2025-12-08 14:02:00,Paid Search,PS-Brand,2,3,Email,Organic Search,320.45
+3510,500,2025-12-10 04:31:00,Organic Search,SEO-Content,3,3,Email,Organic Search,320.45
+3518,501,2025-11-30 05:06:00,Paid Social,META-Retargeting,1,3,Paid Social,Referral,368.16
+3518,501,2025-12-02 14:16:00,Organic Search,SEO-Product,2,3,Paid Social,Referral,368.16
+3518,501,2025-12-20 15:12:00,Referral,REF-Customer,3,3,Paid Social,Referral,368.16
+3523,502,2026-01-22 21:18:00,Display,DISPLAY-Prospecting,1,4,Display,Referral,320.79
+3523,502,2026-01-23 08:32:00,Email,EMAIL-Reactivation,2,4,Display,Referral,320.79
+3523,502,2026-02-06 16:36:00,Organic Search,SEO-Product,3,4,Display,Referral,320.79
+3523,502,2026-02-18 14:34:00,Referral,REF-Partner,4,4,Display,Referral,320.79
+3533,503,2026-09-18 22:36:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Search,607.52
+3533,503,2026-09-23 11:47:00,Paid Social,META-Prospecting,2,3,Paid Search,Paid Search,607.52
+3533,503,2026-09-23 17:55:00,Paid Search,PS-Brand,3,3,Paid Search,Paid Search,607.52
+3548,504,2025-12-10 08:33:00,Paid Social,META-Retargeting,1,2,Paid Social,Display,511.57
+3548,504,2025-12-19 11:13:00,Display,DISPLAY-Retargeting,2,2,Paid Social,Display,511.57
+3552,505,2025-12-14 14:48:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Social,246.4
+3552,505,2025-12-21 06:17:00,Paid Social,META-Retargeting,2,2,Paid Social,Paid Social,246.4
+3555,506,2026-09-13 16:55:00,Display,DISPLAY-Retargeting,1,4,Display,Email,581.66
+3555,506,2026-09-15 23:40:00,Paid Search,PS-NonBrand,2,4,Display,Email,581.66
+3555,506,2026-09-18 18:28:00,Paid Search,PS-NonBrand,3,4,Display,Email,581.66
+3555,506,2026-09-26 11:29:00,Email,EMAIL-Reactivation,4,4,Display,Email,581.66
+3575,507,2026-07-16 00:49:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Search,364.61
+3575,507,2026-07-20 14:55:00,Paid Search,PS-NonBrand,2,2,Paid Search,Paid Search,364.61
+3576,508,2026-03-13 12:58:00,Display,DISPLAY-Retargeting,1,4,Display,Referral,626.67
+3576,508,2026-03-18 15:34:00,Organic Search,SEO-Content,2,4,Display,Referral,626.67
+3576,508,2026-04-05 08:20:00,Organic Search,SEO-Content,3,4,Display,Referral,626.67
+3576,508,2026-04-07 02:32:00,Referral,REF-Customer,4,4,Display,Referral,626.67
+3580,509,2026-03-23 02:10:00,Organic Search,SEO-Product,1,3,Organic Search,Display,361.54
+3580,509,2026-04-02 15:24:00,Paid Search,PS-NonBrand,2,3,Organic Search,Display,361.54
+3580,509,2026-04-16 14:44:00,Display,DISPLAY-Retargeting,3,3,Organic Search,Display,361.54
+3594,510,2025-11-21 18:27:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Social,673.82
+3594,510,2025-11-29 03:14:00,Display,DISPLAY-Retargeting,2,3,Paid Search,Paid Social,673.82
+3594,510,2025-12-03 05:36:00,Paid Social,META-Retargeting,3,3,Paid Search,Paid Social,673.82
+3595,511,2026-08-21 06:12:00,Display,DISPLAY-Prospecting,1,3,Display,Email,458.41
+3595,511,2026-08-24 19:04:00,Email,EMAIL-Nurture,2,3,Display,Email,458.41
+3595,511,2026-08-31 06:47:00,Email,EMAIL-Reactivation,3,3,Display,Email,458.41
+3614,512,2025-12-26 15:41:00,Referral,REF-Customer,1,1,Referral,Referral,322.29
+3616,513,2026-06-01 08:06:00,Referral,REF-Customer,1,5,Referral,Paid Social,191.96
+3616,513,2026-06-05 12:51:00,Organic Search,SEO-Product,2,5,Referral,Paid Social,191.96
+3616,513,2026-06-08 04:21:00,Display,DISPLAY-Retargeting,3,5,Referral,Paid Social,191.96
+3616,513,2026-06-10 20:52:00,Paid Social,META-Prospecting,4,5,Referral,Paid Social,191.96
+3616,513,2026-06-11 15:01:00,Paid Social,META-Prospecting,5,5,Referral,Paid Social,191.96
+3620,514,2026-06-29 05:18:00,Organic Search,SEO-Product,1,2,Organic Search,Organic Search,316.53
+3620,514,2026-07-11 04:26:00,Organic Search,SEO-Content,2,2,Organic Search,Organic Search,316.53
+3622,515,2026-06-13 14:26:00,Paid Social,META-Retargeting,1,3,Paid Social,Display,192.39
+3622,515,2026-06-19 16:16:00,Referral,REF-Partner,2,3,Paid Social,Display,192.39
+3622,515,2026-06-23 23:17:00,Display,DISPLAY-Prospecting,3,3,Paid Social,Display,192.39
+3628,516,2026-08-06 09:44:00,Email,EMAIL-Reactivation,1,4,Email,Display,354.46
+3628,516,2026-08-13 04:13:00,Display,DISPLAY-Retargeting,2,4,Email,Display,354.46
+3628,516,2026-08-19 19:58:00,Email,EMAIL-Reactivation,3,4,Email,Display,354.46
+3628,516,2026-08-21 09:14:00,Display,DISPLAY-Retargeting,4,4,Email,Display,354.46
+3630,517,2026-04-18 02:42:00,Email,EMAIL-Reactivation,1,4,Email,Paid Search,650.72
+3630,517,2026-04-22 23:47:00,Display,DISPLAY-Retargeting,2,4,Email,Paid Search,650.72
+3630,517,2026-04-23 23:22:00,Organic Search,SEO-Product,3,4,Email,Paid Search,650.72
+3630,517,2026-04-29 16:09:00,Paid Search,PS-NonBrand,4,4,Email,Paid Search,650.72
+3631,518,2025-10-26 15:14:00,Display,DISPLAY-Prospecting,1,2,Display,Email,177.38
+3631,518,2025-11-01 23:13:00,Email,EMAIL-Nurture,2,2,Display,Email,177.38
+3638,519,2026-05-05 19:58:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,456.43
+3638,519,2026-05-12 19:55:00,Organic Search,SEO-Content,2,4,Paid Search,Paid Social,456.43
+3638,519,2026-05-23 04:56:00,Paid Search,PS-Brand,3,4,Paid Search,Paid Social,456.43
+3638,519,2026-05-24 20:45:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,456.43
+3649,520,2026-02-28 03:11:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,247.83
+3649,520,2026-03-23 10:45:00,Paid Social,META-Retargeting,2,2,Paid Search,Paid Social,247.83
+3651,521,2026-07-14 20:35:00,Email,EMAIL-Reactivation,1,1,Email,Email,724.04
+3658,522,2026-02-06 03:04:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Social,246.07
+3658,522,2026-02-07 13:33:00,Paid Social,META-Prospecting,2,2,Paid Social,Paid Social,246.07
+3666,523,2025-12-12 14:46:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Social,685.24
+3666,523,2025-12-13 21:20:00,Paid Social,META-Prospecting,2,2,Paid Search,Paid Social,685.24
+3668,524,2026-03-26 10:40:00,Paid Social,META-Retargeting,1,5,Paid Social,Paid Search,930.8
+3668,524,2026-04-01 05:44:00,Paid Social,META-Prospecting,2,5,Paid Social,Paid Search,930.8
+3668,524,2026-04-02 08:59:00,Display,DISPLAY-Prospecting,3,5,Paid Social,Paid Search,930.8
+3668,524,2026-04-09 12:59:00,Organic Search,SEO-Product,4,5,Paid Social,Paid Search,930.8
+3668,524,2026-04-21 16:00:00,Paid Search,PS-NonBrand,5,5,Paid Social,Paid Search,930.8
+3677,525,2026-02-07 19:55:00,Referral,REF-Customer,1,1,Referral,Referral,502.7
+3682,526,2025-10-21 05:07:00,Referral,REF-Partner,1,2,Referral,Referral,445.13
+3682,526,2025-10-25 04:42:00,Referral,REF-Customer,2,2,Referral,Referral,445.13
+3687,527,2026-02-13 16:24:00,Email,EMAIL-Nurture,1,5,Email,Paid Search,261.11
+3687,527,2026-02-22 08:22:00,Organic Search,SEO-Product,2,5,Email,Paid Search,261.11
+3687,527,2026-02-23 18:50:00,Referral,REF-Partner,3,5,Email,Paid Search,261.11
+3687,527,2026-03-04 15:49:00,Email,EMAIL-Reactivation,4,5,Email,Paid Search,261.11
+3687,527,2026-03-11 09:12:00,Paid Search,PS-Brand,5,5,Email,Paid Search,261.11
+3709,528,2026-09-03 13:56:00,Referral,REF-Customer,1,5,Referral,Paid Search,648.3
+3709,528,2026-09-06 07:34:00,Email,EMAIL-Nurture,2,5,Referral,Paid Search,648.3
+3709,528,2026-09-16 10:16:00,Email,EMAIL-Nurture,3,5,Referral,Paid Search,648.3
+3709,528,2026-09-17 07:35:00,Paid Social,META-Retargeting,4,5,Referral,Paid Search,648.3
+3709,528,2026-09-19 17:16:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,648.3
+3716,529,2026-05-11 00:29:00,Paid Search,PS-Brand,1,5,Paid Search,Display,1598.87
+3716,529,2026-05-13 03:40:00,Paid Search,PS-NonBrand,2,5,Paid Search,Display,1598.87
+3716,529,2026-05-15 08:49:00,Paid Social,META-Retargeting,3,5,Paid Search,Display,1598.87
+3716,529,2026-05-20 16:56:00,Paid Social,META-Retargeting,4,5,Paid Search,Display,1598.87
+3716,529,2026-05-31 14:23:00,Display,DISPLAY-Retargeting,5,5,Paid Search,Display,1598.87
+3730,530,2026-01-16 23:12:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Social,403.3
+3730,530,2026-02-09 08:40:00,Paid Social,META-Retargeting,2,2,Paid Search,Paid Social,403.3
+3736,531,2025-12-31 09:03:00,Paid Social,META-Prospecting,1,5,Paid Social,Paid Search,863.24
+3736,531,2026-01-03 18:05:00,Display,DISPLAY-Retargeting,2,5,Paid Social,Paid Search,863.24
+3736,531,2026-01-13 09:48:00,Display,DISPLAY-Retargeting,3,5,Paid Social,Paid Search,863.24
+3736,531,2026-01-21 15:20:00,Paid Search,PS-NonBrand,4,5,Paid Social,Paid Search,863.24
+3736,531,2026-01-22 14:09:00,Paid Search,PS-NonBrand,5,5,Paid Social,Paid Search,863.24
+3741,532,2026-08-30 04:24:00,Paid Social,META-Prospecting,1,4,Paid Social,Referral,558.49
+3741,532,2026-09-04 23:35:00,Referral,REF-Customer,2,4,Paid Social,Referral,558.49
+3741,532,2026-09-08 01:15:00,Referral,REF-Partner,3,4,Paid Social,Referral,558.49
+3741,532,2026-09-17 14:43:00,Referral,REF-Partner,4,4,Paid Social,Referral,558.49
+3744,533,2026-04-02 22:16:00,Paid Social,META-Retargeting,1,2,Paid Social,Paid Search,960.84
+3744,533,2026-04-22 17:24:00,Paid Search,PS-Brand,2,2,Paid Social,Paid Search,960.84
+3756,534,2025-10-10 23:02:00,Referral,REF-Customer,1,4,Referral,Organic Search,330.78
+3756,534,2025-10-17 17:07:00,Display,DISPLAY-Prospecting,2,4,Referral,Organic Search,330.78
+3756,534,2025-10-25 18:12:00,Organic Search,SEO-Content,3,4,Referral,Organic Search,330.78
+3756,534,2025-11-07 02:19:00,Organic Search,SEO-Product,4,4,Referral,Organic Search,330.78
+3760,535,2026-09-28 07:21:00,Display,DISPLAY-Retargeting,1,1,Display,Display,753.5
+3770,536,2026-02-02 13:21:00,Paid Social,META-Retargeting,1,2,Paid Social,Organic Search,575.06
+3770,536,2026-02-13 18:10:00,Organic Search,SEO-Product,2,2,Paid Social,Organic Search,575.06
+3776,537,2026-06-21 18:50:00,Email,EMAIL-Reactivation,1,5,Email,Email,232.29
+3776,537,2026-06-29 21:14:00,Paid Social,META-Retargeting,2,5,Email,Email,232.29
+3776,537,2026-07-02 05:21:00,Paid Search,PS-NonBrand,3,5,Email,Email,232.29
+3776,537,2026-07-03 01:22:00,Email,EMAIL-Nurture,4,5,Email,Email,232.29
+3776,537,2026-07-08 06:01:00,Email,EMAIL-Reactivation,5,5,Email,Email,232.29
+3777,538,2025-12-01 22:01:00,Paid Social,META-Retargeting,1,3,Paid Social,Paid Social,596.8
+3777,538,2025-12-13 17:42:00,Email,EMAIL-Nurture,2,3,Paid Social,Paid Social,596.8
+3777,538,2025-12-20 21:15:00,Paid Social,META-Retargeting,3,3,Paid Social,Paid Social,596.8
+3783,539,2026-07-25 19:24:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,423.65
+3783,539,2026-08-11 19:04:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,423.65
+3784,540,2026-04-14 11:45:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Search,864.92
+3784,540,2026-04-16 22:01:00,Email,EMAIL-Nurture,2,5,Paid Search,Paid Search,864.92
+3784,540,2026-04-18 15:29:00,Paid Search,PS-Brand,3,5,Paid Search,Paid Search,864.92
+3784,540,2026-04-23 08:54:00,Referral,REF-Customer,4,5,Paid Search,Paid Search,864.92
+3784,540,2026-05-05 18:37:00,Paid Search,PS-Brand,5,5,Paid Search,Paid Search,864.92
+3793,541,2026-08-05 01:56:00,Email,EMAIL-Reactivation,1,2,Email,Email,204.13
+3793,541,2026-08-07 00:02:00,Email,EMAIL-Reactivation,2,2,Email,Email,204.13
+3794,542,2026-07-16 12:13:00,Email,EMAIL-Reactivation,1,3,Email,Referral,452.2
+3794,542,2026-07-21 23:14:00,Referral,REF-Partner,2,3,Email,Referral,452.2
+3794,542,2026-07-25 14:05:00,Referral,REF-Customer,3,3,Email,Referral,452.2
+3796,543,2025-10-28 07:10:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,612.76
+3799,544,2026-04-23 16:00:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Social,816.96
+3799,544,2026-04-30 05:07:00,Paid Search,PS-Brand,2,4,Organic Search,Paid Social,816.96
+3799,544,2026-05-02 10:10:00,Organic Search,SEO-Product,3,4,Organic Search,Paid Social,816.96
+3799,544,2026-05-06 16:43:00,Paid Social,META-Prospecting,4,4,Organic Search,Paid Social,816.96
+3803,545,2025-10-24 09:18:00,Paid Social,META-Prospecting,1,3,Paid Social,Referral,271.73
+3803,545,2025-10-29 23:02:00,Paid Search,PS-NonBrand,2,3,Paid Social,Referral,271.73
+3803,545,2025-11-17 08:57:00,Referral,REF-Customer,3,3,Paid Social,Referral,271.73
+3805,546,2026-06-24 22:43:00,Referral,REF-Partner,1,2,Referral,Paid Search,707.52
+3805,546,2026-06-25 23:56:00,Paid Search,PS-NonBrand,2,2,Referral,Paid Search,707.52
+3808,547,2026-02-13 21:26:00,Paid Search,PS-Brand,1,4,Paid Search,Organic Search,496.28
+3808,547,2026-03-12 10:06:00,Paid Search,PS-NonBrand,2,4,Paid Search,Organic Search,496.28
+3808,547,2026-03-13 08:04:00,Referral,REF-Customer,3,4,Paid Search,Organic Search,496.28
+3808,547,2026-03-13 18:11:00,Organic Search,SEO-Content,4,4,Paid Search,Organic Search,496.28
+3810,548,2026-09-23 16:48:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,394.7
+3816,549,2026-03-31 16:03:00,Paid Search,PS-NonBrand,1,4,Paid Search,Referral,486.44
+3816,549,2026-04-10 20:01:00,Paid Social,META-Retargeting,2,4,Paid Search,Referral,486.44
+3816,549,2026-04-16 09:42:00,Paid Social,META-Retargeting,3,4,Paid Search,Referral,486.44
+3816,549,2026-04-21 05:45:00,Referral,REF-Customer,4,4,Paid Search,Referral,486.44
+3824,550,2026-06-11 04:42:00,Referral,REF-Customer,1,2,Referral,Paid Search,481.4
+3824,550,2026-06-22 16:40:00,Paid Search,PS-Brand,2,2,Referral,Paid Search,481.4
+3839,551,2026-09-01 22:09:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Search,263.53
+3839,551,2026-09-04 21:24:00,Paid Search,PS-NonBrand,2,4,Organic Search,Paid Search,263.53
+3839,551,2026-09-12 06:22:00,Paid Search,PS-Brand,3,4,Organic Search,Paid Search,263.53
+3839,551,2026-09-13 13:42:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,263.53
+3843,552,2026-04-11 06:29:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,349.16
+3856,553,2026-06-06 20:42:00,Referral,REF-Partner,1,4,Referral,Organic Search,342.66
+3856,553,2026-06-10 07:37:00,Referral,REF-Customer,2,4,Referral,Organic Search,342.66
+3856,553,2026-06-25 15:19:00,Paid Search,PS-NonBrand,3,4,Referral,Organic Search,342.66
+3856,553,2026-06-29 21:36:00,Organic Search,SEO-Product,4,4,Referral,Organic Search,342.66
+3869,554,2025-12-27 01:53:00,Display,DISPLAY-Retargeting,1,2,Display,Organic Search,469.15
+3869,554,2026-01-04 23:48:00,Organic Search,SEO-Content,2,2,Display,Organic Search,469.15
+3876,555,2026-02-04 00:01:00,Email,EMAIL-Nurture,1,3,Email,Email,398.32
+3876,555,2026-02-07 18:03:00,Organic Search,SEO-Product,2,3,Email,Email,398.32
+3876,555,2026-02-23 15:25:00,Email,EMAIL-Reactivation,3,3,Email,Email,398.32
+3898,556,2026-03-10 09:35:00,Organic Search,SEO-Content,1,4,Organic Search,Referral,272.26
+3898,556,2026-03-12 13:53:00,Organic Search,SEO-Product,2,4,Organic Search,Referral,272.26
+3898,556,2026-03-19 01:31:00,Paid Search,PS-Brand,3,4,Organic Search,Referral,272.26
+3898,556,2026-03-23 01:56:00,Referral,REF-Customer,4,4,Organic Search,Referral,272.26
+3931,557,2026-05-03 01:29:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Search,284.99
+3931,557,2026-05-19 10:45:00,Paid Search,PS-Brand,2,4,Paid Social,Paid Search,284.99
+3931,557,2026-05-27 21:57:00,Organic Search,SEO-Product,3,4,Paid Social,Paid Search,284.99
+3931,557,2026-05-31 06:14:00,Paid Search,PS-Brand,4,4,Paid Social,Paid Search,284.99
+3933,558,2026-08-05 11:04:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,934.84
+3947,559,2026-08-16 21:25:00,Email,EMAIL-Nurture,1,5,Email,Paid Social,699.93
+3947,559,2026-08-20 11:31:00,Paid Social,META-Retargeting,2,5,Email,Paid Social,699.93
+3947,559,2026-08-23 10:47:00,Display,DISPLAY-Retargeting,3,5,Email,Paid Social,699.93
+3947,559,2026-08-30 15:57:00,Email,EMAIL-Nurture,4,5,Email,Paid Social,699.93
+3947,559,2026-09-10 10:12:00,Paid Social,META-Retargeting,5,5,Email,Paid Social,699.93
+3957,560,2025-11-16 10:34:00,Paid Social,META-Prospecting,1,5,Paid Social,Organic Search,430.14
+3957,560,2025-11-16 13:41:00,Organic Search,SEO-Product,2,5,Paid Social,Organic Search,430.14
+3957,560,2025-11-22 13:50:00,Paid Social,META-Retargeting,3,5,Paid Social,Organic Search,430.14
+3957,560,2025-11-24 01:45:00,Paid Social,META-Retargeting,4,5,Paid Social,Organic Search,430.14
+3957,560,2025-11-26 02:19:00,Organic Search,SEO-Product,5,5,Paid Social,Organic Search,430.14
+3959,561,2026-07-08 21:49:00,Referral,REF-Partner,1,3,Referral,Paid Search,412.3
+3959,561,2026-07-14 12:57:00,Paid Social,META-Retargeting,2,3,Referral,Paid Search,412.3
+3959,561,2026-08-03 19:49:00,Paid Search,PS-Brand,3,3,Referral,Paid Search,412.3
+3964,562,2026-04-16 20:57:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,197.61
+3965,563,2026-05-17 09:54:00,Email,EMAIL-Reactivation,1,4,Email,Organic Search,1226.15
+3965,563,2026-05-22 22:49:00,Paid Search,PS-Brand,2,4,Email,Organic Search,1226.15
+3965,563,2026-05-26 04:05:00,Paid Search,PS-NonBrand,3,4,Email,Organic Search,1226.15
+3965,563,2026-06-08 14:19:00,Organic Search,SEO-Content,4,4,Email,Organic Search,1226.15
+3971,564,2026-08-13 09:03:00,Paid Search,PS-Brand,1,3,Paid Search,Referral,549.0
+3971,564,2026-08-26 14:24:00,Paid Search,PS-NonBrand,2,3,Paid Search,Referral,549.0
+3971,564,2026-08-27 21:12:00,Referral,REF-Customer,3,3,Paid Search,Referral,549.0
+3975,565,2026-02-17 07:55:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Search,143.41
+3975,565,2026-02-26 12:30:00,Paid Search,PS-Brand,2,5,Paid Search,Paid Search,143.41
+3975,565,2026-03-05 09:53:00,Email,EMAIL-Nurture,3,5,Paid Search,Paid Search,143.41
+3975,565,2026-03-05 20:10:00,Paid Search,PS-Brand,4,5,Paid Search,Paid Search,143.41
+3975,565,2026-03-11 22:32:00,Paid Search,PS-NonBrand,5,5,Paid Search,Paid Search,143.41
+3978,566,2026-06-13 13:05:00,Paid Social,META-Prospecting,1,4,Paid Social,Paid Social,216.71
+3978,566,2026-06-29 02:02:00,Organic Search,SEO-Product,2,4,Paid Social,Paid Social,216.71
+3978,566,2026-06-29 04:38:00,Paid Search,PS-NonBrand,3,4,Paid Social,Paid Social,216.71
+3978,566,2026-07-03 08:34:00,Paid Social,META-Prospecting,4,4,Paid Social,Paid Social,216.71
+3982,567,2026-07-16 18:29:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,504.07
+3982,567,2026-08-01 20:22:00,Paid Search,PS-NonBrand,2,4,Paid Search,Paid Social,504.07
+3982,567,2026-08-03 08:26:00,Referral,REF-Partner,3,4,Paid Search,Paid Social,504.07
+3982,567,2026-08-08 03:23:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,504.07
+3983,568,2026-04-01 05:31:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,320.54
+4003,569,2026-09-19 20:28:00,Referral,REF-Customer,1,1,Referral,Referral,202.44
+4004,570,2026-07-05 07:24:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Search,1233.61
+4004,570,2026-07-29 15:52:00,Referral,REF-Customer,2,4,Paid Social,Paid Search,1233.61
+4004,570,2026-07-31 21:41:00,Paid Search,PS-Brand,3,4,Paid Social,Paid Search,1233.61
+4004,570,2026-08-01 19:25:00,Paid Search,PS-Brand,4,4,Paid Social,Paid Search,1233.61
+4009,571,2026-04-10 14:17:00,Organic Search,SEO-Product,1,3,Organic Search,Paid Search,239.35
+4009,571,2026-04-19 09:19:00,Paid Search,PS-NonBrand,2,3,Organic Search,Paid Search,239.35
+4009,571,2026-04-20 10:21:00,Paid Search,PS-Brand,3,3,Organic Search,Paid Search,239.35
+4016,572,2026-02-14 18:36:00,Paid Search,PS-NonBrand,1,2,Paid Search,Organic Search,193.13
+4016,572,2026-02-17 19:08:00,Organic Search,SEO-Product,2,2,Paid Search,Organic Search,193.13
+4018,573,2026-08-26 12:22:00,Organic Search,SEO-Product,1,3,Organic Search,Referral,610.52
+4018,573,2026-09-07 21:14:00,Display,DISPLAY-Prospecting,2,3,Organic Search,Referral,610.52
+4018,573,2026-09-15 16:18:00,Referral,REF-Customer,3,3,Organic Search,Referral,610.52
+4025,574,2026-04-20 02:34:00,Email,EMAIL-Reactivation,1,2,Email,Paid Social,725.5
+4025,574,2026-04-28 23:55:00,Paid Social,META-Prospecting,2,2,Email,Paid Social,725.5
+4027,575,2026-03-31 09:51:00,Paid Social,META-Prospecting,1,3,Paid Social,Paid Search,392.06
+4027,575,2026-04-06 04:36:00,Organic Search,SEO-Content,2,3,Paid Social,Paid Search,392.06
+4027,575,2026-04-20 10:27:00,Paid Search,PS-NonBrand,3,3,Paid Social,Paid Search,392.06
+4035,576,2025-12-30 16:16:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Search,276.97
+4035,576,2026-01-04 04:34:00,Paid Search,PS-NonBrand,2,4,Paid Search,Paid Search,276.97
+4035,576,2026-01-07 21:51:00,Referral,REF-Customer,3,4,Paid Search,Paid Search,276.97
+4035,576,2026-01-16 10:50:00,Paid Search,PS-NonBrand,4,4,Paid Search,Paid Search,276.97
+4043,577,2026-09-01 13:33:00,Organic Search,SEO-Content,1,5,Organic Search,Display,1098.05
+4043,577,2026-09-08 00:16:00,Paid Search,PS-NonBrand,2,5,Organic Search,Display,1098.05
+4043,577,2026-09-12 06:35:00,Paid Social,META-Retargeting,3,5,Organic Search,Display,1098.05
+4043,577,2026-09-20 10:28:00,Referral,REF-Partner,4,5,Organic Search,Display,1098.05
+4043,577,2026-09-20 10:55:00,Display,DISPLAY-Retargeting,5,5,Organic Search,Display,1098.05
+4052,578,2026-09-05 03:00:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,427.84
+4079,579,2026-04-02 18:24:00,Display,DISPLAY-Retargeting,1,3,Display,Paid Search,595.6
+4079,579,2026-04-06 00:29:00,Paid Social,META-Retargeting,2,3,Display,Paid Search,595.6
+4079,579,2026-04-13 01:20:00,Paid Search,PS-Brand,3,3,Display,Paid Search,595.6
+4080,580,2026-01-31 02:41:00,Paid Social,META-Retargeting,1,4,Paid Social,Organic Search,301.43
+4080,580,2026-02-11 16:33:00,Paid Social,META-Retargeting,2,4,Paid Social,Organic Search,301.43
+4080,580,2026-02-15 05:23:00,Paid Social,META-Retargeting,3,4,Paid Social,Organic Search,301.43
+4080,580,2026-02-22 23:13:00,Organic Search,SEO-Content,4,4,Paid Social,Organic Search,301.43
+4081,581,2025-11-29 17:20:00,Display,DISPLAY-Retargeting,1,3,Display,Email,370.68
+4081,581,2025-12-07 03:16:00,Organic Search,SEO-Content,2,3,Display,Email,370.68
+4081,581,2025-12-22 03:57:00,Email,EMAIL-Nurture,3,3,Display,Email,370.68
+4089,582,2026-01-10 05:12:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,575.52
+4090,583,2026-08-31 07:11:00,Paid Social,META-Retargeting,1,5,Paid Social,Email,150.23
+4090,583,2026-09-03 21:08:00,Paid Search,PS-Brand,2,5,Paid Social,Email,150.23
+4090,583,2026-09-06 06:01:00,Email,EMAIL-Nurture,3,5,Paid Social,Email,150.23
+4090,583,2026-09-11 04:49:00,Display,DISPLAY-Prospecting,4,5,Paid Social,Email,150.23
+4090,583,2026-09-12 16:48:00,Email,EMAIL-Reactivation,5,5,Paid Social,Email,150.23
+4093,584,2025-12-01 15:41:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,498.56
+4095,585,2026-03-27 21:33:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Social,736.96
+4095,585,2026-03-31 06:00:00,Paid Search,PS-Brand,2,4,Paid Search,Paid Social,736.96
+4095,585,2026-03-31 14:34:00,Email,EMAIL-Nurture,3,4,Paid Search,Paid Social,736.96
+4095,585,2026-04-15 08:03:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,736.96
+4102,586,2026-04-07 00:04:00,Organic Search,SEO-Product,1,3,Organic Search,Organic Search,592.32
+4102,586,2026-04-20 11:41:00,Paid Search,PS-Brand,2,3,Organic Search,Organic Search,592.32
+4102,586,2026-05-01 11:22:00,Organic Search,SEO-Content,3,3,Organic Search,Organic Search,592.32
+4110,587,2026-09-05 22:31:00,Paid Social,META-Prospecting,1,3,Paid Social,Paid Social,318.28
+4110,587,2026-09-10 03:00:00,Display,DISPLAY-Prospecting,2,3,Paid Social,Paid Social,318.28
+4110,587,2026-09-17 12:09:00,Paid Social,META-Retargeting,3,3,Paid Social,Paid Social,318.28
+4118,588,2026-06-06 01:47:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Social,971.8
+4118,588,2026-06-11 19:20:00,Paid Social,META-Retargeting,2,2,Organic Search,Paid Social,971.8
+4119,589,2025-11-15 12:11:00,Organic Search,SEO-Content,1,5,Organic Search,Paid Social,309.09
+4119,589,2025-11-21 07:34:00,Paid Social,META-Retargeting,2,5,Organic Search,Paid Social,309.09
+4119,589,2025-11-27 02:02:00,Paid Social,META-Retargeting,3,5,Organic Search,Paid Social,309.09
+4119,589,2025-11-30 07:15:00,Organic Search,SEO-Content,4,5,Organic Search,Paid Social,309.09
+4119,589,2025-12-03 21:05:00,Paid Social,META-Retargeting,5,5,Organic Search,Paid Social,309.09
+4122,590,2025-11-05 11:49:00,Email,EMAIL-Nurture,1,2,Email,Organic Search,251.86
+4122,590,2025-11-10 06:12:00,Organic Search,SEO-Product,2,2,Email,Organic Search,251.86
+4134,591,2026-05-18 01:59:00,Display,DISPLAY-Prospecting,1,3,Display,Display,698.29
+4134,591,2026-05-20 02:11:00,Referral,REF-Customer,2,3,Display,Display,698.29
+4134,591,2026-05-24 05:25:00,Display,DISPLAY-Retargeting,3,3,Display,Display,698.29
+4135,592,2026-06-01 05:50:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Search,470.92
+4135,592,2026-06-06 16:14:00,Paid Search,PS-NonBrand,2,2,Paid Social,Paid Search,470.92
+4139,593,2026-05-01 12:07:00,Organic Search,SEO-Product,1,4,Organic Search,Organic Search,1087.61
+4139,593,2026-05-06 09:55:00,Display,DISPLAY-Prospecting,2,4,Organic Search,Organic Search,1087.61
+4139,593,2026-05-11 06:46:00,Paid Search,PS-Brand,3,4,Organic Search,Organic Search,1087.61
+4139,593,2026-05-12 02:08:00,Organic Search,SEO-Content,4,4,Organic Search,Organic Search,1087.61
+4140,594,2026-09-09 14:41:00,Paid Search,PS-Brand,1,4,Paid Search,Referral,490.12
+4140,594,2026-09-17 21:17:00,Paid Social,META-Retargeting,2,4,Paid Search,Referral,490.12
+4140,594,2026-09-18 20:10:00,Organic Search,SEO-Product,3,4,Paid Search,Referral,490.12
+4140,594,2026-09-26 10:49:00,Referral,REF-Partner,4,4,Paid Search,Referral,490.12
+4142,595,2026-06-09 10:38:00,Paid Search,PS-NonBrand,1,5,Paid Search,Display,305.25
+4142,595,2026-06-09 20:30:00,Paid Social,META-Retargeting,2,5,Paid Search,Display,305.25
+4142,595,2026-06-24 06:12:00,Paid Social,META-Retargeting,3,5,Paid Search,Display,305.25
+4142,595,2026-06-28 16:25:00,Paid Social,META-Prospecting,4,5,Paid Search,Display,305.25
+4142,595,2026-06-29 21:22:00,Display,DISPLAY-Retargeting,5,5,Paid Search,Display,305.25
+4152,596,2026-05-23 06:00:00,Display,DISPLAY-Prospecting,1,1,Display,Display,522.78
+4155,597,2026-08-17 09:52:00,Display,DISPLAY-Retargeting,1,4,Display,Email,472.18
+4155,597,2026-08-21 17:14:00,Display,DISPLAY-Retargeting,2,4,Display,Email,472.18
+4155,597,2026-09-01 00:26:00,Paid Search,PS-Brand,3,4,Display,Email,472.18
+4155,597,2026-09-02 10:19:00,Email,EMAIL-Nurture,4,4,Display,Email,472.18
+4158,598,2026-07-14 11:00:00,Paid Social,META-Prospecting,1,5,Paid Social,Paid Search,350.21
+4158,598,2026-07-25 01:19:00,Paid Social,META-Retargeting,2,5,Paid Social,Paid Search,350.21
+4158,598,2026-07-27 09:22:00,Organic Search,SEO-Product,3,5,Paid Social,Paid Search,350.21
+4158,598,2026-08-08 07:45:00,Paid Search,PS-Brand,4,5,Paid Social,Paid Search,350.21
+4158,598,2026-08-11 22:24:00,Paid Search,PS-NonBrand,5,5,Paid Social,Paid Search,350.21
+4171,599,2026-07-21 20:44:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,618.77
+4181,600,2026-04-01 08:45:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Social,364.95
+4181,600,2026-04-08 05:55:00,Paid Search,PS-NonBrand,2,5,Paid Search,Paid Social,364.95
+4181,600,2026-04-14 15:02:00,Email,EMAIL-Reactivation,3,5,Paid Search,Paid Social,364.95
+4181,600,2026-04-21 20:54:00,Paid Social,META-Retargeting,4,5,Paid Search,Paid Social,364.95
+4181,600,2026-04-23 20:27:00,Paid Social,META-Retargeting,5,5,Paid Search,Paid Social,364.95
+4196,601,2026-06-16 15:39:00,Email,EMAIL-Nurture,1,3,Email,Paid Search,461.52
+4196,601,2026-06-20 03:38:00,Paid Search,PS-Brand,2,3,Email,Paid Search,461.52
+4196,601,2026-06-30 15:40:00,Paid Search,PS-NonBrand,3,3,Email,Paid Search,461.52
+4197,602,2026-06-03 13:51:00,Paid Search,PS-Brand,1,3,Paid Search,Display,543.58
+4197,602,2026-06-04 09:18:00,Paid Social,META-Retargeting,2,3,Paid Search,Display,543.58
+4197,602,2026-06-06 00:02:00,Display,DISPLAY-Retargeting,3,3,Paid Search,Display,543.58
+4215,603,2025-11-12 07:14:00,Paid Search,PS-NonBrand,1,2,Paid Search,Paid Search,495.44
+4215,603,2025-11-19 15:41:00,Paid Search,PS-Brand,2,2,Paid Search,Paid Search,495.44
+4221,604,2026-06-23 13:08:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Search,269.24
+4221,604,2026-06-27 01:02:00,Paid Search,PS-NonBrand,2,2,Organic Search,Paid Search,269.24
+4228,605,2026-07-22 17:44:00,Referral,REF-Customer,1,2,Referral,Organic Search,533.54
+4228,605,2026-08-10 13:28:00,Organic Search,SEO-Content,2,2,Referral,Organic Search,533.54
+4229,606,2026-03-07 17:49:00,Paid Search,PS-NonBrand,1,2,Paid Search,Organic Search,553.24
+4229,606,2026-03-15 19:57:00,Organic Search,SEO-Content,2,2,Paid Search,Organic Search,553.24
+4230,607,2025-11-28 02:21:00,Paid Search,PS-Brand,1,4,Paid Search,Paid Social,409.19
+4230,607,2025-12-02 18:17:00,Paid Search,PS-NonBrand,2,4,Paid Search,Paid Social,409.19
+4230,607,2025-12-09 06:25:00,Display,DISPLAY-Retargeting,3,4,Paid Search,Paid Social,409.19
+4230,607,2025-12-11 12:44:00,Paid Social,META-Prospecting,4,4,Paid Search,Paid Social,409.19
+4242,608,2026-01-12 20:41:00,Paid Social,META-Retargeting,1,5,Paid Social,Email,516.93
+4242,608,2026-01-13 11:01:00,Paid Social,META-Prospecting,2,5,Paid Social,Email,516.93
+4242,608,2026-01-16 15:18:00,Paid Social,META-Retargeting,3,5,Paid Social,Email,516.93
+4242,608,2026-01-26 20:33:00,Email,EMAIL-Nurture,4,5,Paid Social,Email,516.93
+4242,608,2026-01-30 19:39:00,Email,EMAIL-Reactivation,5,5,Paid Social,Email,516.93
+4245,609,2026-05-22 11:34:00,Paid Search,PS-NonBrand,1,4,Paid Search,Email,165.76
+4245,609,2026-05-27 23:38:00,Paid Social,META-Retargeting,2,4,Paid Search,Email,165.76
+4245,609,2026-05-28 00:43:00,Email,EMAIL-Nurture,3,4,Paid Search,Email,165.76
+4245,609,2026-05-29 07:23:00,Email,EMAIL-Nurture,4,4,Paid Search,Email,165.76
+4252,610,2025-12-24 09:47:00,Paid Search,PS-Brand,1,4,Paid Search,Display,478.51
+4252,610,2025-12-26 03:29:00,Paid Search,PS-Brand,2,4,Paid Search,Display,478.51
+4252,610,2025-12-27 00:09:00,Paid Social,META-Retargeting,3,4,Paid Search,Display,478.51
+4252,610,2025-12-27 16:57:00,Display,DISPLAY-Retargeting,4,4,Paid Search,Display,478.51
+4253,611,2025-11-05 23:30:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,271.2
+4256,612,2026-03-02 04:28:00,Organic Search,SEO-Content,1,3,Organic Search,Paid Search,187.27
+4256,612,2026-03-18 13:10:00,Email,EMAIL-Reactivation,2,3,Organic Search,Paid Search,187.27
+4256,612,2026-03-20 00:16:00,Paid Search,PS-NonBrand,3,3,Organic Search,Paid Search,187.27
+4275,613,2026-04-03 02:45:00,Display,DISPLAY-Prospecting,1,4,Display,Display,447.09
+4275,613,2026-04-05 07:06:00,Paid Social,META-Prospecting,2,4,Display,Display,447.09
+4275,613,2026-04-13 20:06:00,Referral,REF-Customer,3,4,Display,Display,447.09
+4275,613,2026-04-14 14:14:00,Display,DISPLAY-Prospecting,4,4,Display,Display,447.09
+4276,614,2026-02-07 12:27:00,Email,EMAIL-Nurture,1,1,Email,Email,392.11
+4278,615,2026-03-25 07:29:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Search,346.45
+4278,615,2026-03-29 04:02:00,Referral,REF-Customer,2,4,Organic Search,Paid Search,346.45
+4278,615,2026-03-31 22:05:00,Organic Search,SEO-Product,3,4,Organic Search,Paid Search,346.45
+4278,615,2026-04-02 23:45:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,346.45
+4280,616,2026-01-26 04:44:00,Display,DISPLAY-Retargeting,1,5,Display,Paid Search,663.04
+4280,616,2026-01-28 19:27:00,Paid Search,PS-Brand,2,5,Display,Paid Search,663.04
+4280,616,2026-02-16 10:44:00,Paid Social,META-Retargeting,3,5,Display,Paid Search,663.04
+4280,616,2026-02-17 07:00:00,Display,DISPLAY-Retargeting,4,5,Display,Paid Search,663.04
+4280,616,2026-02-22 13:12:00,Paid Search,PS-Brand,5,5,Display,Paid Search,663.04
+4300,617,2026-05-14 04:19:00,Display,DISPLAY-Prospecting,1,3,Display,Email,644.9
+4300,617,2026-05-22 23:09:00,Display,DISPLAY-Prospecting,2,3,Display,Email,644.9
+4300,617,2026-06-05 00:25:00,Email,EMAIL-Nurture,3,3,Display,Email,644.9
+4301,618,2026-08-17 12:50:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,418.88
+4304,619,2025-10-13 12:12:00,Paid Social,META-Prospecting,1,3,Paid Social,Paid Social,173.33
+4304,619,2025-10-20 12:11:00,Paid Social,META-Prospecting,2,3,Paid Social,Paid Social,173.33
+4304,619,2025-10-29 03:47:00,Paid Social,META-Retargeting,3,3,Paid Social,Paid Social,173.33
+4306,620,2026-04-16 23:57:00,Organic Search,SEO-Content,1,3,Organic Search,Organic Search,492.54
+4306,620,2026-04-28 18:38:00,Paid Search,PS-Brand,2,3,Organic Search,Organic Search,492.54
+4306,620,2026-05-08 21:52:00,Organic Search,SEO-Content,3,3,Organic Search,Organic Search,492.54
+4324,621,2026-06-25 03:18:00,Email,EMAIL-Nurture,1,2,Email,Paid Social,621.0
+4324,621,2026-06-28 16:32:00,Paid Social,META-Retargeting,2,2,Email,Paid Social,621.0
+4329,622,2025-11-05 16:14:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,518.31
+4334,623,2026-03-14 03:43:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,422.22
+4347,624,2026-05-30 03:21:00,Display,DISPLAY-Retargeting,1,3,Display,Organic Search,294.08
+4347,624,2026-06-06 19:32:00,Paid Search,PS-Brand,2,3,Display,Organic Search,294.08
+4347,624,2026-06-11 21:33:00,Organic Search,SEO-Product,3,3,Display,Organic Search,294.08
+4354,625,2026-05-20 17:27:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Search,324.3
+4354,625,2026-05-21 10:22:00,Paid Social,META-Retargeting,2,5,Paid Search,Paid Search,324.3
+4354,625,2026-06-09 00:14:00,Email,EMAIL-Reactivation,3,5,Paid Search,Paid Search,324.3
+4354,625,2026-06-09 23:42:00,Display,DISPLAY-Retargeting,4,5,Paid Search,Paid Search,324.3
+4354,625,2026-06-12 05:15:00,Paid Search,PS-Brand,5,5,Paid Search,Paid Search,324.3
+4356,626,2026-09-04 22:32:00,Paid Social,META-Prospecting,1,5,Paid Social,Display,474.32
+4356,626,2026-09-05 07:52:00,Paid Social,META-Retargeting,2,5,Paid Social,Display,474.32
+4356,626,2026-09-14 18:07:00,Paid Search,PS-Brand,3,5,Paid Social,Display,474.32
+4356,626,2026-09-17 08:58:00,Paid Search,PS-Brand,4,5,Paid Social,Display,474.32
+4356,626,2026-09-19 23:23:00,Display,DISPLAY-Retargeting,5,5,Paid Social,Display,474.32
+4362,627,2026-03-30 01:04:00,Email,EMAIL-Nurture,1,4,Email,Organic Search,426.32
+4362,627,2026-04-15 03:12:00,Paid Social,META-Prospecting,2,4,Email,Organic Search,426.32
+4362,627,2026-04-16 09:43:00,Organic Search,SEO-Content,3,4,Email,Organic Search,426.32
+4362,627,2026-04-16 12:53:00,Organic Search,SEO-Product,4,4,Email,Organic Search,426.32
+4364,628,2025-11-16 16:27:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,390.73
+4370,629,2026-07-30 20:00:00,Referral,REF-Customer,1,2,Referral,Display,293.71
+4370,629,2026-08-16 02:03:00,Display,DISPLAY-Retargeting,2,2,Referral,Display,293.71
+4371,630,2026-06-21 08:27:00,Referral,REF-Customer,1,1,Referral,Referral,441.17
+4382,631,2026-05-03 06:51:00,Paid Social,META-Retargeting,1,4,Paid Social,Display,593.09
+4382,631,2026-05-06 23:36:00,Display,DISPLAY-Retargeting,2,4,Paid Social,Display,593.09
+4382,631,2026-05-11 02:57:00,Email,EMAIL-Reactivation,3,4,Paid Social,Display,593.09
+4382,631,2026-05-23 09:32:00,Display,DISPLAY-Prospecting,4,4,Paid Social,Display,593.09
+4383,632,2026-08-20 20:47:00,Paid Search,PS-Brand,1,2,Paid Search,Paid Social,432.19
+4383,632,2026-09-07 02:23:00,Paid Social,META-Retargeting,2,2,Paid Search,Paid Social,432.19
+4400,633,2026-07-14 04:28:00,Email,EMAIL-Nurture,1,4,Email,Organic Search,505.38
+4400,633,2026-07-14 05:31:00,Referral,REF-Customer,2,4,Email,Organic Search,505.38
+4400,633,2026-07-18 12:25:00,Paid Search,PS-NonBrand,3,4,Email,Organic Search,505.38
+4400,633,2026-07-24 19:07:00,Organic Search,SEO-Content,4,4,Email,Organic Search,505.38
+4403,634,2026-02-24 18:28:00,Paid Search,PS-NonBrand,1,5,Paid Search,Display,810.1
+4403,634,2026-03-01 22:51:00,Paid Social,META-Retargeting,2,5,Paid Search,Display,810.1
+4403,634,2026-03-04 09:38:00,Paid Social,META-Prospecting,3,5,Paid Search,Display,810.1
+4403,634,2026-03-08 15:35:00,Paid Search,PS-Brand,4,5,Paid Search,Display,810.1
+4403,634,2026-03-15 01:13:00,Display,DISPLAY-Prospecting,5,5,Paid Search,Display,810.1
+4409,635,2026-06-19 07:18:00,Paid Social,META-Retargeting,1,5,Paid Social,Organic Search,531.37
+4409,635,2026-06-29 17:37:00,Paid Search,PS-NonBrand,2,5,Paid Social,Organic Search,531.37
+4409,635,2026-07-05 08:37:00,Email,EMAIL-Nurture,3,5,Paid Social,Organic Search,531.37
+4409,635,2026-07-12 19:41:00,Referral,REF-Partner,4,5,Paid Social,Organic Search,531.37
+4409,635,2026-07-13 22:13:00,Organic Search,SEO-Content,5,5,Paid Social,Organic Search,531.37
+4415,636,2026-05-06 08:00:00,Referral,REF-Customer,1,2,Referral,Paid Social,1126.79
+4415,636,2026-05-11 19:01:00,Paid Social,META-Prospecting,2,2,Referral,Paid Social,1126.79
+4419,637,2026-07-31 07:41:00,Paid Social,META-Prospecting,1,4,Paid Social,Organic Search,886.55
+4419,637,2026-07-31 21:16:00,Display,DISPLAY-Prospecting,2,4,Paid Social,Organic Search,886.55
+4419,637,2026-08-01 11:29:00,Paid Search,PS-NonBrand,3,4,Paid Social,Organic Search,886.55
+4419,637,2026-08-09 04:24:00,Organic Search,SEO-Content,4,4,Paid Social,Organic Search,886.55
+4428,638,2026-01-15 09:57:00,Referral,REF-Customer,1,1,Referral,Referral,1286.04
+4432,639,2025-11-18 17:14:00,Organic Search,SEO-Content,1,3,Organic Search,Email,535.84
+4432,639,2025-11-19 22:57:00,Paid Search,PS-Brand,2,3,Organic Search,Email,535.84
+4432,639,2025-12-01 20:59:00,Email,EMAIL-Reactivation,3,3,Organic Search,Email,535.84
+4443,640,2026-01-13 22:47:00,Referral,REF-Partner,1,5,Referral,Organic Search,623.23
+4443,640,2026-01-14 11:11:00,Paid Social,META-Prospecting,2,5,Referral,Organic Search,623.23
+4443,640,2026-01-26 13:31:00,Paid Search,PS-Brand,3,5,Referral,Organic Search,623.23
+4443,640,2026-01-29 02:47:00,Organic Search,SEO-Product,4,5,Referral,Organic Search,623.23
+4443,640,2026-02-03 20:10:00,Organic Search,SEO-Content,5,5,Referral,Organic Search,623.23
+4448,641,2026-03-05 09:44:00,Email,EMAIL-Nurture,1,4,Email,Paid Social,427.56
+4448,641,2026-03-15 16:50:00,Paid Social,META-Retargeting,2,4,Email,Paid Social,427.56
+4448,641,2026-03-29 09:02:00,Paid Search,PS-Brand,3,4,Email,Paid Social,427.56
+4448,641,2026-03-29 20:27:00,Paid Social,META-Retargeting,4,4,Email,Paid Social,427.56
+4455,642,2026-05-13 20:26:00,Referral,REF-Partner,1,4,Referral,Organic Search,450.91
+4455,642,2026-05-24 00:46:00,Display,DISPLAY-Retargeting,2,4,Referral,Organic Search,450.91
+4455,642,2026-05-24 01:00:00,Paid Social,META-Retargeting,3,4,Referral,Organic Search,450.91
+4455,642,2026-06-04 15:08:00,Organic Search,SEO-Content,4,4,Referral,Organic Search,450.91
+4468,643,2026-07-02 01:23:00,Referral,REF-Customer,1,5,Referral,Paid Social,334.92
+4468,643,2026-07-09 08:54:00,Display,DISPLAY-Prospecting,2,5,Referral,Paid Social,334.92
+4468,643,2026-07-13 06:02:00,Paid Social,META-Prospecting,3,5,Referral,Paid Social,334.92
+4468,643,2026-07-17 04:28:00,Paid Search,PS-Brand,4,5,Referral,Paid Social,334.92
+4468,643,2026-07-20 02:39:00,Paid Social,META-Retargeting,5,5,Referral,Paid Social,334.92
+4470,644,2026-08-25 20:36:00,Paid Social,META-Prospecting,1,2,Paid Social,Paid Social,919.11
+4470,644,2026-08-26 01:42:00,Paid Social,META-Retargeting,2,2,Paid Social,Paid Social,919.11
+4472,645,2026-04-04 05:55:00,Paid Search,PS-Brand,1,3,Paid Search,Organic Search,222.09
+4472,645,2026-04-20 22:32:00,Email,EMAIL-Reactivation,2,3,Paid Search,Organic Search,222.09
+4472,645,2026-04-27 08:53:00,Organic Search,SEO-Content,3,3,Paid Search,Organic Search,222.09
+4475,646,2025-12-31 10:05:00,Paid Search,PS-NonBrand,1,5,Paid Search,Paid Social,901.22
+4475,646,2026-01-05 06:01:00,Paid Search,PS-Brand,2,5,Paid Search,Paid Social,901.22
+4475,646,2026-01-20 06:56:00,Paid Social,META-Prospecting,3,5,Paid Search,Paid Social,901.22
+4475,646,2026-01-22 12:23:00,Paid Social,META-Prospecting,4,5,Paid Search,Paid Social,901.22
+4475,646,2026-01-27 01:28:00,Paid Social,META-Prospecting,5,5,Paid Search,Paid Social,901.22
+4490,647,2025-11-22 10:52:00,Organic Search,SEO-Content,1,2,Organic Search,Email,485.69
+4490,647,2025-11-28 17:17:00,Email,EMAIL-Nurture,2,2,Organic Search,Email,485.69
+4492,648,2026-07-25 16:43:00,Email,EMAIL-Reactivation,1,2,Email,Display,556.29
+4492,648,2026-08-15 05:22:00,Display,DISPLAY-Prospecting,2,2,Email,Display,556.29
+4493,649,2026-08-25 21:02:00,Display,DISPLAY-Retargeting,1,3,Display,Display,236.3
+4493,649,2026-09-13 03:37:00,Email,EMAIL-Nurture,2,3,Display,Display,236.3
+4493,649,2026-09-17 03:53:00,Display,DISPLAY-Prospecting,3,3,Display,Display,236.3
+4500,650,2026-07-20 03:37:00,Email,EMAIL-Nurture,1,3,Email,Organic Search,358.85
+4500,650,2026-07-29 04:30:00,Organic Search,SEO-Product,2,3,Email,Organic Search,358.85
+4500,650,2026-08-07 17:28:00,Organic Search,SEO-Product,3,3,Email,Organic Search,358.85
+4506,651,2026-02-18 07:36:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,192.76
+4510,652,2026-07-30 20:54:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,323.32
+4516,653,2025-12-24 01:59:00,Paid Search,PS-NonBrand,1,4,Paid Search,Organic Search,312.4
+4516,653,2025-12-29 18:13:00,Paid Search,PS-NonBrand,2,4,Paid Search,Organic Search,312.4
+4516,653,2026-01-06 21:12:00,Referral,REF-Customer,3,4,Paid Search,Organic Search,312.4
+4516,653,2026-01-09 10:09:00,Organic Search,SEO-Content,4,4,Paid Search,Organic Search,312.4
+4527,654,2026-02-02 04:42:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,769.81
+4530,655,2026-08-18 10:00:00,Paid Search,PS-Brand,1,3,Paid Search,Paid Search,434.9
+4530,655,2026-08-19 21:24:00,Email,EMAIL-Reactivation,2,3,Paid Search,Paid Search,434.9
+4530,655,2026-08-29 02:13:00,Paid Search,PS-NonBrand,3,3,Paid Search,Paid Search,434.9
+4543,656,2025-12-19 07:22:00,Organic Search,SEO-Product,1,5,Organic Search,Paid Social,157.02
+4543,656,2025-12-20 05:16:00,Email,EMAIL-Nurture,2,5,Organic Search,Paid Social,157.02
+4543,656,2025-12-23 16:28:00,Paid Social,META-Retargeting,3,5,Organic Search,Paid Social,157.02
+4543,656,2025-12-27 06:19:00,Email,EMAIL-Nurture,4,5,Organic Search,Paid Social,157.02
+4543,656,2026-01-09 01:59:00,Paid Social,META-Retargeting,5,5,Organic Search,Paid Social,157.02
+4546,657,2026-06-06 12:43:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,383.81
+4547,658,2025-11-27 06:42:00,Email,EMAIL-Nurture,1,3,Email,Paid Social,182.72
+4547,658,2025-12-18 22:27:00,Organic Search,SEO-Content,2,3,Email,Paid Social,182.72
+4547,658,2025-12-22 01:37:00,Paid Social,META-Retargeting,3,3,Email,Paid Social,182.72
+4551,659,2026-01-23 05:44:00,Email,EMAIL-Reactivation,1,2,Email,Email,636.02
+4551,659,2026-02-21 22:02:00,Email,EMAIL-Reactivation,2,2,Email,Email,636.02
+4557,660,2026-05-16 05:40:00,Referral,REF-Partner,1,5,Referral,Paid Social,672.48
+4557,660,2026-05-17 06:59:00,Referral,REF-Customer,2,5,Referral,Paid Social,672.48
+4557,660,2026-05-21 14:17:00,Paid Social,META-Prospecting,3,5,Referral,Paid Social,672.48
+4557,660,2026-05-29 01:34:00,Organic Search,SEO-Product,4,5,Referral,Paid Social,672.48
+4557,660,2026-06-02 20:01:00,Paid Social,META-Retargeting,5,5,Referral,Paid Social,672.48
+4560,661,2026-05-02 18:18:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Social,675.1
+4560,661,2026-05-05 00:32:00,Email,EMAIL-Reactivation,2,4,Organic Search,Paid Social,675.1
+4560,661,2026-05-12 19:44:00,Paid Social,META-Retargeting,3,4,Organic Search,Paid Social,675.1
+4560,661,2026-05-13 21:05:00,Paid Social,META-Retargeting,4,4,Organic Search,Paid Social,675.1
+4561,662,2025-12-23 01:19:00,Organic Search,SEO-Product,1,4,Organic Search,Referral,1154.05
+4561,662,2025-12-26 05:52:00,Paid Search,PS-Brand,2,4,Organic Search,Referral,1154.05
+4561,662,2026-01-01 01:06:00,Paid Social,META-Retargeting,3,4,Organic Search,Referral,1154.05
+4561,662,2026-01-07 14:19:00,Referral,REF-Partner,4,4,Organic Search,Referral,1154.05
+4591,663,2026-04-04 21:55:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,300.88
+4605,664,2026-03-07 20:23:00,Paid Search,PS-Brand,1,4,Paid Search,Organic Search,788.35
+4605,664,2026-03-11 14:20:00,Organic Search,SEO-Content,2,4,Paid Search,Organic Search,788.35
+4605,664,2026-03-23 09:48:00,Paid Social,META-Retargeting,3,4,Paid Search,Organic Search,788.35
+4605,664,2026-03-29 05:22:00,Organic Search,SEO-Product,4,4,Paid Search,Organic Search,788.35
+4622,665,2026-06-25 02:37:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,602.29
+4628,666,2026-03-24 11:33:00,Referral,REF-Customer,1,1,Referral,Referral,324.86
+4640,667,2025-12-07 16:42:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Social,610.08
+4640,667,2025-12-11 03:26:00,Email,EMAIL-Nurture,2,4,Paid Social,Paid Social,610.08
+4640,667,2025-12-19 16:46:00,Paid Social,META-Retargeting,3,4,Paid Social,Paid Social,610.08
+4640,667,2025-12-24 08:26:00,Paid Social,META-Retargeting,4,4,Paid Social,Paid Social,610.08
+4645,668,2026-02-23 10:11:00,Email,EMAIL-Nurture,1,5,Email,Display,355.4
+4645,668,2026-02-25 13:02:00,Referral,REF-Customer,2,5,Email,Display,355.4
+4645,668,2026-03-01 03:25:00,Paid Search,PS-Brand,3,5,Email,Display,355.4
+4645,668,2026-03-07 09:49:00,Display,DISPLAY-Retargeting,4,5,Email,Display,355.4
+4645,668,2026-03-21 14:46:00,Display,DISPLAY-Retargeting,5,5,Email,Display,355.4
+4648,669,2025-11-13 15:53:00,Paid Social,META-Prospecting,1,2,Paid Social,Organic Search,263.3
+4648,669,2025-11-21 19:59:00,Organic Search,SEO-Content,2,2,Paid Social,Organic Search,263.3
+4673,670,2026-02-06 01:29:00,Display,DISPLAY-Prospecting,1,4,Display,Paid Social,861.69
+4673,670,2026-02-13 03:06:00,Paid Social,META-Prospecting,2,4,Display,Paid Social,861.69
+4673,670,2026-02-14 03:23:00,Paid Search,PS-NonBrand,3,4,Display,Paid Social,861.69
+4673,670,2026-02-15 18:14:00,Paid Social,META-Retargeting,4,4,Display,Paid Social,861.69
+4697,671,2025-12-01 14:45:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,741.91
+4715,672,2026-07-14 02:41:00,Email,EMAIL-Reactivation,1,3,Email,Email,275.67
+4715,672,2026-07-15 08:44:00,Email,EMAIL-Reactivation,2,3,Email,Email,275.67
+4715,672,2026-07-31 09:40:00,Email,EMAIL-Reactivation,3,3,Email,Email,275.67
+4723,673,2026-06-21 07:36:00,Referral,REF-Partner,1,1,Referral,Referral,419.67
+4736,674,2025-12-23 06:15:00,Organic Search,SEO-Product,1,2,Organic Search,Paid Social,1130.35
+4736,674,2025-12-25 13:14:00,Paid Social,META-Prospecting,2,2,Organic Search,Paid Social,1130.35
+4740,675,2026-01-25 04:49:00,Email,EMAIL-Reactivation,1,5,Email,Paid Social,391.53
+4740,675,2026-01-30 02:01:00,Referral,REF-Customer,2,5,Email,Paid Social,391.53
+4740,675,2026-02-02 00:23:00,Referral,REF-Customer,3,5,Email,Paid Social,391.53
+4740,675,2026-02-03 17:34:00,Display,DISPLAY-Retargeting,4,5,Email,Paid Social,391.53
+4740,675,2026-02-11 03:42:00,Paid Social,META-Retargeting,5,5,Email,Paid Social,391.53
+4756,676,2026-08-09 04:07:00,Organic Search,SEO-Product,1,4,Organic Search,Paid Social,580.7
+4756,676,2026-08-10 22:41:00,Organic Search,SEO-Product,2,4,Organic Search,Paid Social,580.7
+4756,676,2026-08-20 13:01:00,Paid Social,META-Prospecting,3,4,Organic Search,Paid Social,580.7
+4756,676,2026-08-28 13:31:00,Paid Social,META-Prospecting,4,4,Organic Search,Paid Social,580.7
+4764,677,2025-10-23 23:03:00,Paid Search,PS-NonBrand,1,4,Paid Search,Paid Social,213.18
+4764,677,2025-10-26 21:17:00,Paid Social,META-Retargeting,2,4,Paid Search,Paid Social,213.18
+4764,677,2025-10-28 23:05:00,Email,EMAIL-Nurture,3,4,Paid Search,Paid Social,213.18
+4764,677,2025-10-31 20:15:00,Paid Social,META-Retargeting,4,4,Paid Search,Paid Social,213.18
+4765,678,2026-03-05 10:18:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,180.37
+4777,679,2026-06-16 06:57:00,Referral,REF-Partner,1,1,Referral,Referral,601.7
+4780,680,2026-09-19 01:04:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,351.18
+4786,681,2026-03-14 00:45:00,Paid Social,META-Retargeting,1,5,Paid Social,Paid Social,614.15
+4786,681,2026-03-23 16:03:00,Email,EMAIL-Reactivation,2,5,Paid Social,Paid Social,614.15
+4786,681,2026-03-27 14:54:00,Paid Social,META-Retargeting,3,5,Paid Social,Paid Social,614.15
+4786,681,2026-03-31 19:40:00,Organic Search,SEO-Content,4,5,Paid Social,Paid Social,614.15
+4786,681,2026-04-09 09:24:00,Paid Social,META-Retargeting,5,5,Paid Social,Paid Social,614.15
+4790,682,2026-09-11 05:21:00,Paid Search,PS-NonBrand,1,2,Paid Search,Referral,261.72
+4790,682,2026-09-24 00:41:00,Referral,REF-Customer,2,2,Paid Search,Referral,261.72
+4792,683,2026-03-11 03:11:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,251.73
+4798,684,2025-11-02 04:26:00,Organic Search,SEO-Content,1,5,Organic Search,Paid Search,812.32
+4798,684,2025-11-02 11:34:00,Referral,REF-Customer,2,5,Organic Search,Paid Search,812.32
+4798,684,2025-11-07 03:02:00,Display,DISPLAY-Retargeting,3,5,Organic Search,Paid Search,812.32
+4798,684,2025-11-10 16:06:00,Referral,REF-Customer,4,5,Organic Search,Paid Search,812.32
+4798,684,2025-11-15 18:39:00,Paid Search,PS-NonBrand,5,5,Organic Search,Paid Search,812.32
+4800,685,2026-02-08 01:19:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Search,592.2
+4800,685,2026-02-21 17:03:00,Paid Search,PS-Brand,2,4,Paid Social,Paid Search,592.2
+4800,685,2026-02-26 00:34:00,Paid Social,META-Retargeting,3,4,Paid Social,Paid Search,592.2
+4800,685,2026-02-28 03:04:00,Paid Search,PS-NonBrand,4,4,Paid Social,Paid Search,592.2
+4803,686,2025-11-05 17:05:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,446.42
+4809,687,2026-01-13 13:58:00,Display,DISPLAY-Prospecting,1,2,Display,Paid Social,560.08
+4809,687,2026-01-14 14:57:00,Paid Social,META-Retargeting,2,2,Display,Paid Social,560.08
+4812,688,2025-12-28 00:28:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,705.33
+4815,689,2026-05-12 19:00:00,Paid Social,META-Retargeting,1,3,Paid Social,Paid Search,623.04
+4815,689,2026-06-02 00:27:00,Referral,REF-Customer,2,3,Paid Social,Paid Search,623.04
+4815,689,2026-06-02 05:13:00,Paid Search,PS-Brand,3,3,Paid Social,Paid Search,623.04
+4823,690,2026-01-03 15:21:00,Organic Search,SEO-Product,1,5,Organic Search,Organic Search,154.16
+4823,690,2026-01-09 21:24:00,Paid Search,PS-NonBrand,2,5,Organic Search,Organic Search,154.16
+4823,690,2026-01-11 21:54:00,Organic Search,SEO-Content,3,5,Organic Search,Organic Search,154.16
+4823,690,2026-01-21 15:46:00,Paid Search,PS-Brand,4,5,Organic Search,Organic Search,154.16
+4823,690,2026-01-22 21:59:00,Organic Search,SEO-Content,5,5,Organic Search,Organic Search,154.16
+4826,691,2025-12-22 11:08:00,Organic Search,SEO-Product,1,4,Organic Search,Email,1241.1
+4826,691,2025-12-24 00:45:00,Referral,REF-Customer,2,4,Organic Search,Email,1241.1
+4826,691,2025-12-26 03:45:00,Email,EMAIL-Reactivation,3,4,Organic Search,Email,1241.1
+4826,691,2026-01-02 16:45:00,Email,EMAIL-Reactivation,4,4,Organic Search,Email,1241.1
+4834,692,2025-11-23 16:43:00,Paid Social,META-Prospecting,1,5,Paid Social,Referral,269.45
+4834,692,2025-12-02 17:31:00,Referral,REF-Customer,2,5,Paid Social,Referral,269.45
+4834,692,2025-12-14 06:07:00,Referral,REF-Customer,3,5,Paid Social,Referral,269.45
+4834,692,2025-12-16 23:13:00,Paid Social,META-Retargeting,4,5,Paid Social,Referral,269.45
+4834,692,2025-12-17 10:15:00,Referral,REF-Customer,5,5,Paid Social,Referral,269.45
+4835,693,2025-11-03 04:15:00,Paid Search,PS-Brand,1,2,Paid Search,Referral,221.28
+4835,693,2025-11-03 21:38:00,Referral,REF-Partner,2,2,Paid Search,Referral,221.28
+4838,694,2026-01-04 03:03:00,Referral,REF-Customer,1,4,Referral,Paid Search,366.69
+4838,694,2026-01-07 03:17:00,Paid Social,META-Prospecting,2,4,Referral,Paid Search,366.69
+4838,694,2026-01-09 01:49:00,Paid Search,PS-NonBrand,3,4,Referral,Paid Search,366.69
+4838,694,2026-01-23 03:44:00,Paid Search,PS-Brand,4,4,Referral,Paid Search,366.69
+4839,695,2025-12-01 06:06:00,Organic Search,SEO-Content,1,2,Organic Search,Referral,454.86
+4839,695,2025-12-01 23:16:00,Referral,REF-Customer,2,2,Organic Search,Referral,454.86
+4842,696,2026-07-13 11:51:00,Email,EMAIL-Nurture,1,3,Email,Paid Social,350.77
+4842,696,2026-07-23 03:18:00,Referral,REF-Partner,2,3,Email,Paid Social,350.77
+4842,696,2026-07-28 08:41:00,Paid Social,META-Retargeting,3,3,Email,Paid Social,350.77
+4846,697,2026-03-11 14:48:00,Paid Social,META-Retargeting,1,1,Paid Social,Paid Social,391.66
+4847,698,2025-12-12 05:52:00,Organic Search,SEO-Content,1,4,Organic Search,Paid Search,510.14
+4847,698,2025-12-18 18:51:00,Paid Social,META-Prospecting,2,4,Organic Search,Paid Search,510.14
+4847,698,2025-12-20 15:00:00,Paid Social,META-Prospecting,3,4,Organic Search,Paid Search,510.14
+4847,698,2025-12-27 08:24:00,Paid Search,PS-NonBrand,4,4,Organic Search,Paid Search,510.14
+4870,699,2026-07-24 23:02:00,Organic Search,SEO-Product,1,3,Organic Search,Paid Search,457.61
+4870,699,2026-07-26 22:48:00,Organic Search,SEO-Product,2,3,Organic Search,Paid Search,457.61
+4870,699,2026-08-06 09:38:00,Paid Search,PS-NonBrand,3,3,Organic Search,Paid Search,457.61
+4875,700,2026-02-04 00:50:00,Referral,REF-Partner,1,5,Referral,Paid Search,239.81
+4875,700,2026-02-09 13:20:00,Paid Search,PS-Brand,2,5,Referral,Paid Search,239.81
+4875,700,2026-02-14 21:32:00,Paid Search,PS-NonBrand,3,5,Referral,Paid Search,239.81
+4875,700,2026-02-19 16:01:00,Organic Search,SEO-Product,4,5,Referral,Paid Search,239.81
+4875,700,2026-02-22 13:12:00,Paid Search,PS-NonBrand,5,5,Referral,Paid Search,239.81
+4885,701,2026-04-07 21:05:00,Email,EMAIL-Reactivation,1,5,Email,Paid Search,526.57
+4885,701,2026-04-10 09:02:00,Paid Social,META-Prospecting,2,5,Email,Paid Search,526.57
+4885,701,2026-04-11 13:50:00,Organic Search,SEO-Content,3,5,Email,Paid Search,526.57
+4885,701,2026-04-12 05:32:00,Display,DISPLAY-Retargeting,4,5,Email,Paid Search,526.57
+4885,701,2026-04-21 19:26:00,Paid Search,PS-Brand,5,5,Email,Paid Search,526.57
+4933,702,2026-01-03 13:25:00,Email,EMAIL-Nurture,1,4,Email,Email,631.03
+4933,702,2026-01-05 22:20:00,Email,EMAIL-Nurture,2,4,Email,Email,631.03
+4933,702,2026-01-15 08:50:00,Paid Search,PS-Brand,3,4,Email,Email,631.03
+4933,702,2026-01-20 10:22:00,Email,EMAIL-Nurture,4,4,Email,Email,631.03
+4946,703,2025-11-14 18:16:00,Organic Search,SEO-Content,1,1,Organic Search,Organic Search,210.42
+4947,704,2026-01-29 08:17:00,Referral,REF-Partner,1,5,Referral,Email,463.29
+4947,704,2026-02-03 03:21:00,Referral,REF-Customer,2,5,Referral,Email,463.29
+4947,704,2026-02-14 12:59:00,Paid Search,PS-Brand,3,5,Referral,Email,463.29
+4947,704,2026-02-16 22:45:00,Organic Search,SEO-Product,4,5,Referral,Email,463.29
+4947,704,2026-02-20 18:47:00,Email,EMAIL-Nurture,5,5,Referral,Email,463.29
+4958,705,2026-04-07 05:57:00,Paid Social,META-Retargeting,1,4,Paid Social,Paid Search,299.0
+4958,705,2026-04-09 13:46:00,Paid Search,PS-Brand,2,4,Paid Social,Paid Search,299.0
+4958,705,2026-04-09 15:25:00,Email,EMAIL-Reactivation,3,4,Paid Social,Paid Search,299.0
+4958,705,2026-05-02 10:52:00,Paid Search,PS-Brand,4,4,Paid Social,Paid Search,299.0
+4960,706,2026-01-08 10:08:00,Paid Social,META-Retargeting,1,4,Paid Social,Referral,687.44
+4960,706,2026-01-09 02:16:00,Paid Search,PS-NonBrand,2,4,Paid Social,Referral,687.44
+4960,706,2026-01-24 12:32:00,Paid Search,PS-Brand,3,4,Paid Social,Referral,687.44
+4960,706,2026-01-25 14:29:00,Referral,REF-Customer,4,4,Paid Social,Referral,687.44
+4972,707,2026-03-05 19:04:00,Email,EMAIL-Reactivation,1,2,Email,Display,433.82
+4972,707,2026-03-17 09:57:00,Display,DISPLAY-Retargeting,2,2,Email,Display,433.82
+4974,708,2026-04-15 21:29:00,Organic Search,SEO-Product,1,1,Organic Search,Organic Search,239.62
+4982,709,2026-03-02 13:19:00,Paid Search,PS-Brand,1,5,Paid Search,Display,215.42
+4982,709,2026-03-05 05:03:00,Organic Search,SEO-Product,2,5,Paid Search,Display,215.42
+4982,709,2026-03-21 12:00:00,Paid Search,PS-Brand,3,5,Paid Search,Display,215.42
+4982,709,2026-03-30 09:12:00,Referral,REF-Partner,4,5,Paid Search,Display,215.42
+4982,709,2026-03-30 23:11:00,Display,DISPLAY-Prospecting,5,5,Paid Search,Display,215.42
+4988,710,2026-05-02 11:48:00,Email,EMAIL-Reactivation,1,3,Email,Paid Search,271.09
+4988,710,2026-05-04 01:23:00,Organic Search,SEO-Product,2,3,Email,Paid Search,271.09
+4988,710,2026-05-05 09:21:00,Paid Search,PS-NonBrand,3,3,Email,Paid Search,271.09
+4991,711,2026-03-05 03:57:00,Paid Social,META-Prospecting,1,5,Paid Social,Organic Search,491.76
+4991,711,2026-03-16 01:32:00,Paid Search,PS-Brand,2,5,Paid Social,Organic Search,491.76
+4991,711,2026-03-19 22:35:00,Paid Search,PS-NonBrand,3,5,Paid Social,Organic Search,491.76
+4991,711,2026-03-22 01:23:00,Organic Search,SEO-Content,4,5,Paid Social,Organic Search,491.76
+4991,711,2026-03-25 04:19:00,Organic Search,SEO-Content,5,5,Paid Social,Organic Search,491.76
+4992,712,2026-02-27 20:15:00,Paid Social,META-Prospecting,1,1,Paid Social,Paid Social,407.07
+4996,713,2026-07-27 22:17:00,Paid Search,PS-Brand,1,1,Paid Search,Paid Search,625.05
+4999,714,2026-08-27 06:29:00,Paid Search,PS-NonBrand,1,1,Paid Search,Paid Search,383.31

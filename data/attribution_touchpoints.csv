@@ -1,0 +1,2115 @@
+conversion_id,customer_id,channel,campaign_id,revenue,first_touch_weight,last_touch_weight,linear_weight,position_weight
+1,7,Paid Search,PS-NonBrand,798.94,1.0,0.0,0.5,0.5
+1,7,Paid Social,META-Prospecting,798.94,0.0,1.0,0.5,0.5
+2,10,Paid Search,PS-NonBrand,164.97,1.0,0.0,0.5,0.5
+2,10,Display,DISPLAY-Retargeting,164.97,0.0,1.0,0.5,0.5
+3,28,Email,EMAIL-Reactivation,132.2,1.0,1.0,1.0,1.0
+4,30,Paid Social,META-Prospecting,820.52,1.0,0.0,0.2,0.4
+4,30,Paid Search,PS-NonBrand,820.52,0.0,0.0,0.2,0.06666666666666667
+4,30,Paid Search,PS-Brand,820.52,0.0,0.0,0.2,0.06666666666666667
+4,30,Organic Search,SEO-Content,820.52,0.0,0.0,0.2,0.06666666666666667
+4,30,Organic Search,SEO-Product,820.52,0.0,1.0,0.2,0.4
+5,65,Paid Social,META-Retargeting,80.0,1.0,0.0,0.25,0.4
+5,65,Paid Search,PS-NonBrand,80.0,0.0,0.0,0.25,0.1
+5,65,Display,DISPLAY-Retargeting,80.0,0.0,0.0,0.25,0.1
+5,65,Paid Social,META-Retargeting,80.0,0.0,1.0,0.25,0.4
+6,75,Referral,REF-Partner,862.33,1.0,0.0,0.2,0.4
+6,75,Paid Social,META-Prospecting,862.33,0.0,0.0,0.2,0.06666666666666667
+6,75,Paid Social,META-Prospecting,862.33,0.0,0.0,0.2,0.06666666666666667
+6,75,Paid Social,META-Retargeting,862.33,0.0,0.0,0.2,0.06666666666666667
+6,75,Paid Search,PS-NonBrand,862.33,0.0,1.0,0.2,0.4
+7,77,Email,EMAIL-Nurture,419.15,1.0,0.0,0.2,0.4
+7,77,Email,EMAIL-Nurture,419.15,0.0,0.0,0.2,0.06666666666666667
+7,77,Email,EMAIL-Reactivation,419.15,0.0,0.0,0.2,0.06666666666666667
+7,77,Organic Search,SEO-Product,419.15,0.0,0.0,0.2,0.06666666666666667
+7,77,Organic Search,SEO-Product,419.15,0.0,1.0,0.2,0.4
+8,79,Organic Search,SEO-Product,377.97,1.0,1.0,1.0,1.0
+9,84,Email,EMAIL-Nurture,205.84,1.0,0.0,0.2,0.4
+9,84,Paid Search,PS-Brand,205.84,0.0,0.0,0.2,0.06666666666666667
+9,84,Referral,REF-Customer,205.84,0.0,0.0,0.2,0.06666666666666667
+9,84,Referral,REF-Customer,205.84,0.0,0.0,0.2,0.06666666666666667
+9,84,Paid Social,META-Retargeting,205.84,0.0,1.0,0.2,0.4
+10,106,Paid Social,META-Prospecting,531.1,1.0,0.0,0.2,0.4
+10,106,Display,DISPLAY-Retargeting,531.1,0.0,0.0,0.2,0.06666666666666667
+10,106,Paid Search,PS-Brand,531.1,0.0,0.0,0.2,0.06666666666666667
+10,106,Organic Search,SEO-Product,531.1,0.0,0.0,0.2,0.06666666666666667
+10,106,Email,EMAIL-Nurture,531.1,0.0,1.0,0.2,0.4
+11,118,Email,EMAIL-Nurture,288.5,1.0,0.0,0.25,0.4
+11,118,Paid Search,PS-NonBrand,288.5,0.0,0.0,0.25,0.1
+11,118,Paid Social,META-Retargeting,288.5,0.0,0.0,0.25,0.1
+11,118,Organic Search,SEO-Product,288.5,0.0,1.0,0.25,0.4
+12,125,Paid Social,META-Prospecting,599.68,1.0,0.0,0.3333333333333333,0.4
+12,125,Paid Search,PS-NonBrand,599.68,0.0,0.0,0.3333333333333333,0.2
+12,125,Email,EMAIL-Reactivation,599.68,0.0,1.0,0.3333333333333333,0.4
+13,145,Organic Search,SEO-Product,370.37,1.0,0.0,0.2,0.4
+13,145,Email,EMAIL-Nurture,370.37,0.0,0.0,0.2,0.06666666666666667
+13,145,Organic Search,SEO-Content,370.37,0.0,0.0,0.2,0.06666666666666667
+13,145,Paid Search,PS-NonBrand,370.37,0.0,0.0,0.2,0.06666666666666667
+13,145,Paid Search,PS-NonBrand,370.37,0.0,1.0,0.2,0.4
+14,149,Email,EMAIL-Nurture,613.43,1.0,0.0,0.2,0.4
+14,149,Paid Social,META-Retargeting,613.43,0.0,0.0,0.2,0.06666666666666667
+14,149,Paid Search,PS-Brand,613.43,0.0,0.0,0.2,0.06666666666666667
+14,149,Organic Search,SEO-Product,613.43,0.0,0.0,0.2,0.06666666666666667
+14,149,Organic Search,SEO-Product,613.43,0.0,1.0,0.2,0.4
+15,150,Display,DISPLAY-Prospecting,399.38,1.0,0.0,0.2,0.4
+15,150,Paid Social,META-Retargeting,399.38,0.0,0.0,0.2,0.06666666666666667
+15,150,Paid Search,PS-Brand,399.38,0.0,0.0,0.2,0.06666666666666667
+15,150,Referral,REF-Customer,399.38,0.0,0.0,0.2,0.06666666666666667
+15,150,Organic Search,SEO-Product,399.38,0.0,1.0,0.2,0.4
+16,169,Organic Search,SEO-Content,820.64,1.0,0.0,0.2,0.4
+16,169,Paid Search,PS-NonBrand,820.64,0.0,0.0,0.2,0.06666666666666667
+16,169,Paid Social,META-Retargeting,820.64,0.0,0.0,0.2,0.06666666666666667
+16,169,Display,DISPLAY-Retargeting,820.64,0.0,0.0,0.2,0.06666666666666667
+16,169,Referral,REF-Customer,820.64,0.0,1.0,0.2,0.4
+17,170,Referral,REF-Customer,773.56,1.0,0.0,0.3333333333333333,0.4
+17,170,Paid Social,META-Retargeting,773.56,0.0,0.0,0.3333333333333333,0.2
+17,170,Paid Social,META-Retargeting,773.56,0.0,1.0,0.3333333333333333,0.4
+18,175,Paid Social,META-Retargeting,243.5,1.0,0.0,0.2,0.4
+18,175,Paid Search,PS-Brand,243.5,0.0,0.0,0.2,0.06666666666666667
+18,175,Paid Search,PS-Brand,243.5,0.0,0.0,0.2,0.06666666666666667
+18,175,Referral,REF-Customer,243.5,0.0,0.0,0.2,0.06666666666666667
+18,175,Organic Search,SEO-Content,243.5,0.0,1.0,0.2,0.4
+19,178,Referral,REF-Customer,716.11,1.0,0.0,0.25,0.4
+19,178,Paid Search,PS-NonBrand,716.11,0.0,0.0,0.25,0.1
+19,178,Paid Search,PS-NonBrand,716.11,0.0,0.0,0.25,0.1
+19,178,Display,DISPLAY-Retargeting,716.11,0.0,1.0,0.25,0.4
+20,184,Paid Social,META-Prospecting,245.43,1.0,1.0,1.0,1.0
+21,185,Email,EMAIL-Reactivation,385.12,1.0,0.0,0.2,0.4
+21,185,Referral,REF-Customer,385.12,0.0,0.0,0.2,0.06666666666666667
+21,185,Organic Search,SEO-Product,385.12,0.0,0.0,0.2,0.06666666666666667
+21,185,Paid Social,META-Retargeting,385.12,0.0,0.0,0.2,0.06666666666666667
+21,185,Paid Search,PS-Brand,385.12,0.0,1.0,0.2,0.4
+22,186,Referral,REF-Customer,294.24,1.0,0.0,0.2,0.4
+22,186,Organic Search,SEO-Product,294.24,0.0,0.0,0.2,0.06666666666666667
+22,186,Organic Search,SEO-Product,294.24,0.0,0.0,0.2,0.06666666666666667
+22,186,Referral,REF-Customer,294.24,0.0,0.0,0.2,0.06666666666666667
+22,186,Display,DISPLAY-Retargeting,294.24,0.0,1.0,0.2,0.4
+23,197,Paid Social,META-Retargeting,447.89,1.0,0.0,0.3333333333333333,0.4
+23,197,Display,DISPLAY-Prospecting,447.89,0.0,0.0,0.3333333333333333,0.2
+23,197,Organic Search,SEO-Content,447.89,0.0,1.0,0.3333333333333333,0.4
+24,198,Referral,REF-Partner,178.91,1.0,0.0,0.3333333333333333,0.4
+24,198,Paid Social,META-Prospecting,178.91,0.0,0.0,0.3333333333333333,0.2
+24,198,Paid Social,META-Retargeting,178.91,0.0,1.0,0.3333333333333333,0.4
+25,205,Organic Search,SEO-Product,704.3,1.0,0.0,0.25,0.4
+25,205,Paid Social,META-Retargeting,704.3,0.0,0.0,0.25,0.1
+25,205,Referral,REF-Customer,704.3,0.0,0.0,0.25,0.1
+25,205,Display,DISPLAY-Prospecting,704.3,0.0,1.0,0.25,0.4
+26,212,Organic Search,SEO-Product,407.51,1.0,0.0,0.25,0.4
+26,212,Paid Social,META-Retargeting,407.51,0.0,0.0,0.25,0.1
+26,212,Paid Search,PS-NonBrand,407.51,0.0,0.0,0.25,0.1
+26,212,Email,EMAIL-Nurture,407.51,0.0,1.0,0.25,0.4
+27,218,Organic Search,SEO-Product,482.72,1.0,0.0,0.5,0.5
+27,218,Display,DISPLAY-Prospecting,482.72,0.0,1.0,0.5,0.5
+28,233,Paid Search,PS-Brand,314.66,1.0,0.0,0.2,0.4
+28,233,Paid Social,META-Retargeting,314.66,0.0,0.0,0.2,0.06666666666666667
+28,233,Email,EMAIL-Nurture,314.66,0.0,0.0,0.2,0.06666666666666667
+28,233,Paid Social,META-Prospecting,314.66,0.0,0.0,0.2,0.06666666666666667
+28,233,Organic Search,SEO-Content,314.66,0.0,1.0,0.2,0.4
+29,235,Paid Search,PS-Brand,755.01,1.0,1.0,1.0,1.0
+30,238,Paid Search,PS-NonBrand,905.69,1.0,1.0,1.0,1.0
+31,241,Email,EMAIL-Reactivation,470.21,1.0,0.0,0.25,0.4
+31,241,Email,EMAIL-Reactivation,470.21,0.0,0.0,0.25,0.1
+31,241,Paid Social,META-Prospecting,470.21,0.0,0.0,0.25,0.1
+31,241,Paid Social,META-Retargeting,470.21,0.0,1.0,0.25,0.4
+32,250,Email,EMAIL-Reactivation,371.11,1.0,1.0,1.0,1.0
+33,257,Referral,REF-Customer,488.94,1.0,0.0,0.3333333333333333,0.4
+33,257,Paid Search,PS-NonBrand,488.94,0.0,0.0,0.3333333333333333,0.2
+33,257,Email,EMAIL-Nurture,488.94,0.0,1.0,0.3333333333333333,0.4
+34,261,Paid Search,PS-Brand,470.58,1.0,0.0,0.2,0.4
+34,261,Display,DISPLAY-Retargeting,470.58,0.0,0.0,0.2,0.06666666666666667
+34,261,Paid Search,PS-NonBrand,470.58,0.0,0.0,0.2,0.06666666666666667
+34,261,Paid Social,META-Retargeting,470.58,0.0,0.0,0.2,0.06666666666666667
+34,261,Organic Search,SEO-Content,470.58,0.0,1.0,0.2,0.4
+35,267,Email,EMAIL-Reactivation,820.2,1.0,0.0,0.3333333333333333,0.4
+35,267,Organic Search,SEO-Product,820.2,0.0,0.0,0.3333333333333333,0.2
+35,267,Referral,REF-Partner,820.2,0.0,1.0,0.3333333333333333,0.4
+36,284,Referral,REF-Customer,591.28,1.0,1.0,1.0,1.0
+37,314,Organic Search,SEO-Content,258.42,1.0,0.0,0.3333333333333333,0.4
+37,314,Display,DISPLAY-Prospecting,258.42,0.0,0.0,0.3333333333333333,0.2
+37,314,Paid Social,META-Prospecting,258.42,0.0,1.0,0.3333333333333333,0.4
+38,315,Paid Search,PS-NonBrand,240.89,1.0,1.0,1.0,1.0
+39,317,Paid Social,META-Prospecting,868.52,1.0,0.0,0.3333333333333333,0.4
+39,317,Paid Social,META-Retargeting,868.52,0.0,0.0,0.3333333333333333,0.2
+39,317,Organic Search,SEO-Product,868.52,0.0,1.0,0.3333333333333333,0.4
+40,321,Paid Search,PS-NonBrand,683.56,1.0,0.0,0.3333333333333333,0.4
+40,321,Paid Search,PS-NonBrand,683.56,0.0,0.0,0.3333333333333333,0.2
+40,321,Paid Search,PS-Brand,683.56,0.0,1.0,0.3333333333333333,0.4
+41,339,Paid Search,PS-NonBrand,909.67,1.0,0.0,0.25,0.4
+41,339,Email,EMAIL-Nurture,909.67,0.0,0.0,0.25,0.1
+41,339,Referral,REF-Partner,909.67,0.0,0.0,0.25,0.1
+41,339,Referral,REF-Customer,909.67,0.0,1.0,0.25,0.4
+42,349,Email,EMAIL-Nurture,381.15,1.0,1.0,1.0,1.0
+43,350,Paid Search,PS-NonBrand,355.18,1.0,0.0,0.2,0.4
+43,350,Paid Search,PS-Brand,355.18,0.0,0.0,0.2,0.06666666666666667
+43,350,Email,EMAIL-Nurture,355.18,0.0,0.0,0.2,0.06666666666666667
+43,350,Display,DISPLAY-Retargeting,355.18,0.0,0.0,0.2,0.06666666666666667
+43,350,Email,EMAIL-Nurture,355.18,0.0,1.0,0.2,0.4
+44,354,Display,DISPLAY-Retargeting,336.79,1.0,1.0,1.0,1.0
+45,360,Display,DISPLAY-Prospecting,213.74,1.0,0.0,0.25,0.4
+45,360,Paid Social,META-Retargeting,213.74,0.0,0.0,0.25,0.1
+45,360,Organic Search,SEO-Content,213.74,0.0,0.0,0.25,0.1
+45,360,Paid Search,PS-NonBrand,213.74,0.0,1.0,0.25,0.4
+46,361,Organic Search,SEO-Product,520.12,1.0,0.0,0.2,0.4
+46,361,Paid Social,META-Prospecting,520.12,0.0,0.0,0.2,0.06666666666666667
+46,361,Referral,REF-Customer,520.12,0.0,0.0,0.2,0.06666666666666667
+46,361,Display,DISPLAY-Retargeting,520.12,0.0,0.0,0.2,0.06666666666666667
+46,361,Referral,REF-Partner,520.12,0.0,1.0,0.2,0.4
+47,364,Email,EMAIL-Reactivation,368.11,1.0,0.0,0.25,0.4
+47,364,Paid Social,META-Retargeting,368.11,0.0,0.0,0.25,0.1
+47,364,Paid Search,PS-NonBrand,368.11,0.0,0.0,0.25,0.1
+47,364,Referral,REF-Customer,368.11,0.0,1.0,0.25,0.4
+48,369,Organic Search,SEO-Content,416.31,1.0,0.0,0.3333333333333333,0.4
+48,369,Email,EMAIL-Nurture,416.31,0.0,0.0,0.3333333333333333,0.2
+48,369,Display,DISPLAY-Retargeting,416.31,0.0,1.0,0.3333333333333333,0.4
+49,387,Referral,REF-Customer,203.6,1.0,0.0,0.2,0.4
+49,387,Organic Search,SEO-Product,203.6,0.0,0.0,0.2,0.06666666666666667
+49,387,Paid Social,META-Retargeting,203.6,0.0,0.0,0.2,0.06666666666666667
+49,387,Referral,REF-Partner,203.6,0.0,0.0,0.2,0.06666666666666667
+49,387,Paid Social,META-Prospecting,203.6,0.0,1.0,0.2,0.4
+50,389,Email,EMAIL-Reactivation,450.3,1.0,0.0,0.5,0.5
+50,389,Paid Social,META-Retargeting,450.3,0.0,1.0,0.5,0.5
+51,391,Paid Search,PS-Brand,154.21,1.0,0.0,0.25,0.4
+51,391,Email,EMAIL-Nurture,154.21,0.0,0.0,0.25,0.1
+51,391,Paid Search,PS-Brand,154.21,0.0,0.0,0.25,0.1
+51,391,Referral,REF-Partner,154.21,0.0,1.0,0.25,0.4
+52,395,Referral,REF-Customer,825.45,1.0,0.0,0.5,0.5
+52,395,Referral,REF-Partner,825.45,0.0,1.0,0.5,0.5
+53,423,Email,EMAIL-Reactivation,644.72,1.0,0.0,0.5,0.5
+53,423,Paid Search,PS-Brand,644.72,0.0,1.0,0.5,0.5
+54,430,Referral,REF-Partner,211.09,1.0,0.0,0.2,0.4
+54,430,Organic Search,SEO-Product,211.09,0.0,0.0,0.2,0.06666666666666667
+54,430,Email,EMAIL-Nurture,211.09,0.0,0.0,0.2,0.06666666666666667
+54,430,Organic Search,SEO-Content,211.09,0.0,0.0,0.2,0.06666666666666667
+54,430,Email,EMAIL-Reactivation,211.09,0.0,1.0,0.2,0.4
+55,442,Paid Social,META-Prospecting,999.86,1.0,0.0,0.25,0.4
+55,442,Email,EMAIL-Reactivation,999.86,0.0,0.0,0.25,0.1
+55,442,Email,EMAIL-Nurture,999.86,0.0,0.0,0.25,0.1
+55,442,Paid Search,PS-NonBrand,999.86,0.0,1.0,0.25,0.4
+56,452,Referral,REF-Partner,411.37,1.0,0.0,0.2,0.4
+56,452,Referral,REF-Customer,411.37,0.0,0.0,0.2,0.06666666666666667
+56,452,Organic Search,SEO-Product,411.37,0.0,0.0,0.2,0.06666666666666667
+56,452,Organic Search,SEO-Product,411.37,0.0,0.0,0.2,0.06666666666666667
+56,452,Email,EMAIL-Reactivation,411.37,0.0,1.0,0.2,0.4
+57,453,Paid Search,PS-NonBrand,275.76,1.0,0.0,0.5,0.5
+57,453,Paid Search,PS-NonBrand,275.76,0.0,1.0,0.5,0.5
+58,456,Paid Social,META-Prospecting,326.52,1.0,0.0,0.25,0.4
+58,456,Display,DISPLAY-Retargeting,326.52,0.0,0.0,0.25,0.1
+58,456,Paid Search,PS-NonBrand,326.52,0.0,0.0,0.25,0.1
+58,456,Paid Social,META-Prospecting,326.52,0.0,1.0,0.25,0.4
+59,458,Organic Search,SEO-Content,243.87,1.0,1.0,1.0,1.0
+60,461,Paid Search,PS-NonBrand,530.18,1.0,0.0,0.5,0.5
+60,461,Email,EMAIL-Nurture,530.18,0.0,1.0,0.5,0.5
+61,466,Email,EMAIL-Reactivation,403.42,1.0,0.0,0.3333333333333333,0.4
+61,466,Email,EMAIL-Nurture,403.42,0.0,0.0,0.3333333333333333,0.2
+61,466,Paid Search,PS-Brand,403.42,0.0,1.0,0.3333333333333333,0.4
+62,467,Paid Search,PS-Brand,676.95,1.0,0.0,0.3333333333333333,0.4
+62,467,Email,EMAIL-Nurture,676.95,0.0,0.0,0.3333333333333333,0.2
+62,467,Referral,REF-Customer,676.95,0.0,1.0,0.3333333333333333,0.4
+63,479,Paid Social,META-Prospecting,316.48,1.0,1.0,1.0,1.0
+64,481,Referral,REF-Customer,418.79,1.0,0.0,0.2,0.4
+64,481,Paid Social,META-Retargeting,418.79,0.0,0.0,0.2,0.06666666666666667
+64,481,Paid Search,PS-NonBrand,418.79,0.0,0.0,0.2,0.06666666666666667
+64,481,Organic Search,SEO-Content,418.79,0.0,0.0,0.2,0.06666666666666667
+64,481,Paid Search,PS-NonBrand,418.79,0.0,1.0,0.2,0.4
+65,495,Paid Search,PS-NonBrand,416.02,1.0,0.0,0.3333333333333333,0.4
+65,495,Paid Search,PS-Brand,416.02,0.0,0.0,0.3333333333333333,0.2
+65,495,Paid Search,PS-NonBrand,416.02,0.0,1.0,0.3333333333333333,0.4
+66,496,Paid Social,META-Prospecting,767.87,1.0,0.0,0.25,0.4
+66,496,Email,EMAIL-Reactivation,767.87,0.0,0.0,0.25,0.1
+66,496,Organic Search,SEO-Content,767.87,0.0,0.0,0.25,0.1
+66,496,Referral,REF-Customer,767.87,0.0,1.0,0.25,0.4
+67,506,Referral,REF-Partner,602.53,1.0,0.0,0.25,0.4
+67,506,Paid Search,PS-NonBrand,602.53,0.0,0.0,0.25,0.1
+67,506,Organic Search,SEO-Product,602.53,0.0,0.0,0.25,0.1
+67,506,Referral,REF-Customer,602.53,0.0,1.0,0.25,0.4
+68,516,Paid Search,PS-NonBrand,321.33,1.0,0.0,0.25,0.4
+68,516,Email,EMAIL-Reactivation,321.33,0.0,0.0,0.25,0.1
+68,516,Paid Search,PS-NonBrand,321.33,0.0,0.0,0.25,0.1
+68,516,Display,DISPLAY-Retargeting,321.33,0.0,1.0,0.25,0.4
+69,522,Paid Social,META-Prospecting,570.14,1.0,0.0,0.5,0.5
+69,522,Paid Search,PS-Brand,570.14,0.0,1.0,0.5,0.5
+70,530,Display,DISPLAY-Retargeting,403.52,1.0,0.0,0.5,0.5
+70,530,Paid Search,PS-Brand,403.52,0.0,1.0,0.5,0.5
+71,531,Paid Social,META-Prospecting,697.99,1.0,0.0,0.5,0.5
+71,531,Organic Search,SEO-Content,697.99,0.0,1.0,0.5,0.5
+72,533,Paid Social,META-Retargeting,634.24,1.0,0.0,0.2,0.4
+72,533,Paid Search,PS-Brand,634.24,0.0,0.0,0.2,0.06666666666666667
+72,533,Paid Social,META-Retargeting,634.24,0.0,0.0,0.2,0.06666666666666667
+72,533,Referral,REF-Customer,634.24,0.0,0.0,0.2,0.06666666666666667
+72,533,Email,EMAIL-Reactivation,634.24,0.0,1.0,0.2,0.4
+73,535,Email,EMAIL-Nurture,554.7,1.0,1.0,1.0,1.0
+74,539,Paid Social,META-Prospecting,213.58,1.0,0.0,0.5,0.5
+74,539,Email,EMAIL-Nurture,213.58,0.0,1.0,0.5,0.5
+75,540,Organic Search,SEO-Product,539.84,1.0,0.0,0.25,0.4
+75,540,Paid Search,PS-Brand,539.84,0.0,0.0,0.25,0.1
+75,540,Paid Social,META-Retargeting,539.84,0.0,0.0,0.25,0.1
+75,540,Paid Search,PS-Brand,539.84,0.0,1.0,0.25,0.4
+76,552,Organic Search,SEO-Product,339.83,1.0,0.0,0.5,0.5
+76,552,Paid Search,PS-Brand,339.83,0.0,1.0,0.5,0.5
+77,557,Organic Search,SEO-Product,497.12,1.0,0.0,0.25,0.4
+77,557,Email,EMAIL-Reactivation,497.12,0.0,0.0,0.25,0.1
+77,557,Paid Social,META-Retargeting,497.12,0.0,0.0,0.25,0.1
+77,557,Paid Search,PS-Brand,497.12,0.0,1.0,0.25,0.4
+78,564,Referral,REF-Customer,312.76,1.0,0.0,0.3333333333333333,0.4
+78,564,Email,EMAIL-Nurture,312.76,0.0,0.0,0.3333333333333333,0.2
+78,564,Paid Social,META-Retargeting,312.76,0.0,1.0,0.3333333333333333,0.4
+79,572,Referral,REF-Partner,225.28,1.0,0.0,0.2,0.4
+79,572,Email,EMAIL-Nurture,225.28,0.0,0.0,0.2,0.06666666666666667
+79,572,Referral,REF-Customer,225.28,0.0,0.0,0.2,0.06666666666666667
+79,572,Paid Social,META-Prospecting,225.28,0.0,0.0,0.2,0.06666666666666667
+79,572,Paid Search,PS-NonBrand,225.28,0.0,1.0,0.2,0.4
+80,584,Paid Social,META-Prospecting,295.39,1.0,1.0,1.0,1.0
+81,588,Referral,REF-Customer,387.11,1.0,0.0,0.25,0.4
+81,588,Paid Search,PS-NonBrand,387.11,0.0,0.0,0.25,0.1
+81,588,Email,EMAIL-Nurture,387.11,0.0,0.0,0.25,0.1
+81,588,Paid Search,PS-Brand,387.11,0.0,1.0,0.25,0.4
+82,595,Paid Search,PS-NonBrand,518.01,1.0,1.0,1.0,1.0
+83,600,Paid Search,PS-NonBrand,204.02,1.0,0.0,0.3333333333333333,0.4
+83,600,Organic Search,SEO-Content,204.02,0.0,0.0,0.3333333333333333,0.2
+83,600,Paid Social,META-Prospecting,204.02,0.0,1.0,0.3333333333333333,0.4
+84,629,Referral,REF-Customer,1133.07,1.0,0.0,0.5,0.5
+84,629,Organic Search,SEO-Product,1133.07,0.0,1.0,0.5,0.5
+85,638,Paid Search,PS-Brand,576.99,1.0,0.0,0.5,0.5
+85,638,Referral,REF-Customer,576.99,0.0,1.0,0.5,0.5
+86,639,Referral,REF-Partner,296.62,1.0,0.0,0.5,0.5
+86,639,Paid Social,META-Retargeting,296.62,0.0,1.0,0.5,0.5
+87,646,Paid Search,PS-NonBrand,464.12,1.0,1.0,1.0,1.0
+88,648,Referral,REF-Customer,791.43,1.0,1.0,1.0,1.0
+89,654,Paid Search,PS-NonBrand,402.72,1.0,0.0,0.25,0.4
+89,654,Display,DISPLAY-Prospecting,402.72,0.0,0.0,0.25,0.1
+89,654,Organic Search,SEO-Product,402.72,0.0,0.0,0.25,0.1
+89,654,Paid Search,PS-Brand,402.72,0.0,1.0,0.25,0.4
+90,657,Paid Search,PS-NonBrand,545.1,1.0,0.0,0.25,0.4
+90,657,Organic Search,SEO-Content,545.1,0.0,0.0,0.25,0.1
+90,657,Paid Social,META-Retargeting,545.1,0.0,0.0,0.25,0.1
+90,657,Paid Social,META-Retargeting,545.1,0.0,1.0,0.25,0.4
+91,672,Paid Social,META-Prospecting,167.22,1.0,0.0,0.5,0.5
+91,672,Organic Search,SEO-Content,167.22,0.0,1.0,0.5,0.5
+92,678,Paid Search,PS-Brand,367.43,1.0,0.0,0.3333333333333333,0.4
+92,678,Organic Search,SEO-Content,367.43,0.0,0.0,0.3333333333333333,0.2
+92,678,Organic Search,SEO-Content,367.43,0.0,1.0,0.3333333333333333,0.4
+93,679,Paid Search,PS-Brand,453.31,1.0,0.0,0.3333333333333333,0.4
+93,679,Email,EMAIL-Nurture,453.31,0.0,0.0,0.3333333333333333,0.2
+93,679,Paid Social,META-Retargeting,453.31,0.0,1.0,0.3333333333333333,0.4
+94,701,Email,EMAIL-Nurture,454.6,1.0,1.0,1.0,1.0
+95,705,Paid Social,META-Retargeting,229.6,1.0,0.0,0.2,0.4
+95,705,Display,DISPLAY-Retargeting,229.6,0.0,0.0,0.2,0.06666666666666667
+95,705,Referral,REF-Customer,229.6,0.0,0.0,0.2,0.06666666666666667
+95,705,Paid Search,PS-NonBrand,229.6,0.0,0.0,0.2,0.06666666666666667
+95,705,Email,EMAIL-Nurture,229.6,0.0,1.0,0.2,0.4
+96,713,Paid Social,META-Prospecting,436.77,1.0,0.0,0.5,0.5
+96,713,Paid Social,META-Retargeting,436.77,0.0,1.0,0.5,0.5
+97,715,Organic Search,SEO-Content,241.37,1.0,1.0,1.0,1.0
+98,724,Paid Search,PS-NonBrand,405.27,1.0,0.0,0.5,0.5
+98,724,Organic Search,SEO-Content,405.27,0.0,1.0,0.5,0.5
+99,742,Paid Social,META-Retargeting,457.89,1.0,0.0,0.3333333333333333,0.4
+99,742,Paid Search,PS-Brand,457.89,0.0,0.0,0.3333333333333333,0.2
+99,742,Display,DISPLAY-Retargeting,457.89,0.0,1.0,0.3333333333333333,0.4
+100,745,Paid Social,META-Retargeting,259.43,1.0,0.0,0.2,0.4
+100,745,Email,EMAIL-Nurture,259.43,0.0,0.0,0.2,0.06666666666666667
+100,745,Display,DISPLAY-Retargeting,259.43,0.0,0.0,0.2,0.06666666666666667
+100,745,Paid Social,META-Retargeting,259.43,0.0,0.0,0.2,0.06666666666666667
+100,745,Referral,REF-Customer,259.43,0.0,1.0,0.2,0.4
+101,747,Referral,REF-Partner,198.37,1.0,0.0,0.25,0.4
+101,747,Referral,REF-Partner,198.37,0.0,0.0,0.25,0.1
+101,747,Paid Social,META-Prospecting,198.37,0.0,0.0,0.25,0.1
+101,747,Paid Social,META-Retargeting,198.37,0.0,1.0,0.25,0.4
+102,753,Organic Search,SEO-Content,508.49,1.0,1.0,1.0,1.0
+103,755,Paid Social,META-Retargeting,326.78,1.0,1.0,1.0,1.0
+104,774,Organic Search,SEO-Product,913.37,1.0,0.0,0.2,0.4
+104,774,Paid Search,PS-NonBrand,913.37,0.0,0.0,0.2,0.06666666666666667
+104,774,Paid Social,META-Prospecting,913.37,0.0,0.0,0.2,0.06666666666666667
+104,774,Referral,REF-Partner,913.37,0.0,0.0,0.2,0.06666666666666667
+104,774,Email,EMAIL-Reactivation,913.37,0.0,1.0,0.2,0.4
+105,798,Organic Search,SEO-Product,330.04,1.0,0.0,0.2,0.4
+105,798,Organic Search,SEO-Content,330.04,0.0,0.0,0.2,0.06666666666666667
+105,798,Organic Search,SEO-Product,330.04,0.0,0.0,0.2,0.06666666666666667
+105,798,Organic Search,SEO-Content,330.04,0.0,0.0,0.2,0.06666666666666667
+105,798,Paid Social,META-Retargeting,330.04,0.0,1.0,0.2,0.4
+106,810,Referral,REF-Customer,1202.37,1.0,0.0,0.25,0.4
+106,810,Paid Search,PS-NonBrand,1202.37,0.0,0.0,0.25,0.1
+106,810,Paid Social,META-Retargeting,1202.37,0.0,0.0,0.25,0.1
+106,810,Organic Search,SEO-Content,1202.37,0.0,1.0,0.25,0.4
+107,811,Paid Search,PS-NonBrand,677.03,1.0,0.0,0.3333333333333333,0.4
+107,811,Paid Search,PS-Brand,677.03,0.0,0.0,0.3333333333333333,0.2
+107,811,Paid Social,META-Retargeting,677.03,0.0,1.0,0.3333333333333333,0.4
+108,820,Organic Search,SEO-Product,137.59,1.0,0.0,0.5,0.5
+108,820,Paid Search,PS-NonBrand,137.59,0.0,1.0,0.5,0.5
+109,823,Referral,REF-Customer,330.39,1.0,1.0,1.0,1.0
+110,824,Display,DISPLAY-Retargeting,377.47,1.0,1.0,1.0,1.0
+111,826,Paid Search,PS-Brand,531.46,1.0,0.0,0.3333333333333333,0.4
+111,826,Display,DISPLAY-Retargeting,531.46,0.0,0.0,0.3333333333333333,0.2
+111,826,Paid Social,META-Retargeting,531.46,0.0,1.0,0.3333333333333333,0.4
+112,827,Paid Search,PS-NonBrand,823.06,1.0,0.0,0.2,0.4
+112,827,Paid Social,META-Retargeting,823.06,0.0,0.0,0.2,0.06666666666666667
+112,827,Referral,REF-Partner,823.06,0.0,0.0,0.2,0.06666666666666667
+112,827,Paid Search,PS-Brand,823.06,0.0,0.0,0.2,0.06666666666666667
+112,827,Paid Social,META-Retargeting,823.06,0.0,1.0,0.2,0.4
+113,836,Organic Search,SEO-Product,301.07,1.0,0.0,0.25,0.4
+113,836,Paid Search,PS-NonBrand,301.07,0.0,0.0,0.25,0.1
+113,836,Paid Search,PS-Brand,301.07,0.0,0.0,0.25,0.1
+113,836,Paid Social,META-Retargeting,301.07,0.0,1.0,0.25,0.4
+114,846,Referral,REF-Partner,570.32,1.0,0.0,0.3333333333333333,0.4
+114,846,Paid Search,PS-Brand,570.32,0.0,0.0,0.3333333333333333,0.2
+114,846,Referral,REF-Customer,570.32,0.0,1.0,0.3333333333333333,0.4
+115,858,Paid Social,META-Prospecting,858.44,1.0,1.0,1.0,1.0
+116,862,Paid Search,PS-NonBrand,512.67,1.0,0.0,0.3333333333333333,0.4
+116,862,Paid Social,META-Retargeting,512.67,0.0,0.0,0.3333333333333333,0.2
+116,862,Paid Search,PS-NonBrand,512.67,0.0,1.0,0.3333333333333333,0.4
+117,868,Paid Search,PS-Brand,488.98,1.0,0.0,0.5,0.5
+117,868,Display,DISPLAY-Retargeting,488.98,0.0,1.0,0.5,0.5
+118,882,Paid Social,META-Retargeting,596.07,1.0,0.0,0.5,0.5
+118,882,Paid Social,META-Prospecting,596.07,0.0,1.0,0.5,0.5
+119,895,Paid Search,PS-NonBrand,204.4,1.0,0.0,0.25,0.4
+119,895,Paid Search,PS-NonBrand,204.4,0.0,0.0,0.25,0.1
+119,895,Paid Social,META-Retargeting,204.4,0.0,0.0,0.25,0.1
+119,895,Organic Search,SEO-Content,204.4,0.0,1.0,0.25,0.4
+120,896,Organic Search,SEO-Content,542.89,1.0,1.0,1.0,1.0
+121,913,Paid Search,PS-NonBrand,421.94,1.0,0.0,0.2,0.4
+121,913,Paid Search,PS-Brand,421.94,0.0,0.0,0.2,0.06666666666666667
+121,913,Organic Search,SEO-Content,421.94,0.0,0.0,0.2,0.06666666666666667
+121,913,Display,DISPLAY-Retargeting,421.94,0.0,0.0,0.2,0.06666666666666667
+121,913,Organic Search,SEO-Product,421.94,0.0,1.0,0.2,0.4
+122,914,Paid Social,META-Retargeting,474.26,1.0,0.0,0.3333333333333333,0.4
+122,914,Organic Search,SEO-Content,474.26,0.0,0.0,0.3333333333333333,0.2
+122,914,Paid Social,META-Retargeting,474.26,0.0,1.0,0.3333333333333333,0.4
+123,922,Paid Search,PS-Brand,863.63,1.0,0.0,0.5,0.5
+123,922,Paid Search,PS-NonBrand,863.63,0.0,1.0,0.5,0.5
+124,923,Email,EMAIL-Reactivation,447.85,1.0,0.0,0.5,0.5
+124,923,Paid Search,PS-NonBrand,447.85,0.0,1.0,0.5,0.5
+125,946,Display,DISPLAY-Retargeting,270.4,1.0,0.0,0.5,0.5
+125,946,Paid Search,PS-NonBrand,270.4,0.0,1.0,0.5,0.5
+126,947,Organic Search,SEO-Content,191.84,1.0,0.0,0.5,0.5
+126,947,Paid Search,PS-NonBrand,191.84,0.0,1.0,0.5,0.5
+127,953,Paid Search,PS-NonBrand,660.67,1.0,0.0,0.5,0.5
+127,953,Paid Social,META-Retargeting,660.67,0.0,1.0,0.5,0.5
+128,985,Paid Social,META-Retargeting,506.14,1.0,0.0,0.2,0.4
+128,985,Paid Social,META-Retargeting,506.14,0.0,0.0,0.2,0.06666666666666667
+128,985,Paid Social,META-Retargeting,506.14,0.0,0.0,0.2,0.06666666666666667
+128,985,Organic Search,SEO-Content,506.14,0.0,0.0,0.2,0.06666666666666667
+128,985,Paid Search,PS-Brand,506.14,0.0,1.0,0.2,0.4
+129,1004,Organic Search,SEO-Content,265.17,1.0,0.0,0.2,0.4
+129,1004,Paid Social,META-Retargeting,265.17,0.0,0.0,0.2,0.06666666666666667
+129,1004,Referral,REF-Partner,265.17,0.0,0.0,0.2,0.06666666666666667
+129,1004,Paid Social,META-Retargeting,265.17,0.0,0.0,0.2,0.06666666666666667
+129,1004,Paid Search,PS-Brand,265.17,0.0,1.0,0.2,0.4
+130,1030,Paid Social,META-Prospecting,164.56,1.0,0.0,0.25,0.4
+130,1030,Paid Social,META-Prospecting,164.56,0.0,0.0,0.25,0.1
+130,1030,Display,DISPLAY-Retargeting,164.56,0.0,0.0,0.25,0.1
+130,1030,Paid Search,PS-NonBrand,164.56,0.0,1.0,0.25,0.4
+131,1040,Display,DISPLAY-Prospecting,477.16,1.0,0.0,0.5,0.5
+131,1040,Email,EMAIL-Reactivation,477.16,0.0,1.0,0.5,0.5
+132,1041,Paid Social,META-Retargeting,361.95,1.0,1.0,1.0,1.0
+133,1049,Organic Search,SEO-Product,215.26,1.0,0.0,0.25,0.4
+133,1049,Display,DISPLAY-Retargeting,215.26,0.0,0.0,0.25,0.1
+133,1049,Paid Search,PS-NonBrand,215.26,0.0,0.0,0.25,0.1
+133,1049,Referral,REF-Customer,215.26,0.0,1.0,0.25,0.4
+134,1052,Display,DISPLAY-Prospecting,364.67,1.0,0.0,0.5,0.5
+134,1052,Paid Search,PS-Brand,364.67,0.0,1.0,0.5,0.5
+135,1058,Paid Social,META-Prospecting,253.29,1.0,0.0,0.25,0.4
+135,1058,Paid Search,PS-NonBrand,253.29,0.0,0.0,0.25,0.1
+135,1058,Paid Search,PS-Brand,253.29,0.0,0.0,0.25,0.1
+135,1058,Paid Social,META-Retargeting,253.29,0.0,1.0,0.25,0.4
+136,1061,Email,EMAIL-Nurture,509.71,1.0,1.0,1.0,1.0
+137,1063,Referral,REF-Partner,566.76,1.0,0.0,0.5,0.5
+137,1063,Organic Search,SEO-Content,566.76,0.0,1.0,0.5,0.5
+138,1070,Paid Search,PS-NonBrand,700.07,1.0,0.0,0.2,0.4
+138,1070,Paid Social,META-Retargeting,700.07,0.0,0.0,0.2,0.06666666666666667
+138,1070,Paid Search,PS-NonBrand,700.07,0.0,0.0,0.2,0.06666666666666667
+138,1070,Paid Social,META-Retargeting,700.07,0.0,0.0,0.2,0.06666666666666667
+138,1070,Organic Search,SEO-Content,700.07,0.0,1.0,0.2,0.4
+139,1072,Email,EMAIL-Reactivation,619.19,1.0,0.0,0.25,0.4
+139,1072,Paid Social,META-Retargeting,619.19,0.0,0.0,0.25,0.1
+139,1072,Organic Search,SEO-Content,619.19,0.0,0.0,0.25,0.1
+139,1072,Organic Search,SEO-Product,619.19,0.0,1.0,0.25,0.4
+140,1076,Paid Search,PS-Brand,304.85,1.0,0.0,0.2,0.4
+140,1076,Paid Search,PS-NonBrand,304.85,0.0,0.0,0.2,0.06666666666666667
+140,1076,Organic Search,SEO-Content,304.85,0.0,0.0,0.2,0.06666666666666667
+140,1076,Email,EMAIL-Reactivation,304.85,0.0,0.0,0.2,0.06666666666666667
+140,1076,Display,DISPLAY-Prospecting,304.85,0.0,1.0,0.2,0.4
+141,1085,Email,EMAIL-Reactivation,632.8,1.0,0.0,0.5,0.5
+141,1085,Paid Search,PS-Brand,632.8,0.0,1.0,0.5,0.5
+142,1089,Referral,REF-Partner,334.29,1.0,0.0,0.5,0.5
+142,1089,Organic Search,SEO-Content,334.29,0.0,1.0,0.5,0.5
+143,1090,Paid Search,PS-Brand,485.12,1.0,0.0,0.3333333333333333,0.4
+143,1090,Organic Search,SEO-Content,485.12,0.0,0.0,0.3333333333333333,0.2
+143,1090,Organic Search,SEO-Content,485.12,0.0,1.0,0.3333333333333333,0.4
+144,1110,Email,EMAIL-Nurture,231.47,1.0,0.0,0.25,0.4
+144,1110,Paid Search,PS-Brand,231.47,0.0,0.0,0.25,0.1
+144,1110,Email,EMAIL-Reactivation,231.47,0.0,0.0,0.25,0.1
+144,1110,Referral,REF-Customer,231.47,0.0,1.0,0.25,0.4
+145,1119,Email,EMAIL-Nurture,163.86,1.0,0.0,0.5,0.5
+145,1119,Organic Search,SEO-Product,163.86,0.0,1.0,0.5,0.5
+146,1123,Paid Social,META-Prospecting,954.68,1.0,0.0,0.5,0.5
+146,1123,Display,DISPLAY-Retargeting,954.68,0.0,1.0,0.5,0.5
+147,1124,Organic Search,SEO-Product,474.66,1.0,0.0,0.25,0.4
+147,1124,Paid Social,META-Retargeting,474.66,0.0,0.0,0.25,0.1
+147,1124,Paid Search,PS-Brand,474.66,0.0,0.0,0.25,0.1
+147,1124,Paid Social,META-Retargeting,474.66,0.0,1.0,0.25,0.4
+148,1136,Paid Search,PS-Brand,524.35,1.0,1.0,1.0,1.0
+149,1140,Paid Search,PS-Brand,581.09,1.0,0.0,0.2,0.4
+149,1140,Email,EMAIL-Nurture,581.09,0.0,0.0,0.2,0.06666666666666667
+149,1140,Paid Social,META-Retargeting,581.09,0.0,0.0,0.2,0.06666666666666667
+149,1140,Display,DISPLAY-Retargeting,581.09,0.0,0.0,0.2,0.06666666666666667
+149,1140,Referral,REF-Customer,581.09,0.0,1.0,0.2,0.4
+150,1142,Referral,REF-Partner,263.14,1.0,0.0,0.25,0.4
+150,1142,Referral,REF-Customer,263.14,0.0,0.0,0.25,0.1
+150,1142,Organic Search,SEO-Product,263.14,0.0,0.0,0.25,0.1
+150,1142,Paid Search,PS-NonBrand,263.14,0.0,1.0,0.25,0.4
+151,1150,Paid Search,PS-Brand,523.49,1.0,0.0,0.25,0.4
+151,1150,Paid Search,PS-Brand,523.49,0.0,0.0,0.25,0.1
+151,1150,Referral,REF-Customer,523.49,0.0,0.0,0.25,0.1
+151,1150,Organic Search,SEO-Product,523.49,0.0,1.0,0.25,0.4
+152,1151,Paid Social,META-Prospecting,750.72,1.0,0.0,0.2,0.4
+152,1151,Organic Search,SEO-Product,750.72,0.0,0.0,0.2,0.06666666666666667
+152,1151,Paid Social,META-Retargeting,750.72,0.0,0.0,0.2,0.06666666666666667
+152,1151,Display,DISPLAY-Prospecting,750.72,0.0,0.0,0.2,0.06666666666666667
+152,1151,Organic Search,SEO-Product,750.72,0.0,1.0,0.2,0.4
+153,1163,Paid Search,PS-NonBrand,302.45,1.0,0.0,0.3333333333333333,0.4
+153,1163,Paid Search,PS-NonBrand,302.45,0.0,0.0,0.3333333333333333,0.2
+153,1163,Display,DISPLAY-Retargeting,302.45,0.0,1.0,0.3333333333333333,0.4
+154,1169,Organic Search,SEO-Content,343.2,1.0,0.0,0.2,0.4
+154,1169,Email,EMAIL-Nurture,343.2,0.0,0.0,0.2,0.06666666666666667
+154,1169,Paid Search,PS-Brand,343.2,0.0,0.0,0.2,0.06666666666666667
+154,1169,Paid Social,META-Retargeting,343.2,0.0,0.0,0.2,0.06666666666666667
+154,1169,Referral,REF-Customer,343.2,0.0,1.0,0.2,0.4
+155,1185,Organic Search,SEO-Content,144.73,1.0,0.0,0.3333333333333333,0.4
+155,1185,Email,EMAIL-Reactivation,144.73,0.0,0.0,0.3333333333333333,0.2
+155,1185,Paid Search,PS-NonBrand,144.73,0.0,1.0,0.3333333333333333,0.4
+156,1188,Referral,REF-Customer,1579.83,1.0,0.0,0.5,0.5
+156,1188,Email,EMAIL-Nurture,1579.83,0.0,1.0,0.5,0.5
+157,1201,Referral,REF-Partner,427.96,1.0,0.0,0.2,0.4
+157,1201,Referral,REF-Partner,427.96,0.0,0.0,0.2,0.06666666666666667
+157,1201,Organic Search,SEO-Content,427.96,0.0,0.0,0.2,0.06666666666666667
+157,1201,Referral,REF-Customer,427.96,0.0,0.0,0.2,0.06666666666666667
+157,1201,Paid Search,PS-NonBrand,427.96,0.0,1.0,0.2,0.4
+158,1202,Organic Search,SEO-Product,622.46,1.0,1.0,1.0,1.0
+159,1215,Paid Search,PS-Brand,714.65,1.0,0.0,0.5,0.5
+159,1215,Organic Search,SEO-Content,714.65,0.0,1.0,0.5,0.5
+160,1218,Display,DISPLAY-Prospecting,474.4,1.0,1.0,1.0,1.0
+161,1219,Display,DISPLAY-Retargeting,857.61,1.0,0.0,0.5,0.5
+161,1219,Referral,REF-Customer,857.61,0.0,1.0,0.5,0.5
+162,1220,Paid Search,PS-NonBrand,471.25,1.0,0.0,0.5,0.5
+162,1220,Paid Social,META-Prospecting,471.25,0.0,1.0,0.5,0.5
+163,1252,Paid Social,META-Retargeting,272.06,1.0,0.0,0.3333333333333333,0.4
+163,1252,Organic Search,SEO-Content,272.06,0.0,0.0,0.3333333333333333,0.2
+163,1252,Display,DISPLAY-Retargeting,272.06,0.0,1.0,0.3333333333333333,0.4
+164,1261,Referral,REF-Partner,928.95,1.0,0.0,0.2,0.4
+164,1261,Email,EMAIL-Reactivation,928.95,0.0,0.0,0.2,0.06666666666666667
+164,1261,Organic Search,SEO-Product,928.95,0.0,0.0,0.2,0.06666666666666667
+164,1261,Paid Social,META-Retargeting,928.95,0.0,0.0,0.2,0.06666666666666667
+164,1261,Organic Search,SEO-Product,928.95,0.0,1.0,0.2,0.4
+165,1277,Display,DISPLAY-Prospecting,343.57,1.0,0.0,0.25,0.4
+165,1277,Paid Social,META-Prospecting,343.57,0.0,0.0,0.25,0.1
+165,1277,Email,EMAIL-Reactivation,343.57,0.0,0.0,0.25,0.1
+165,1277,Paid Social,META-Retargeting,343.57,0.0,1.0,0.25,0.4
+166,1286,Paid Search,PS-NonBrand,425.48,1.0,0.0,0.25,0.4
+166,1286,Paid Search,PS-NonBrand,425.48,0.0,0.0,0.25,0.1
+166,1286,Display,DISPLAY-Retargeting,425.48,0.0,0.0,0.25,0.1
+166,1286,Paid Search,PS-NonBrand,425.48,0.0,1.0,0.25,0.4
+167,1291,Referral,REF-Partner,981.78,1.0,0.0,0.5,0.5
+167,1291,Email,EMAIL-Reactivation,981.78,0.0,1.0,0.5,0.5
+168,1299,Email,EMAIL-Nurture,632.08,1.0,0.0,0.5,0.5
+168,1299,Email,EMAIL-Nurture,632.08,0.0,1.0,0.5,0.5
+169,1300,Paid Social,META-Retargeting,491.45,1.0,0.0,0.3333333333333333,0.4
+169,1300,Paid Social,META-Prospecting,491.45,0.0,0.0,0.3333333333333333,0.2
+169,1300,Email,EMAIL-Nurture,491.45,0.0,1.0,0.3333333333333333,0.4
+170,1303,Organic Search,SEO-Product,1672.08,1.0,0.0,0.5,0.5
+170,1303,Paid Social,META-Prospecting,1672.08,0.0,1.0,0.5,0.5
+171,1306,Paid Search,PS-NonBrand,985.1,1.0,0.0,0.25,0.4
+171,1306,Paid Search,PS-Brand,985.1,0.0,0.0,0.25,0.1
+171,1306,Paid Social,META-Retargeting,985.1,0.0,0.0,0.25,0.1
+171,1306,Display,DISPLAY-Retargeting,985.1,0.0,1.0,0.25,0.4
+172,1315,Email,EMAIL-Nurture,596.26,1.0,0.0,0.2,0.4
+172,1315,Referral,REF-Partner,596.26,0.0,0.0,0.2,0.06666666666666667
+172,1315,Referral,REF-Customer,596.26,0.0,0.0,0.2,0.06666666666666667
+172,1315,Email,EMAIL-Nurture,596.26,0.0,0.0,0.2,0.06666666666666667
+172,1315,Organic Search,SEO-Product,596.26,0.0,1.0,0.2,0.4
+173,1317,Paid Social,META-Retargeting,788.16,1.0,0.0,0.25,0.4
+173,1317,Organic Search,SEO-Content,788.16,0.0,0.0,0.25,0.1
+173,1317,Paid Social,META-Retargeting,788.16,0.0,0.0,0.25,0.1
+173,1317,Referral,REF-Customer,788.16,0.0,1.0,0.25,0.4
+174,1319,Referral,REF-Customer,570.68,1.0,0.0,0.25,0.4
+174,1319,Paid Social,META-Retargeting,570.68,0.0,0.0,0.25,0.1
+174,1319,Organic Search,SEO-Content,570.68,0.0,0.0,0.25,0.1
+174,1319,Paid Search,PS-NonBrand,570.68,0.0,1.0,0.25,0.4
+175,1327,Paid Social,META-Prospecting,753.85,1.0,0.0,0.5,0.5
+175,1327,Display,DISPLAY-Retargeting,753.85,0.0,1.0,0.5,0.5
+176,1331,Paid Search,PS-NonBrand,714.63,1.0,0.0,0.2,0.4
+176,1331,Organic Search,SEO-Content,714.63,0.0,0.0,0.2,0.06666666666666667
+176,1331,Referral,REF-Customer,714.63,0.0,0.0,0.2,0.06666666666666667
+176,1331,Paid Social,META-Retargeting,714.63,0.0,0.0,0.2,0.06666666666666667
+176,1331,Paid Search,PS-NonBrand,714.63,0.0,1.0,0.2,0.4
+177,1361,Display,DISPLAY-Prospecting,524.26,1.0,0.0,0.3333333333333333,0.4
+177,1361,Paid Social,META-Retargeting,524.26,0.0,0.0,0.3333333333333333,0.2
+177,1361,Organic Search,SEO-Product,524.26,0.0,1.0,0.3333333333333333,0.4
+178,1367,Referral,REF-Partner,1104.09,1.0,0.0,0.5,0.5
+178,1367,Paid Search,PS-NonBrand,1104.09,0.0,1.0,0.5,0.5
+179,1368,Paid Social,META-Prospecting,1104.44,1.0,1.0,1.0,1.0
+180,1376,Organic Search,SEO-Content,310.72,1.0,0.0,0.25,0.4
+180,1376,Paid Search,PS-Brand,310.72,0.0,0.0,0.25,0.1
+180,1376,Paid Social,META-Prospecting,310.72,0.0,0.0,0.25,0.1
+180,1376,Paid Search,PS-NonBrand,310.72,0.0,1.0,0.25,0.4
+181,1381,Organic Search,SEO-Product,671.61,1.0,1.0,1.0,1.0
+182,1387,Paid Social,META-Prospecting,605.09,1.0,0.0,0.5,0.5
+182,1387,Display,DISPLAY-Prospecting,605.09,0.0,1.0,0.5,0.5
+183,1388,Referral,REF-Partner,254.79,1.0,1.0,1.0,1.0
+184,1409,Paid Search,PS-NonBrand,438.49,1.0,0.0,0.3333333333333333,0.4
+184,1409,Organic Search,SEO-Content,438.49,0.0,0.0,0.3333333333333333,0.2
+184,1409,Display,DISPLAY-Retargeting,438.49,0.0,1.0,0.3333333333333333,0.4
+185,1419,Paid Search,PS-NonBrand,641.87,1.0,0.0,0.3333333333333333,0.4
+185,1419,Email,EMAIL-Nurture,641.87,0.0,0.0,0.3333333333333333,0.2
+185,1419,Email,EMAIL-Nurture,641.87,0.0,1.0,0.3333333333333333,0.4
+186,1445,Paid Social,META-Prospecting,769.68,1.0,0.0,0.5,0.5
+186,1445,Referral,REF-Customer,769.68,0.0,1.0,0.5,0.5
+187,1454,Referral,REF-Partner,513.87,1.0,1.0,1.0,1.0
+188,1457,Display,DISPLAY-Prospecting,412.19,1.0,0.0,0.25,0.4
+188,1457,Paid Search,PS-NonBrand,412.19,0.0,0.0,0.25,0.1
+188,1457,Paid Social,META-Prospecting,412.19,0.0,0.0,0.25,0.1
+188,1457,Email,EMAIL-Reactivation,412.19,0.0,1.0,0.25,0.4
+189,1474,Email,EMAIL-Reactivation,385.44,1.0,0.0,0.25,0.4
+189,1474,Paid Search,PS-Brand,385.44,0.0,0.0,0.25,0.1
+189,1474,Display,DISPLAY-Prospecting,385.44,0.0,0.0,0.25,0.1
+189,1474,Referral,REF-Customer,385.44,0.0,1.0,0.25,0.4
+190,1475,Organic Search,SEO-Content,200.39,1.0,1.0,1.0,1.0
+191,1526,Paid Search,PS-Brand,639.13,1.0,0.0,0.25,0.4
+191,1526,Referral,REF-Customer,639.13,0.0,0.0,0.25,0.1
+191,1526,Paid Social,META-Retargeting,639.13,0.0,0.0,0.25,0.1
+191,1526,Referral,REF-Customer,639.13,0.0,1.0,0.25,0.4
+192,1530,Referral,REF-Customer,465.9,1.0,0.0,0.3333333333333333,0.4
+192,1530,Paid Search,PS-NonBrand,465.9,0.0,0.0,0.3333333333333333,0.2
+192,1530,Organic Search,SEO-Product,465.9,0.0,1.0,0.3333333333333333,0.4
+193,1531,Organic Search,SEO-Content,321.12,1.0,0.0,0.3333333333333333,0.4
+193,1531,Organic Search,SEO-Content,321.12,0.0,0.0,0.3333333333333333,0.2
+193,1531,Organic Search,SEO-Product,321.12,0.0,1.0,0.3333333333333333,0.4
+194,1540,Paid Search,PS-NonBrand,306.12,1.0,0.0,0.25,0.4
+194,1540,Paid Search,PS-Brand,306.12,0.0,0.0,0.25,0.1
+194,1540,Display,DISPLAY-Retargeting,306.12,0.0,0.0,0.25,0.1
+194,1540,Display,DISPLAY-Retargeting,306.12,0.0,1.0,0.25,0.4
+195,1544,Paid Search,PS-NonBrand,270.21,1.0,1.0,1.0,1.0
+196,1553,Paid Social,META-Prospecting,492.17,1.0,0.0,0.5,0.5
+196,1553,Organic Search,SEO-Product,492.17,0.0,1.0,0.5,0.5
+197,1556,Paid Search,PS-NonBrand,359.08,1.0,0.0,0.2,0.4
+197,1556,Paid Search,PS-NonBrand,359.08,0.0,0.0,0.2,0.06666666666666667
+197,1556,Paid Search,PS-Brand,359.08,0.0,0.0,0.2,0.06666666666666667
+197,1556,Paid Search,PS-Brand,359.08,0.0,0.0,0.2,0.06666666666666667
+197,1556,Organic Search,SEO-Content,359.08,0.0,1.0,0.2,0.4
+198,1558,Paid Search,PS-Brand,328.01,1.0,0.0,0.3333333333333333,0.4
+198,1558,Paid Search,PS-NonBrand,328.01,0.0,0.0,0.3333333333333333,0.2
+198,1558,Paid Search,PS-Brand,328.01,0.0,1.0,0.3333333333333333,0.4
+199,1563,Organic Search,SEO-Product,252.23,1.0,0.0,0.2,0.4
+199,1563,Paid Social,META-Retargeting,252.23,0.0,0.0,0.2,0.06666666666666667
+199,1563,Paid Social,META-Retargeting,252.23,0.0,0.0,0.2,0.06666666666666667
+199,1563,Paid Search,PS-NonBrand,252.23,0.0,0.0,0.2,0.06666666666666667
+199,1563,Paid Search,PS-Brand,252.23,0.0,1.0,0.2,0.4
+200,1572,Display,DISPLAY-Prospecting,548.81,1.0,0.0,0.25,0.4
+200,1572,Referral,REF-Customer,548.81,0.0,0.0,0.25,0.1
+200,1572,Display,DISPLAY-Retargeting,548.81,0.0,0.0,0.25,0.1
+200,1572,Paid Social,META-Retargeting,548.81,0.0,1.0,0.25,0.4
+201,1578,Display,DISPLAY-Prospecting,649.89,1.0,0.0,0.2,0.4
+201,1578,Email,EMAIL-Nurture,649.89,0.0,0.0,0.2,0.06666666666666667
+201,1578,Organic Search,SEO-Content,649.89,0.0,0.0,0.2,0.06666666666666667
+201,1578,Paid Social,META-Retargeting,649.89,0.0,0.0,0.2,0.06666666666666667
+201,1578,Email,EMAIL-Nurture,649.89,0.0,1.0,0.2,0.4
+202,1579,Paid Search,PS-NonBrand,310.27,1.0,0.0,0.3333333333333333,0.4
+202,1579,Display,DISPLAY-Retargeting,310.27,0.0,0.0,0.3333333333333333,0.2
+202,1579,Organic Search,SEO-Product,310.27,0.0,1.0,0.3333333333333333,0.4
+203,1582,Paid Search,PS-Brand,144.05,1.0,1.0,1.0,1.0
+204,1584,Paid Social,META-Retargeting,652.22,1.0,0.0,0.25,0.4
+204,1584,Paid Social,META-Retargeting,652.22,0.0,0.0,0.25,0.1
+204,1584,Paid Social,META-Retargeting,652.22,0.0,0.0,0.25,0.1
+204,1584,Paid Search,PS-NonBrand,652.22,0.0,1.0,0.25,0.4
+205,1586,Paid Social,META-Prospecting,716.67,1.0,0.0,0.2,0.4
+205,1586,Paid Search,PS-Brand,716.67,0.0,0.0,0.2,0.06666666666666667
+205,1586,Organic Search,SEO-Product,716.67,0.0,0.0,0.2,0.06666666666666667
+205,1586,Email,EMAIL-Reactivation,716.67,0.0,0.0,0.2,0.06666666666666667
+205,1586,Display,DISPLAY-Retargeting,716.67,0.0,1.0,0.2,0.4
+206,1590,Paid Search,PS-NonBrand,297.25,1.0,0.0,0.2,0.4
+206,1590,Email,EMAIL-Reactivation,297.25,0.0,0.0,0.2,0.06666666666666667
+206,1590,Paid Social,META-Retargeting,297.25,0.0,0.0,0.2,0.06666666666666667
+206,1590,Referral,REF-Customer,297.25,0.0,0.0,0.2,0.06666666666666667
+206,1590,Organic Search,SEO-Product,297.25,0.0,1.0,0.2,0.4
+207,1594,Paid Search,PS-Brand,185.06,1.0,0.0,0.5,0.5
+207,1594,Email,EMAIL-Nurture,185.06,0.0,1.0,0.5,0.5
+208,1607,Display,DISPLAY-Retargeting,426.03,1.0,0.0,0.25,0.4
+208,1607,Email,EMAIL-Nurture,426.03,0.0,0.0,0.25,0.1
+208,1607,Referral,REF-Customer,426.03,0.0,0.0,0.25,0.1
+208,1607,Paid Social,META-Retargeting,426.03,0.0,1.0,0.25,0.4
+209,1610,Display,DISPLAY-Retargeting,262.32,1.0,0.0,0.2,0.4
+209,1610,Email,EMAIL-Reactivation,262.32,0.0,0.0,0.2,0.06666666666666667
+209,1610,Organic Search,SEO-Content,262.32,0.0,0.0,0.2,0.06666666666666667
+209,1610,Paid Social,META-Prospecting,262.32,0.0,0.0,0.2,0.06666666666666667
+209,1610,Paid Search,PS-Brand,262.32,0.0,1.0,0.2,0.4
+210,1612,Display,DISPLAY-Prospecting,250.51,1.0,0.0,0.2,0.4
+210,1612,Organic Search,SEO-Content,250.51,0.0,0.0,0.2,0.06666666666666667
+210,1612,Display,DISPLAY-Prospecting,250.51,0.0,0.0,0.2,0.06666666666666667
+210,1612,Organic Search,SEO-Content,250.51,0.0,0.0,0.2,0.06666666666666667
+210,1612,Organic Search,SEO-Content,250.51,0.0,1.0,0.2,0.4
+211,1621,Email,EMAIL-Nurture,683.22,1.0,0.0,0.5,0.5
+211,1621,Paid Social,META-Retargeting,683.22,0.0,1.0,0.5,0.5
+212,1632,Paid Social,META-Prospecting,615.7,1.0,0.0,0.2,0.4
+212,1632,Paid Search,PS-Brand,615.7,0.0,0.0,0.2,0.06666666666666667
+212,1632,Paid Search,PS-NonBrand,615.7,0.0,0.0,0.2,0.06666666666666667
+212,1632,Organic Search,SEO-Content,615.7,0.0,0.0,0.2,0.06666666666666667
+212,1632,Referral,REF-Customer,615.7,0.0,1.0,0.2,0.4
+213,1645,Paid Social,META-Retargeting,661.78,1.0,0.0,0.3333333333333333,0.4
+213,1645,Referral,REF-Partner,661.78,0.0,0.0,0.3333333333333333,0.2
+213,1645,Referral,REF-Partner,661.78,0.0,1.0,0.3333333333333333,0.4
+214,1658,Organic Search,SEO-Product,688.27,1.0,0.0,0.2,0.4
+214,1658,Paid Search,PS-Brand,688.27,0.0,0.0,0.2,0.06666666666666667
+214,1658,Paid Social,META-Prospecting,688.27,0.0,0.0,0.2,0.06666666666666667
+214,1658,Organic Search,SEO-Product,688.27,0.0,0.0,0.2,0.06666666666666667
+214,1658,Email,EMAIL-Nurture,688.27,0.0,1.0,0.2,0.4
+215,1666,Paid Social,META-Retargeting,311.55,1.0,0.0,0.25,0.4
+215,1666,Paid Social,META-Prospecting,311.55,0.0,0.0,0.25,0.1
+215,1666,Referral,REF-Customer,311.55,0.0,0.0,0.25,0.1
+215,1666,Paid Search,PS-Brand,311.55,0.0,1.0,0.25,0.4
+216,1670,Organic Search,SEO-Product,370.51,1.0,0.0,0.5,0.5
+216,1670,Paid Search,PS-Brand,370.51,0.0,1.0,0.5,0.5
+217,1672,Paid Search,PS-Brand,853.1,1.0,0.0,0.5,0.5
+217,1672,Referral,REF-Partner,853.1,0.0,1.0,0.5,0.5
+218,1684,Paid Social,META-Prospecting,1048.88,1.0,0.0,0.25,0.4
+218,1684,Referral,REF-Customer,1048.88,0.0,0.0,0.25,0.1
+218,1684,Paid Social,META-Retargeting,1048.88,0.0,0.0,0.25,0.1
+218,1684,Paid Search,PS-NonBrand,1048.88,0.0,1.0,0.25,0.4
+219,1696,Display,DISPLAY-Prospecting,492.02,1.0,1.0,1.0,1.0
+220,1698,Paid Search,PS-Brand,884.69,1.0,0.0,0.3333333333333333,0.4
+220,1698,Organic Search,SEO-Content,884.69,0.0,0.0,0.3333333333333333,0.2
+220,1698,Email,EMAIL-Reactivation,884.69,0.0,1.0,0.3333333333333333,0.4
+221,1699,Organic Search,SEO-Product,255.26,1.0,0.0,0.3333333333333333,0.4
+221,1699,Paid Social,META-Prospecting,255.26,0.0,0.0,0.3333333333333333,0.2
+221,1699,Referral,REF-Customer,255.26,0.0,1.0,0.3333333333333333,0.4
+222,1701,Organic Search,SEO-Content,908.08,1.0,1.0,1.0,1.0
+223,1736,Display,DISPLAY-Prospecting,691.52,1.0,0.0,0.3333333333333333,0.4
+223,1736,Paid Social,META-Retargeting,691.52,0.0,0.0,0.3333333333333333,0.2
+223,1736,Organic Search,SEO-Content,691.52,0.0,1.0,0.3333333333333333,0.4
+224,1740,Email,EMAIL-Reactivation,327.88,1.0,0.0,0.2,0.4
+224,1740,Email,EMAIL-Nurture,327.88,0.0,0.0,0.2,0.06666666666666667
+224,1740,Referral,REF-Customer,327.88,0.0,0.0,0.2,0.06666666666666667
+224,1740,Paid Search,PS-NonBrand,327.88,0.0,0.0,0.2,0.06666666666666667
+224,1740,Referral,REF-Customer,327.88,0.0,1.0,0.2,0.4
+225,1742,Referral,REF-Customer,641.9,1.0,1.0,1.0,1.0
+226,1758,Organic Search,SEO-Product,164.03,1.0,0.0,0.5,0.5
+226,1758,Paid Social,META-Retargeting,164.03,0.0,1.0,0.5,0.5
+227,1763,Paid Search,PS-NonBrand,937.98,1.0,1.0,1.0,1.0
+228,1769,Paid Search,PS-NonBrand,374.71,1.0,0.0,0.5,0.5
+228,1769,Organic Search,SEO-Content,374.71,0.0,1.0,0.5,0.5
+229,1775,Paid Search,PS-NonBrand,1098.41,1.0,0.0,0.2,0.4
+229,1775,Paid Social,META-Retargeting,1098.41,0.0,0.0,0.2,0.06666666666666667
+229,1775,Paid Social,META-Retargeting,1098.41,0.0,0.0,0.2,0.06666666666666667
+229,1775,Referral,REF-Customer,1098.41,0.0,0.0,0.2,0.06666666666666667
+229,1775,Email,EMAIL-Nurture,1098.41,0.0,1.0,0.2,0.4
+230,1777,Paid Social,META-Retargeting,885.6,1.0,1.0,1.0,1.0
+231,1779,Email,EMAIL-Nurture,541.66,1.0,0.0,0.2,0.4
+231,1779,Paid Social,META-Prospecting,541.66,0.0,0.0,0.2,0.06666666666666667
+231,1779,Organic Search,SEO-Content,541.66,0.0,0.0,0.2,0.06666666666666667
+231,1779,Paid Search,PS-NonBrand,541.66,0.0,0.0,0.2,0.06666666666666667
+231,1779,Referral,REF-Partner,541.66,0.0,1.0,0.2,0.4
+232,1780,Paid Social,META-Retargeting,266.8,1.0,0.0,0.2,0.4
+232,1780,Referral,REF-Partner,266.8,0.0,0.0,0.2,0.06666666666666667
+232,1780,Referral,REF-Customer,266.8,0.0,0.0,0.2,0.06666666666666667
+232,1780,Referral,REF-Partner,266.8,0.0,0.0,0.2,0.06666666666666667
+232,1780,Paid Social,META-Prospecting,266.8,0.0,1.0,0.2,0.4
+233,1781,Paid Search,PS-NonBrand,494.32,1.0,0.0,0.2,0.4
+233,1781,Paid Social,META-Retargeting,494.32,0.0,0.0,0.2,0.06666666666666667
+233,1781,Paid Social,META-Retargeting,494.32,0.0,0.0,0.2,0.06666666666666667
+233,1781,Paid Social,META-Prospecting,494.32,0.0,0.0,0.2,0.06666666666666667
+233,1781,Organic Search,SEO-Content,494.32,0.0,1.0,0.2,0.4
+234,1788,Paid Search,PS-Brand,401.41,1.0,0.0,0.25,0.4
+234,1788,Display,DISPLAY-Prospecting,401.41,0.0,0.0,0.25,0.1
+234,1788,Display,DISPLAY-Retargeting,401.41,0.0,0.0,0.25,0.1
+234,1788,Display,DISPLAY-Retargeting,401.41,0.0,1.0,0.25,0.4
+235,1789,Display,DISPLAY-Prospecting,368.7,1.0,1.0,1.0,1.0
+236,1792,Paid Search,PS-Brand,609.34,1.0,1.0,1.0,1.0
+237,1794,Paid Social,META-Retargeting,819.45,1.0,1.0,1.0,1.0
+238,1795,Email,EMAIL-Reactivation,485.48,1.0,0.0,0.3333333333333333,0.4
+238,1795,Email,EMAIL-Reactivation,485.48,0.0,0.0,0.3333333333333333,0.2
+238,1795,Email,EMAIL-Nurture,485.48,0.0,1.0,0.3333333333333333,0.4
+239,1797,Email,EMAIL-Nurture,849.26,1.0,0.0,0.5,0.5
+239,1797,Referral,REF-Customer,849.26,0.0,1.0,0.5,0.5
+240,1801,Email,EMAIL-Reactivation,705.87,1.0,0.0,0.3333333333333333,0.4
+240,1801,Paid Search,PS-Brand,705.87,0.0,0.0,0.3333333333333333,0.2
+240,1801,Paid Search,PS-NonBrand,705.87,0.0,1.0,0.3333333333333333,0.4
+241,1805,Paid Social,META-Prospecting,988.92,1.0,1.0,1.0,1.0
+242,1806,Paid Social,META-Retargeting,348.39,1.0,1.0,1.0,1.0
+243,1807,Organic Search,SEO-Content,413.14,1.0,0.0,0.25,0.4
+243,1807,Organic Search,SEO-Content,413.14,0.0,0.0,0.25,0.1
+243,1807,Paid Search,PS-Brand,413.14,0.0,0.0,0.25,0.1
+243,1807,Organic Search,SEO-Product,413.14,0.0,1.0,0.25,0.4
+244,1808,Paid Search,PS-NonBrand,838.4,1.0,0.0,0.5,0.5
+244,1808,Paid Search,PS-NonBrand,838.4,0.0,1.0,0.5,0.5
+245,1809,Paid Search,PS-NonBrand,441.82,1.0,0.0,0.2,0.4
+245,1809,Paid Social,META-Prospecting,441.82,0.0,0.0,0.2,0.06666666666666667
+245,1809,Display,DISPLAY-Prospecting,441.82,0.0,0.0,0.2,0.06666666666666667
+245,1809,Referral,REF-Customer,441.82,0.0,0.0,0.2,0.06666666666666667
+245,1809,Paid Search,PS-NonBrand,441.82,0.0,1.0,0.2,0.4
+246,1812,Paid Search,PS-Brand,209.29,1.0,0.0,0.25,0.4
+246,1812,Paid Search,PS-NonBrand,209.29,0.0,0.0,0.25,0.1
+246,1812,Organic Search,SEO-Product,209.29,0.0,0.0,0.25,0.1
+246,1812,Email,EMAIL-Reactivation,209.29,0.0,1.0,0.25,0.4
+247,1813,Paid Search,PS-NonBrand,211.36,1.0,1.0,1.0,1.0
+248,1822,Referral,REF-Partner,881.01,1.0,0.0,0.25,0.4
+248,1822,Email,EMAIL-Reactivation,881.01,0.0,0.0,0.25,0.1
+248,1822,Referral,REF-Partner,881.01,0.0,0.0,0.25,0.1
+248,1822,Paid Social,META-Retargeting,881.01,0.0,1.0,0.25,0.4
+249,1825,Paid Social,META-Prospecting,219.31,1.0,1.0,1.0,1.0
+250,1840,Organic Search,SEO-Content,1803.58,1.0,0.0,0.3333333333333333,0.4
+250,1840,Paid Search,PS-NonBrand,1803.58,0.0,0.0,0.3333333333333333,0.2
+250,1840,Paid Search,PS-Brand,1803.58,0.0,1.0,0.3333333333333333,0.4
+251,1845,Organic Search,SEO-Product,211.65,1.0,0.0,0.2,0.4
+251,1845,Display,DISPLAY-Retargeting,211.65,0.0,0.0,0.2,0.06666666666666667
+251,1845,Paid Search,PS-Brand,211.65,0.0,0.0,0.2,0.06666666666666667
+251,1845,Paid Search,PS-NonBrand,211.65,0.0,0.0,0.2,0.06666666666666667
+251,1845,Email,EMAIL-Nurture,211.65,0.0,1.0,0.2,0.4
+252,1852,Organic Search,SEO-Content,499.35,1.0,0.0,0.5,0.5
+252,1852,Paid Social,META-Prospecting,499.35,0.0,1.0,0.5,0.5
+253,1855,Referral,REF-Customer,668.4,1.0,0.0,0.25,0.4
+253,1855,Paid Search,PS-NonBrand,668.4,0.0,0.0,0.25,0.1
+253,1855,Paid Social,META-Prospecting,668.4,0.0,0.0,0.25,0.1
+253,1855,Paid Social,META-Prospecting,668.4,0.0,1.0,0.25,0.4
+254,1873,Email,EMAIL-Reactivation,307.48,1.0,1.0,1.0,1.0
+255,1881,Paid Search,PS-Brand,149.16,1.0,0.0,0.2,0.4
+255,1881,Paid Search,PS-Brand,149.16,0.0,0.0,0.2,0.06666666666666667
+255,1881,Email,EMAIL-Reactivation,149.16,0.0,0.0,0.2,0.06666666666666667
+255,1881,Paid Social,META-Prospecting,149.16,0.0,0.0,0.2,0.06666666666666667
+255,1881,Display,DISPLAY-Retargeting,149.16,0.0,1.0,0.2,0.4
+256,1883,Referral,REF-Customer,309.05,1.0,0.0,0.5,0.5
+256,1883,Paid Social,META-Retargeting,309.05,0.0,1.0,0.5,0.5
+257,1890,Organic Search,SEO-Product,611.96,1.0,0.0,0.5,0.5
+257,1890,Referral,REF-Partner,611.96,0.0,1.0,0.5,0.5
+258,1906,Referral,REF-Customer,264.34,1.0,0.0,0.2,0.4
+258,1906,Paid Search,PS-Brand,264.34,0.0,0.0,0.2,0.06666666666666667
+258,1906,Email,EMAIL-Nurture,264.34,0.0,0.0,0.2,0.06666666666666667
+258,1906,Display,DISPLAY-Retargeting,264.34,0.0,0.0,0.2,0.06666666666666667
+258,1906,Organic Search,SEO-Content,264.34,0.0,1.0,0.2,0.4
+259,1926,Referral,REF-Partner,731.27,1.0,0.0,0.25,0.4
+259,1926,Paid Search,PS-NonBrand,731.27,0.0,0.0,0.25,0.1
+259,1926,Referral,REF-Customer,731.27,0.0,0.0,0.25,0.1
+259,1926,Email,EMAIL-Reactivation,731.27,0.0,1.0,0.25,0.4
+260,1940,Paid Search,PS-NonBrand,878.38,1.0,0.0,0.5,0.5
+260,1940,Organic Search,SEO-Content,878.38,0.0,1.0,0.5,0.5
+261,1951,Organic Search,SEO-Product,610.42,1.0,0.0,0.25,0.4
+261,1951,Paid Social,META-Retargeting,610.42,0.0,0.0,0.25,0.1
+261,1951,Paid Search,PS-Brand,610.42,0.0,0.0,0.25,0.1
+261,1951,Paid Search,PS-NonBrand,610.42,0.0,1.0,0.25,0.4
+262,1954,Paid Social,META-Prospecting,817.18,1.0,1.0,1.0,1.0
+263,1956,Organic Search,SEO-Content,871.17,1.0,0.0,0.5,0.5
+263,1956,Paid Search,PS-NonBrand,871.17,0.0,1.0,0.5,0.5
+264,1960,Paid Social,META-Prospecting,305.77,1.0,1.0,1.0,1.0
+265,1970,Paid Social,META-Prospecting,204.13,1.0,0.0,0.25,0.4
+265,1970,Email,EMAIL-Nurture,204.13,0.0,0.0,0.25,0.1
+265,1970,Email,EMAIL-Reactivation,204.13,0.0,0.0,0.25,0.1
+265,1970,Paid Social,META-Retargeting,204.13,0.0,1.0,0.25,0.4
+266,1971,Paid Social,META-Prospecting,227.73,1.0,1.0,1.0,1.0
+267,1973,Paid Search,PS-NonBrand,524.12,1.0,1.0,1.0,1.0
+268,1976,Paid Search,PS-NonBrand,348.43,1.0,1.0,1.0,1.0
+269,1981,Email,EMAIL-Reactivation,218.69,1.0,1.0,1.0,1.0
+270,1991,Email,EMAIL-Reactivation,270.01,1.0,0.0,0.3333333333333333,0.4
+270,1991,Display,DISPLAY-Prospecting,270.01,0.0,0.0,0.3333333333333333,0.2
+270,1991,Paid Search,PS-Brand,270.01,0.0,1.0,0.3333333333333333,0.4
+271,1994,Paid Search,PS-Brand,322.84,1.0,0.0,0.2,0.4
+271,1994,Organic Search,SEO-Content,322.84,0.0,0.0,0.2,0.06666666666666667
+271,1994,Referral,REF-Partner,322.84,0.0,0.0,0.2,0.06666666666666667
+271,1994,Organic Search,SEO-Content,322.84,0.0,0.0,0.2,0.06666666666666667
+271,1994,Organic Search,SEO-Product,322.84,0.0,1.0,0.2,0.4
+272,1995,Paid Search,PS-Brand,682.91,1.0,0.0,0.5,0.5
+272,1995,Paid Search,PS-NonBrand,682.91,0.0,1.0,0.5,0.5
+273,1998,Email,EMAIL-Nurture,127.77,1.0,1.0,1.0,1.0
+274,2000,Paid Search,PS-NonBrand,330.53,1.0,0.0,0.2,0.4
+274,2000,Organic Search,SEO-Product,330.53,0.0,0.0,0.2,0.06666666666666667
+274,2000,Email,EMAIL-Reactivation,330.53,0.0,0.0,0.2,0.06666666666666667
+274,2000,Paid Social,META-Prospecting,330.53,0.0,0.0,0.2,0.06666666666666667
+274,2000,Paid Social,META-Retargeting,330.53,0.0,1.0,0.2,0.4
+275,2015,Referral,REF-Customer,587.8,1.0,1.0,1.0,1.0
+276,2016,Paid Social,META-Prospecting,374.32,1.0,0.0,0.25,0.4
+276,2016,Paid Social,META-Retargeting,374.32,0.0,0.0,0.25,0.1
+276,2016,Paid Social,META-Prospecting,374.32,0.0,0.0,0.25,0.1
+276,2016,Paid Social,META-Prospecting,374.32,0.0,1.0,0.25,0.4
+277,2019,Display,DISPLAY-Retargeting,1055.1,1.0,1.0,1.0,1.0
+278,2025,Paid Search,PS-NonBrand,948.81,1.0,0.0,0.3333333333333333,0.4
+278,2025,Referral,REF-Customer,948.81,0.0,0.0,0.3333333333333333,0.2
+278,2025,Referral,REF-Customer,948.81,0.0,1.0,0.3333333333333333,0.4
+279,2033,Display,DISPLAY-Retargeting,672.59,1.0,0.0,0.2,0.4
+279,2033,Paid Social,META-Retargeting,672.59,0.0,0.0,0.2,0.06666666666666667
+279,2033,Email,EMAIL-Nurture,672.59,0.0,0.0,0.2,0.06666666666666667
+279,2033,Paid Search,PS-Brand,672.59,0.0,0.0,0.2,0.06666666666666667
+279,2033,Paid Social,META-Prospecting,672.59,0.0,1.0,0.2,0.4
+280,2036,Display,DISPLAY-Prospecting,1160.27,1.0,0.0,0.3333333333333333,0.4
+280,2036,Display,DISPLAY-Retargeting,1160.27,0.0,0.0,0.3333333333333333,0.2
+280,2036,Email,EMAIL-Nurture,1160.27,0.0,1.0,0.3333333333333333,0.4
+281,2037,Paid Search,PS-NonBrand,316.91,1.0,0.0,0.3333333333333333,0.4
+281,2037,Paid Social,META-Retargeting,316.91,0.0,0.0,0.3333333333333333,0.2
+281,2037,Paid Social,META-Retargeting,316.91,0.0,1.0,0.3333333333333333,0.4
+282,2038,Paid Search,PS-NonBrand,385.13,1.0,1.0,1.0,1.0
+283,2042,Organic Search,SEO-Product,611.25,1.0,0.0,0.2,0.4
+283,2042,Display,DISPLAY-Prospecting,611.25,0.0,0.0,0.2,0.06666666666666667
+283,2042,Paid Search,PS-Brand,611.25,0.0,0.0,0.2,0.06666666666666667
+283,2042,Email,EMAIL-Reactivation,611.25,0.0,0.0,0.2,0.06666666666666667
+283,2042,Organic Search,SEO-Content,611.25,0.0,1.0,0.2,0.4
+284,2043,Paid Search,PS-Brand,585.12,1.0,0.0,0.2,0.4
+284,2043,Paid Search,PS-NonBrand,585.12,0.0,0.0,0.2,0.06666666666666667
+284,2043,Paid Social,META-Prospecting,585.12,0.0,0.0,0.2,0.06666666666666667
+284,2043,Email,EMAIL-Reactivation,585.12,0.0,0.0,0.2,0.06666666666666667
+284,2043,Paid Social,META-Retargeting,585.12,0.0,1.0,0.2,0.4
+285,2052,Email,EMAIL-Reactivation,191.1,1.0,0.0,0.25,0.4
+285,2052,Paid Social,META-Retargeting,191.1,0.0,0.0,0.25,0.1
+285,2052,Paid Social,META-Retargeting,191.1,0.0,0.0,0.25,0.1
+285,2052,Paid Social,META-Retargeting,191.1,0.0,1.0,0.25,0.4
+286,2062,Paid Social,META-Prospecting,480.97,1.0,0.0,0.5,0.5
+286,2062,Email,EMAIL-Nurture,480.97,0.0,1.0,0.5,0.5
+287,2064,Email,EMAIL-Reactivation,579.74,1.0,0.0,0.2,0.4
+287,2064,Referral,REF-Customer,579.74,0.0,0.0,0.2,0.06666666666666667
+287,2064,Paid Social,META-Prospecting,579.74,0.0,0.0,0.2,0.06666666666666667
+287,2064,Paid Social,META-Retargeting,579.74,0.0,0.0,0.2,0.06666666666666667
+287,2064,Paid Social,META-Prospecting,579.74,0.0,1.0,0.2,0.4
+288,2066,Organic Search,SEO-Product,430.54,1.0,0.0,0.5,0.5
+288,2066,Email,EMAIL-Nurture,430.54,0.0,1.0,0.5,0.5
+289,2069,Paid Search,PS-Brand,547.41,1.0,0.0,0.3333333333333333,0.4
+289,2069,Paid Search,PS-NonBrand,547.41,0.0,0.0,0.3333333333333333,0.2
+289,2069,Display,DISPLAY-Retargeting,547.41,0.0,1.0,0.3333333333333333,0.4
+290,2071,Referral,REF-Partner,1027.71,1.0,0.0,0.3333333333333333,0.4
+290,2071,Paid Social,META-Prospecting,1027.71,0.0,0.0,0.3333333333333333,0.2
+290,2071,Paid Search,PS-NonBrand,1027.71,0.0,1.0,0.3333333333333333,0.4
+291,2074,Paid Social,META-Prospecting,309.42,1.0,0.0,0.25,0.4
+291,2074,Email,EMAIL-Nurture,309.42,0.0,0.0,0.25,0.1
+291,2074,Organic Search,SEO-Content,309.42,0.0,0.0,0.25,0.1
+291,2074,Referral,REF-Customer,309.42,0.0,1.0,0.25,0.4
+292,2075,Paid Search,PS-NonBrand,353.78,1.0,0.0,0.5,0.5
+292,2075,Paid Search,PS-Brand,353.78,0.0,1.0,0.5,0.5
+293,2078,Paid Search,PS-Brand,333.72,1.0,0.0,0.3333333333333333,0.4
+293,2078,Paid Social,META-Prospecting,333.72,0.0,0.0,0.3333333333333333,0.2
+293,2078,Paid Social,META-Retargeting,333.72,0.0,1.0,0.3333333333333333,0.4
+294,2085,Referral,REF-Customer,615.14,1.0,0.0,0.2,0.4
+294,2085,Paid Social,META-Prospecting,615.14,0.0,0.0,0.2,0.06666666666666667
+294,2085,Organic Search,SEO-Product,615.14,0.0,0.0,0.2,0.06666666666666667
+294,2085,Paid Search,PS-Brand,615.14,0.0,0.0,0.2,0.06666666666666667
+294,2085,Display,DISPLAY-Retargeting,615.14,0.0,1.0,0.2,0.4
+295,2099,Organic Search,SEO-Product,251.34,1.0,0.0,0.3333333333333333,0.4
+295,2099,Paid Social,META-Retargeting,251.34,0.0,0.0,0.3333333333333333,0.2
+295,2099,Paid Search,PS-Brand,251.34,0.0,1.0,0.3333333333333333,0.4
+296,2105,Paid Social,META-Retargeting,445.99,1.0,0.0,0.3333333333333333,0.4
+296,2105,Paid Search,PS-NonBrand,445.99,0.0,0.0,0.3333333333333333,0.2
+296,2105,Organic Search,SEO-Content,445.99,0.0,1.0,0.3333333333333333,0.4
+297,2110,Display,DISPLAY-Prospecting,321.75,1.0,0.0,0.2,0.4
+297,2110,Paid Social,META-Retargeting,321.75,0.0,0.0,0.2,0.06666666666666667
+297,2110,Email,EMAIL-Reactivation,321.75,0.0,0.0,0.2,0.06666666666666667
+297,2110,Paid Social,META-Retargeting,321.75,0.0,0.0,0.2,0.06666666666666667
+297,2110,Referral,REF-Customer,321.75,0.0,1.0,0.2,0.4
+298,2111,Paid Search,PS-NonBrand,457.94,1.0,0.0,0.5,0.5
+298,2111,Referral,REF-Customer,457.94,0.0,1.0,0.5,0.5
+299,2112,Display,DISPLAY-Prospecting,476.87,1.0,0.0,0.2,0.4
+299,2112,Paid Search,PS-NonBrand,476.87,0.0,0.0,0.2,0.06666666666666667
+299,2112,Referral,REF-Customer,476.87,0.0,0.0,0.2,0.06666666666666667
+299,2112,Paid Social,META-Retargeting,476.87,0.0,0.0,0.2,0.06666666666666667
+299,2112,Paid Social,META-Retargeting,476.87,0.0,1.0,0.2,0.4
+300,2115,Email,EMAIL-Reactivation,588.4,1.0,0.0,0.25,0.4
+300,2115,Paid Social,META-Retargeting,588.4,0.0,0.0,0.25,0.1
+300,2115,Paid Search,PS-Brand,588.4,0.0,0.0,0.25,0.1
+300,2115,Referral,REF-Partner,588.4,0.0,1.0,0.25,0.4
+301,2120,Email,EMAIL-Reactivation,717.13,1.0,0.0,0.25,0.4
+301,2120,Paid Search,PS-NonBrand,717.13,0.0,0.0,0.25,0.1
+301,2120,Paid Search,PS-NonBrand,717.13,0.0,0.0,0.25,0.1
+301,2120,Email,EMAIL-Nurture,717.13,0.0,1.0,0.25,0.4
+302,2136,Display,DISPLAY-Prospecting,597.57,1.0,1.0,1.0,1.0
+303,2174,Email,EMAIL-Reactivation,279.92,1.0,0.0,0.25,0.4
+303,2174,Display,DISPLAY-Retargeting,279.92,0.0,0.0,0.25,0.1
+303,2174,Paid Social,META-Retargeting,279.92,0.0,0.0,0.25,0.1
+303,2174,Paid Search,PS-Brand,279.92,0.0,1.0,0.25,0.4
+304,2175,Display,DISPLAY-Prospecting,492.18,1.0,0.0,0.5,0.5
+304,2175,Referral,REF-Customer,492.18,0.0,1.0,0.5,0.5
+305,2177,Email,EMAIL-Reactivation,316.56,1.0,0.0,0.5,0.5
+305,2177,Referral,REF-Customer,316.56,0.0,1.0,0.5,0.5
+306,2179,Referral,REF-Partner,484.61,1.0,0.0,0.25,0.4
+306,2179,Email,EMAIL-Reactivation,484.61,0.0,0.0,0.25,0.1
+306,2179,Paid Search,PS-NonBrand,484.61,0.0,0.0,0.25,0.1
+306,2179,Paid Social,META-Retargeting,484.61,0.0,1.0,0.25,0.4
+307,2181,Organic Search,SEO-Product,552.66,1.0,0.0,0.25,0.4
+307,2181,Organic Search,SEO-Product,552.66,0.0,0.0,0.25,0.1
+307,2181,Paid Search,PS-NonBrand,552.66,0.0,0.0,0.25,0.1
+307,2181,Paid Search,PS-NonBrand,552.66,0.0,1.0,0.25,0.4
+308,2187,Referral,REF-Customer,567.18,1.0,0.0,0.5,0.5
+308,2187,Paid Search,PS-NonBrand,567.18,0.0,1.0,0.5,0.5
+309,2226,Referral,REF-Customer,201.66,1.0,0.0,0.2,0.4
+309,2226,Email,EMAIL-Reactivation,201.66,0.0,0.0,0.2,0.06666666666666667
+309,2226,Paid Social,META-Retargeting,201.66,0.0,0.0,0.2,0.06666666666666667
+309,2226,Paid Search,PS-NonBrand,201.66,0.0,0.0,0.2,0.06666666666666667
+309,2226,Organic Search,SEO-Content,201.66,0.0,1.0,0.2,0.4
+310,2231,Email,EMAIL-Reactivation,355.61,1.0,1.0,1.0,1.0
+311,2239,Organic Search,SEO-Content,1543.08,1.0,0.0,0.5,0.5
+311,2239,Paid Search,PS-Brand,1543.08,0.0,1.0,0.5,0.5
+312,2249,Paid Search,PS-Brand,410.71,1.0,0.0,0.2,0.4
+312,2249,Email,EMAIL-Nurture,410.71,0.0,0.0,0.2,0.06666666666666667
+312,2249,Paid Social,META-Retargeting,410.71,0.0,0.0,0.2,0.06666666666666667
+312,2249,Email,EMAIL-Reactivation,410.71,0.0,0.0,0.2,0.06666666666666667
+312,2249,Referral,REF-Customer,410.71,0.0,1.0,0.2,0.4
+313,2251,Email,EMAIL-Nurture,388.88,1.0,1.0,1.0,1.0
+314,2260,Organic Search,SEO-Product,427.94,1.0,1.0,1.0,1.0
+315,2264,Display,DISPLAY-Retargeting,352.84,1.0,0.0,0.3333333333333333,0.4
+315,2264,Paid Social,META-Retargeting,352.84,0.0,0.0,0.3333333333333333,0.2
+315,2264,Organic Search,SEO-Content,352.84,0.0,1.0,0.3333333333333333,0.4
+316,2268,Paid Social,META-Retargeting,481.23,1.0,0.0,0.3333333333333333,0.4
+316,2268,Email,EMAIL-Reactivation,481.23,0.0,0.0,0.3333333333333333,0.2
+316,2268,Organic Search,SEO-Product,481.23,0.0,1.0,0.3333333333333333,0.4
+317,2276,Paid Social,META-Prospecting,776.81,1.0,1.0,1.0,1.0
+318,2285,Referral,REF-Customer,396.07,1.0,1.0,1.0,1.0
+319,2288,Organic Search,SEO-Content,1296.43,1.0,0.0,0.25,0.4
+319,2288,Paid Search,PS-NonBrand,1296.43,0.0,0.0,0.25,0.1
+319,2288,Organic Search,SEO-Product,1296.43,0.0,0.0,0.25,0.1
+319,2288,Organic Search,SEO-Product,1296.43,0.0,1.0,0.25,0.4
+320,2290,Organic Search,SEO-Product,400.69,1.0,0.0,0.2,0.4
+320,2290,Paid Social,META-Retargeting,400.69,0.0,0.0,0.2,0.06666666666666667
+320,2290,Paid Search,PS-Brand,400.69,0.0,0.0,0.2,0.06666666666666667
+320,2290,Paid Search,PS-NonBrand,400.69,0.0,0.0,0.2,0.06666666666666667
+320,2290,Paid Social,META-Prospecting,400.69,0.0,1.0,0.2,0.4
+321,2295,Paid Social,META-Retargeting,167.03,1.0,1.0,1.0,1.0
+322,2307,Paid Social,META-Retargeting,1059.14,1.0,0.0,0.3333333333333333,0.4
+322,2307,Paid Search,PS-NonBrand,1059.14,0.0,0.0,0.3333333333333333,0.2
+322,2307,Email,EMAIL-Nurture,1059.14,0.0,1.0,0.3333333333333333,0.4
+323,2308,Organic Search,SEO-Content,161.0,1.0,0.0,0.3333333333333333,0.4
+323,2308,Paid Social,META-Prospecting,161.0,0.0,0.0,0.3333333333333333,0.2
+323,2308,Paid Search,PS-Brand,161.0,0.0,1.0,0.3333333333333333,0.4
+324,2329,Paid Social,META-Retargeting,375.63,1.0,0.0,0.5,0.5
+324,2329,Organic Search,SEO-Product,375.63,0.0,1.0,0.5,0.5
+325,2338,Paid Social,META-Prospecting,557.54,1.0,0.0,0.3333333333333333,0.4
+325,2338,Display,DISPLAY-Retargeting,557.54,0.0,0.0,0.3333333333333333,0.2
+325,2338,Organic Search,SEO-Content,557.54,0.0,1.0,0.3333333333333333,0.4
+326,2339,Email,EMAIL-Reactivation,311.73,1.0,0.0,0.2,0.4
+326,2339,Paid Social,META-Retargeting,311.73,0.0,0.0,0.2,0.06666666666666667
+326,2339,Paid Social,META-Retargeting,311.73,0.0,0.0,0.2,0.06666666666666667
+326,2339,Organic Search,SEO-Content,311.73,0.0,0.0,0.2,0.06666666666666667
+326,2339,Paid Search,PS-Brand,311.73,0.0,1.0,0.2,0.4
+327,2347,Paid Search,PS-Brand,933.43,1.0,0.0,0.25,0.4
+327,2347,Paid Social,META-Retargeting,933.43,0.0,0.0,0.25,0.1
+327,2347,Paid Search,PS-NonBrand,933.43,0.0,0.0,0.25,0.1
+327,2347,Paid Search,PS-NonBrand,933.43,0.0,1.0,0.25,0.4
+328,2349,Organic Search,SEO-Content,593.22,1.0,0.0,0.5,0.5
+328,2349,Email,EMAIL-Nurture,593.22,0.0,1.0,0.5,0.5
+329,2357,Paid Social,META-Retargeting,453.4,1.0,0.0,0.3333333333333333,0.4
+329,2357,Display,DISPLAY-Retargeting,453.4,0.0,0.0,0.3333333333333333,0.2
+329,2357,Referral,REF-Customer,453.4,0.0,1.0,0.3333333333333333,0.4
+330,2380,Display,DISPLAY-Prospecting,389.03,1.0,0.0,0.2,0.4
+330,2380,Display,DISPLAY-Retargeting,389.03,0.0,0.0,0.2,0.06666666666666667
+330,2380,Paid Search,PS-Brand,389.03,0.0,0.0,0.2,0.06666666666666667
+330,2380,Email,EMAIL-Reactivation,389.03,0.0,0.0,0.2,0.06666666666666667
+330,2380,Organic Search,SEO-Content,389.03,0.0,1.0,0.2,0.4
+331,2382,Paid Search,PS-Brand,629.92,1.0,0.0,0.25,0.4
+331,2382,Paid Social,META-Retargeting,629.92,0.0,0.0,0.25,0.1
+331,2382,Referral,REF-Customer,629.92,0.0,0.0,0.25,0.1
+331,2382,Referral,REF-Partner,629.92,0.0,1.0,0.25,0.4
+332,2391,Paid Search,PS-NonBrand,848.65,1.0,1.0,1.0,1.0
+333,2411,Paid Search,PS-NonBrand,398.43,1.0,1.0,1.0,1.0
+334,2422,Paid Social,META-Prospecting,395.2,1.0,0.0,0.5,0.5
+334,2422,Email,EMAIL-Nurture,395.2,0.0,1.0,0.5,0.5
+335,2431,Email,EMAIL-Nurture,694.95,1.0,0.0,0.3333333333333333,0.4
+335,2431,Email,EMAIL-Nurture,694.95,0.0,0.0,0.3333333333333333,0.2
+335,2431,Organic Search,SEO-Content,694.95,0.0,1.0,0.3333333333333333,0.4
+336,2434,Email,EMAIL-Reactivation,188.13,1.0,0.0,0.2,0.4
+336,2434,Organic Search,SEO-Content,188.13,0.0,0.0,0.2,0.06666666666666667
+336,2434,Email,EMAIL-Reactivation,188.13,0.0,0.0,0.2,0.06666666666666667
+336,2434,Paid Search,PS-Brand,188.13,0.0,0.0,0.2,0.06666666666666667
+336,2434,Organic Search,SEO-Content,188.13,0.0,1.0,0.2,0.4
+337,2468,Paid Search,PS-Brand,612.71,1.0,0.0,0.3333333333333333,0.4
+337,2468,Paid Search,PS-Brand,612.71,0.0,0.0,0.3333333333333333,0.2
+337,2468,Paid Social,META-Retargeting,612.71,0.0,1.0,0.3333333333333333,0.4
+338,2483,Paid Search,PS-Brand,415.24,1.0,0.0,0.3333333333333333,0.4
+338,2483,Referral,REF-Customer,415.24,0.0,0.0,0.3333333333333333,0.2
+338,2483,Organic Search,SEO-Content,415.24,0.0,1.0,0.3333333333333333,0.4
+339,2507,Paid Social,META-Retargeting,1010.48,1.0,1.0,1.0,1.0
+340,2515,Paid Search,PS-NonBrand,696.06,1.0,1.0,1.0,1.0
+341,2522,Paid Search,PS-NonBrand,341.81,1.0,0.0,0.5,0.5
+341,2522,Paid Search,PS-NonBrand,341.81,0.0,1.0,0.5,0.5
+342,2524,Paid Search,PS-Brand,2335.85,1.0,1.0,1.0,1.0
+343,2525,Email,EMAIL-Reactivation,461.94,1.0,1.0,1.0,1.0
+344,2532,Email,EMAIL-Nurture,536.98,1.0,0.0,0.2,0.4
+344,2532,Paid Search,PS-NonBrand,536.98,0.0,0.0,0.2,0.06666666666666667
+344,2532,Email,EMAIL-Reactivation,536.98,0.0,0.0,0.2,0.06666666666666667
+344,2532,Paid Search,PS-Brand,536.98,0.0,0.0,0.2,0.06666666666666667
+344,2532,Paid Search,PS-Brand,536.98,0.0,1.0,0.2,0.4
+345,2538,Email,EMAIL-Reactivation,758.04,1.0,0.0,0.2,0.4
+345,2538,Paid Search,PS-NonBrand,758.04,0.0,0.0,0.2,0.06666666666666667
+345,2538,Referral,REF-Customer,758.04,0.0,0.0,0.2,0.06666666666666667
+345,2538,Email,EMAIL-Reactivation,758.04,0.0,0.0,0.2,0.06666666666666667
+345,2538,Referral,REF-Partner,758.04,0.0,1.0,0.2,0.4
+346,2548,Email,EMAIL-Reactivation,644.98,1.0,1.0,1.0,1.0
+347,2558,Paid Social,META-Prospecting,143.67,1.0,0.0,0.3333333333333333,0.4
+347,2558,Display,DISPLAY-Prospecting,143.67,0.0,0.0,0.3333333333333333,0.2
+347,2558,Organic Search,SEO-Content,143.67,0.0,1.0,0.3333333333333333,0.4
+348,2559,Display,DISPLAY-Prospecting,1316.66,1.0,1.0,1.0,1.0
+349,2566,Email,EMAIL-Reactivation,391.94,1.0,0.0,0.5,0.5
+349,2566,Paid Search,PS-NonBrand,391.94,0.0,1.0,0.5,0.5
+350,2576,Organic Search,SEO-Content,322.03,1.0,1.0,1.0,1.0
+351,2589,Email,EMAIL-Nurture,294.69,1.0,1.0,1.0,1.0
+352,2592,Email,EMAIL-Nurture,382.77,1.0,0.0,0.5,0.5
+352,2592,Paid Search,PS-NonBrand,382.77,0.0,1.0,0.5,0.5
+353,2605,Display,DISPLAY-Prospecting,667.73,1.0,0.0,0.3333333333333333,0.4
+353,2605,Organic Search,SEO-Content,667.73,0.0,0.0,0.3333333333333333,0.2
+353,2605,Referral,REF-Customer,667.73,0.0,1.0,0.3333333333333333,0.4
+354,2607,Referral,REF-Customer,385.91,1.0,1.0,1.0,1.0
+355,2608,Organic Search,SEO-Product,260.98,1.0,0.0,0.3333333333333333,0.4
+355,2608,Paid Social,META-Retargeting,260.98,0.0,0.0,0.3333333333333333,0.2
+355,2608,Referral,REF-Customer,260.98,0.0,1.0,0.3333333333333333,0.4
+356,2634,Referral,REF-Customer,547.9,1.0,0.0,0.3333333333333333,0.4
+356,2634,Paid Search,PS-NonBrand,547.9,0.0,0.0,0.3333333333333333,0.2
+356,2634,Organic Search,SEO-Product,547.9,0.0,1.0,0.3333333333333333,0.4
+357,2636,Organic Search,SEO-Product,203.05,1.0,0.0,0.5,0.5
+357,2636,Referral,REF-Customer,203.05,0.0,1.0,0.5,0.5
+358,2654,Email,EMAIL-Nurture,309.69,1.0,1.0,1.0,1.0
+359,2656,Paid Search,PS-NonBrand,338.38,1.0,1.0,1.0,1.0
+360,2676,Email,EMAIL-Reactivation,667.45,1.0,0.0,0.2,0.4
+360,2676,Paid Search,PS-Brand,667.45,0.0,0.0,0.2,0.06666666666666667
+360,2676,Display,DISPLAY-Retargeting,667.45,0.0,0.0,0.2,0.06666666666666667
+360,2676,Organic Search,SEO-Product,667.45,0.0,0.0,0.2,0.06666666666666667
+360,2676,Organic Search,SEO-Content,667.45,0.0,1.0,0.2,0.4
+361,2681,Referral,REF-Partner,300.95,1.0,1.0,1.0,1.0
+362,2694,Organic Search,SEO-Content,279.58,1.0,1.0,1.0,1.0
+363,2710,Paid Search,PS-NonBrand,624.21,1.0,0.0,0.5,0.5
+363,2710,Paid Search,PS-Brand,624.21,0.0,1.0,0.5,0.5
+364,2723,Paid Social,META-Prospecting,210.88,1.0,1.0,1.0,1.0
+365,2732,Display,DISPLAY-Retargeting,425.33,1.0,1.0,1.0,1.0
+366,2748,Paid Search,PS-NonBrand,511.31,1.0,0.0,0.25,0.4
+366,2748,Organic Search,SEO-Content,511.31,0.0,0.0,0.25,0.1
+366,2748,Paid Social,META-Retargeting,511.31,0.0,0.0,0.25,0.1
+366,2748,Paid Social,META-Retargeting,511.31,0.0,1.0,0.25,0.4
+367,2749,Display,DISPLAY-Retargeting,902.6,1.0,0.0,0.2,0.4
+367,2749,Display,DISPLAY-Retargeting,902.6,0.0,0.0,0.2,0.06666666666666667
+367,2749,Paid Social,META-Retargeting,902.6,0.0,0.0,0.2,0.06666666666666667
+367,2749,Referral,REF-Partner,902.6,0.0,0.0,0.2,0.06666666666666667
+367,2749,Organic Search,SEO-Content,902.6,0.0,1.0,0.2,0.4
+368,2758,Paid Search,PS-Brand,257.1,1.0,0.0,0.5,0.5
+368,2758,Paid Search,PS-Brand,257.1,0.0,1.0,0.5,0.5
+369,2760,Organic Search,SEO-Product,264.55,1.0,0.0,0.25,0.4
+369,2760,Organic Search,SEO-Content,264.55,0.0,0.0,0.25,0.1
+369,2760,Email,EMAIL-Reactivation,264.55,0.0,0.0,0.25,0.1
+369,2760,Organic Search,SEO-Product,264.55,0.0,1.0,0.25,0.4
+370,2762,Organic Search,SEO-Content,209.72,1.0,1.0,1.0,1.0
+371,2765,Paid Social,META-Prospecting,344.72,1.0,0.0,0.5,0.5
+371,2765,Paid Search,PS-Brand,344.72,0.0,1.0,0.5,0.5
+372,2769,Organic Search,SEO-Content,609.75,1.0,0.0,0.25,0.4
+372,2769,Paid Social,META-Prospecting,609.75,0.0,0.0,0.25,0.1
+372,2769,Display,DISPLAY-Retargeting,609.75,0.0,0.0,0.25,0.1
+372,2769,Paid Search,PS-Brand,609.75,0.0,1.0,0.25,0.4
+373,2771,Organic Search,SEO-Product,814.3,1.0,0.0,0.25,0.4
+373,2771,Paid Search,PS-NonBrand,814.3,0.0,0.0,0.25,0.1
+373,2771,Organic Search,SEO-Content,814.3,0.0,0.0,0.25,0.1
+373,2771,Referral,REF-Partner,814.3,0.0,1.0,0.25,0.4
+374,2788,Paid Social,META-Retargeting,225.58,1.0,1.0,1.0,1.0
+375,2790,Paid Social,META-Prospecting,446.74,1.0,1.0,1.0,1.0
+376,2791,Email,EMAIL-Reactivation,415.13,1.0,1.0,1.0,1.0
+377,2794,Referral,REF-Partner,638.09,1.0,1.0,1.0,1.0
+378,2795,Paid Search,PS-NonBrand,578.45,1.0,0.0,0.5,0.5
+378,2795,Paid Search,PS-Brand,578.45,0.0,1.0,0.5,0.5
+379,2797,Paid Search,PS-Brand,143.15,1.0,0.0,0.2,0.4
+379,2797,Paid Social,META-Retargeting,143.15,0.0,0.0,0.2,0.06666666666666667
+379,2797,Paid Social,META-Retargeting,143.15,0.0,0.0,0.2,0.06666666666666667
+379,2797,Referral,REF-Partner,143.15,0.0,0.0,0.2,0.06666666666666667
+379,2797,Referral,REF-Customer,143.15,0.0,1.0,0.2,0.4
+380,2805,Paid Search,PS-NonBrand,532.28,1.0,1.0,1.0,1.0
+381,2814,Email,EMAIL-Nurture,740.34,1.0,0.0,0.5,0.5
+381,2814,Paid Search,PS-Brand,740.34,0.0,1.0,0.5,0.5
+382,2821,Organic Search,SEO-Product,534.87,1.0,0.0,0.25,0.4
+382,2821,Paid Social,META-Retargeting,534.87,0.0,0.0,0.25,0.1
+382,2821,Display,DISPLAY-Retargeting,534.87,0.0,0.0,0.25,0.1
+382,2821,Paid Search,PS-NonBrand,534.87,0.0,1.0,0.25,0.4
+383,2835,Organic Search,SEO-Content,695.31,1.0,0.0,0.3333333333333333,0.4
+383,2835,Organic Search,SEO-Product,695.31,0.0,0.0,0.3333333333333333,0.2
+383,2835,Paid Search,PS-Brand,695.31,0.0,1.0,0.3333333333333333,0.4
+384,2841,Paid Search,PS-NonBrand,246.6,1.0,0.0,0.2,0.4
+384,2841,Organic Search,SEO-Content,246.6,0.0,0.0,0.2,0.06666666666666667
+384,2841,Paid Search,PS-NonBrand,246.6,0.0,0.0,0.2,0.06666666666666667
+384,2841,Organic Search,SEO-Product,246.6,0.0,0.0,0.2,0.06666666666666667
+384,2841,Paid Social,META-Retargeting,246.6,0.0,1.0,0.2,0.4
+385,2845,Paid Social,META-Prospecting,642.68,1.0,0.0,0.25,0.4
+385,2845,Paid Social,META-Retargeting,642.68,0.0,0.0,0.25,0.1
+385,2845,Paid Search,PS-NonBrand,642.68,0.0,0.0,0.25,0.1
+385,2845,Organic Search,SEO-Product,642.68,0.0,1.0,0.25,0.4
+386,2849,Paid Search,PS-NonBrand,169.04,1.0,1.0,1.0,1.0
+387,2852,Referral,REF-Partner,201.52,1.0,1.0,1.0,1.0
+388,2856,Paid Search,PS-Brand,486.53,1.0,1.0,1.0,1.0
+389,2861,Organic Search,SEO-Product,1009.89,1.0,0.0,0.25,0.4
+389,2861,Email,EMAIL-Reactivation,1009.89,0.0,0.0,0.25,0.1
+389,2861,Paid Search,PS-NonBrand,1009.89,0.0,0.0,0.25,0.1
+389,2861,Paid Search,PS-Brand,1009.89,0.0,1.0,0.25,0.4
+390,2862,Paid Social,META-Retargeting,419.43,1.0,0.0,0.3333333333333333,0.4
+390,2862,Email,EMAIL-Reactivation,419.43,0.0,0.0,0.3333333333333333,0.2
+390,2862,Paid Social,META-Prospecting,419.43,0.0,1.0,0.3333333333333333,0.4
+391,2879,Paid Search,PS-Brand,368.03,1.0,0.0,0.2,0.4
+391,2879,Display,DISPLAY-Prospecting,368.03,0.0,0.0,0.2,0.06666666666666667
+391,2879,Paid Search,PS-NonBrand,368.03,0.0,0.0,0.2,0.06666666666666667
+391,2879,Paid Search,PS-NonBrand,368.03,0.0,0.0,0.2,0.06666666666666667
+391,2879,Organic Search,SEO-Content,368.03,0.0,1.0,0.2,0.4
+392,2880,Email,EMAIL-Nurture,654.06,1.0,0.0,0.25,0.4
+392,2880,Display,DISPLAY-Retargeting,654.06,0.0,0.0,0.25,0.1
+392,2880,Paid Search,PS-Brand,654.06,0.0,0.0,0.25,0.1
+392,2880,Organic Search,SEO-Product,654.06,0.0,1.0,0.25,0.4
+393,2889,Organic Search,SEO-Content,861.53,1.0,0.0,0.5,0.5
+393,2889,Paid Search,PS-Brand,861.53,0.0,1.0,0.5,0.5
+394,2892,Paid Social,META-Retargeting,246.35,1.0,0.0,0.25,0.4
+394,2892,Paid Search,PS-NonBrand,246.35,0.0,0.0,0.25,0.1
+394,2892,Referral,REF-Customer,246.35,0.0,0.0,0.25,0.1
+394,2892,Paid Social,META-Prospecting,246.35,0.0,1.0,0.25,0.4
+395,2905,Referral,REF-Partner,213.93,1.0,0.0,0.5,0.5
+395,2905,Referral,REF-Partner,213.93,0.0,1.0,0.5,0.5
+396,2929,Paid Social,META-Prospecting,401.73,1.0,1.0,1.0,1.0
+397,2936,Paid Search,PS-NonBrand,323.64,1.0,0.0,0.2,0.4
+397,2936,Paid Social,META-Retargeting,323.64,0.0,0.0,0.2,0.06666666666666667
+397,2936,Paid Social,META-Retargeting,323.64,0.0,0.0,0.2,0.06666666666666667
+397,2936,Email,EMAIL-Nurture,323.64,0.0,0.0,0.2,0.06666666666666667
+397,2936,Display,DISPLAY-Retargeting,323.64,0.0,1.0,0.2,0.4
+398,2937,Paid Search,PS-Brand,198.24,1.0,1.0,1.0,1.0
+399,2942,Paid Search,PS-NonBrand,431.85,1.0,1.0,1.0,1.0
+400,2943,Referral,REF-Customer,715.66,1.0,0.0,0.5,0.5
+400,2943,Paid Search,PS-NonBrand,715.66,0.0,1.0,0.5,0.5
+401,2956,Organic Search,SEO-Product,624.58,1.0,0.0,0.25,0.4
+401,2956,Paid Social,META-Prospecting,624.58,0.0,0.0,0.25,0.1
+401,2956,Paid Search,PS-Brand,624.58,0.0,0.0,0.25,0.1
+401,2956,Organic Search,SEO-Product,624.58,0.0,1.0,0.25,0.4
+402,2960,Organic Search,SEO-Content,472.54,1.0,0.0,0.3333333333333333,0.4
+402,2960,Paid Search,PS-NonBrand,472.54,0.0,0.0,0.3333333333333333,0.2
+402,2960,Paid Social,META-Retargeting,472.54,0.0,1.0,0.3333333333333333,0.4
+403,2961,Organic Search,SEO-Content,342.72,1.0,0.0,0.25,0.4
+403,2961,Paid Search,PS-NonBrand,342.72,0.0,0.0,0.25,0.1
+403,2961,Paid Search,PS-NonBrand,342.72,0.0,0.0,0.25,0.1
+403,2961,Paid Search,PS-Brand,342.72,0.0,1.0,0.25,0.4
+404,2975,Email,EMAIL-Reactivation,320.22,1.0,1.0,1.0,1.0
+405,2982,Paid Search,PS-Brand,575.13,1.0,0.0,0.3333333333333333,0.4
+405,2982,Paid Search,PS-NonBrand,575.13,0.0,0.0,0.3333333333333333,0.2
+405,2982,Referral,REF-Customer,575.13,0.0,1.0,0.3333333333333333,0.4
+406,2986,Paid Social,META-Prospecting,994.15,1.0,0.0,0.2,0.4
+406,2986,Email,EMAIL-Nurture,994.15,0.0,0.0,0.2,0.06666666666666667
+406,2986,Email,EMAIL-Nurture,994.15,0.0,0.0,0.2,0.06666666666666667
+406,2986,Paid Social,META-Retargeting,994.15,0.0,0.0,0.2,0.06666666666666667
+406,2986,Paid Search,PS-Brand,994.15,0.0,1.0,0.2,0.4
+407,2988,Paid Social,META-Prospecting,396.32,1.0,0.0,0.25,0.4
+407,2988,Paid Search,PS-Brand,396.32,0.0,0.0,0.25,0.1
+407,2988,Referral,REF-Customer,396.32,0.0,0.0,0.25,0.1
+407,2988,Paid Search,PS-NonBrand,396.32,0.0,1.0,0.25,0.4
+408,2993,Paid Social,META-Retargeting,150.18,1.0,0.0,0.2,0.4
+408,2993,Paid Social,META-Retargeting,150.18,0.0,0.0,0.2,0.06666666666666667
+408,2993,Organic Search,SEO-Product,150.18,0.0,0.0,0.2,0.06666666666666667
+408,2993,Referral,REF-Customer,150.18,0.0,0.0,0.2,0.06666666666666667
+408,2993,Referral,REF-Partner,150.18,0.0,1.0,0.2,0.4
+409,2996,Paid Search,PS-Brand,224.25,1.0,0.0,0.25,0.4
+409,2996,Email,EMAIL-Reactivation,224.25,0.0,0.0,0.25,0.1
+409,2996,Email,EMAIL-Reactivation,224.25,0.0,0.0,0.25,0.1
+409,2996,Paid Social,META-Retargeting,224.25,0.0,1.0,0.25,0.4
+410,3005,Paid Search,PS-Brand,891.62,1.0,0.0,0.25,0.4
+410,3005,Referral,REF-Partner,891.62,0.0,0.0,0.25,0.1
+410,3005,Display,DISPLAY-Retargeting,891.62,0.0,0.0,0.25,0.1
+410,3005,Paid Social,META-Prospecting,891.62,0.0,1.0,0.25,0.4
+411,3010,Paid Social,META-Retargeting,224.07,1.0,0.0,0.5,0.5
+411,3010,Organic Search,SEO-Product,224.07,0.0,1.0,0.5,0.5
+412,3012,Display,DISPLAY-Retargeting,607.38,1.0,0.0,0.25,0.4
+412,3012,Organic Search,SEO-Content,607.38,0.0,0.0,0.25,0.1
+412,3012,Referral,REF-Partner,607.38,0.0,0.0,0.25,0.1
+412,3012,Paid Social,META-Prospecting,607.38,0.0,1.0,0.25,0.4
+413,3014,Email,EMAIL-Nurture,279.85,1.0,0.0,0.3333333333333333,0.4
+413,3014,Paid Social,META-Retargeting,279.85,0.0,0.0,0.3333333333333333,0.2
+413,3014,Paid Search,PS-Brand,279.85,0.0,1.0,0.3333333333333333,0.4
+414,3039,Paid Social,META-Prospecting,996.44,1.0,0.0,0.3333333333333333,0.4
+414,3039,Referral,REF-Partner,996.44,0.0,0.0,0.3333333333333333,0.2
+414,3039,Referral,REF-Customer,996.44,0.0,1.0,0.3333333333333333,0.4
+415,3043,Referral,REF-Customer,536.46,1.0,0.0,0.5,0.5
+415,3043,Paid Social,META-Retargeting,536.46,0.0,1.0,0.5,0.5
+416,3045,Organic Search,SEO-Product,434.47,1.0,0.0,0.3333333333333333,0.4
+416,3045,Paid Search,PS-Brand,434.47,0.0,0.0,0.3333333333333333,0.2
+416,3045,Paid Social,META-Retargeting,434.47,0.0,1.0,0.3333333333333333,0.4
+417,3046,Email,EMAIL-Nurture,509.14,1.0,0.0,0.3333333333333333,0.4
+417,3046,Paid Search,PS-Brand,509.14,0.0,0.0,0.3333333333333333,0.2
+417,3046,Paid Search,PS-Brand,509.14,0.0,1.0,0.3333333333333333,0.4
+418,3049,Email,EMAIL-Reactivation,1026.65,1.0,0.0,0.25,0.4
+418,3049,Email,EMAIL-Nurture,1026.65,0.0,0.0,0.25,0.1
+418,3049,Paid Social,META-Retargeting,1026.65,0.0,0.0,0.25,0.1
+418,3049,Display,DISPLAY-Prospecting,1026.65,0.0,1.0,0.25,0.4
+419,3058,Paid Social,META-Prospecting,324.43,1.0,0.0,0.25,0.4
+419,3058,Paid Social,META-Prospecting,324.43,0.0,0.0,0.25,0.1
+419,3058,Paid Social,META-Retargeting,324.43,0.0,0.0,0.25,0.1
+419,3058,Paid Search,PS-Brand,324.43,0.0,1.0,0.25,0.4
+420,3059,Paid Search,PS-NonBrand,531.61,1.0,1.0,1.0,1.0
+421,3064,Paid Social,META-Prospecting,230.17,1.0,1.0,1.0,1.0
+422,3069,Email,EMAIL-Nurture,753.97,1.0,0.0,0.2,0.4
+422,3069,Paid Search,PS-NonBrand,753.97,0.0,0.0,0.2,0.06666666666666667
+422,3069,Organic Search,SEO-Content,753.97,0.0,0.0,0.2,0.06666666666666667
+422,3069,Paid Search,PS-NonBrand,753.97,0.0,0.0,0.2,0.06666666666666667
+422,3069,Paid Search,PS-Brand,753.97,0.0,1.0,0.2,0.4
+423,3070,Display,DISPLAY-Prospecting,699.02,1.0,0.0,0.2,0.4
+423,3070,Paid Search,PS-NonBrand,699.02,0.0,0.0,0.2,0.06666666666666667
+423,3070,Email,EMAIL-Reactivation,699.02,0.0,0.0,0.2,0.06666666666666667
+423,3070,Paid Search,PS-Brand,699.02,0.0,0.0,0.2,0.06666666666666667
+423,3070,Paid Search,PS-NonBrand,699.02,0.0,1.0,0.2,0.4
+424,3082,Email,EMAIL-Nurture,479.77,1.0,0.0,0.2,0.4
+424,3082,Display,DISPLAY-Retargeting,479.77,0.0,0.0,0.2,0.06666666666666667
+424,3082,Referral,REF-Customer,479.77,0.0,0.0,0.2,0.06666666666666667
+424,3082,Paid Social,META-Retargeting,479.77,0.0,0.0,0.2,0.06666666666666667
+424,3082,Display,DISPLAY-Prospecting,479.77,0.0,1.0,0.2,0.4
+425,3083,Organic Search,SEO-Product,320.34,1.0,0.0,0.25,0.4
+425,3083,Organic Search,SEO-Product,320.34,0.0,0.0,0.25,0.1
+425,3083,Paid Social,META-Prospecting,320.34,0.0,0.0,0.25,0.1
+425,3083,Paid Search,PS-NonBrand,320.34,0.0,1.0,0.25,0.4
+426,3089,Paid Social,META-Retargeting,297.05,1.0,0.0,0.5,0.5
+426,3089,Paid Social,META-Retargeting,297.05,0.0,1.0,0.5,0.5
+427,3093,Organic Search,SEO-Product,202.9,1.0,0.0,0.2,0.4
+427,3093,Referral,REF-Customer,202.9,0.0,0.0,0.2,0.06666666666666667
+427,3093,Paid Social,META-Retargeting,202.9,0.0,0.0,0.2,0.06666666666666667
+427,3093,Email,EMAIL-Nurture,202.9,0.0,0.0,0.2,0.06666666666666667
+427,3093,Organic Search,SEO-Product,202.9,0.0,1.0,0.2,0.4
+428,3104,Email,EMAIL-Reactivation,590.24,1.0,0.0,0.3333333333333333,0.4
+428,3104,Referral,REF-Customer,590.24,0.0,0.0,0.3333333333333333,0.2
+428,3104,Paid Social,META-Prospecting,590.24,0.0,1.0,0.3333333333333333,0.4
+429,3116,Paid Social,META-Retargeting,188.46,1.0,0.0,0.3333333333333333,0.4
+429,3116,Paid Social,META-Retargeting,188.46,0.0,0.0,0.3333333333333333,0.2
+429,3116,Email,EMAIL-Reactivation,188.46,0.0,1.0,0.3333333333333333,0.4
+430,3123,Referral,REF-Partner,571.86,1.0,0.0,0.2,0.4
+430,3123,Paid Search,PS-Brand,571.86,0.0,0.0,0.2,0.06666666666666667
+430,3123,Email,EMAIL-Reactivation,571.86,0.0,0.0,0.2,0.06666666666666667
+430,3123,Email,EMAIL-Nurture,571.86,0.0,0.0,0.2,0.06666666666666667
+430,3123,Email,EMAIL-Reactivation,571.86,0.0,1.0,0.2,0.4
+431,3130,Paid Social,META-Retargeting,970.97,1.0,0.0,0.25,0.4
+431,3130,Referral,REF-Customer,970.97,0.0,0.0,0.25,0.1
+431,3130,Display,DISPLAY-Prospecting,970.97,0.0,0.0,0.25,0.1
+431,3130,Display,DISPLAY-Prospecting,970.97,0.0,1.0,0.25,0.4
+432,3131,Display,DISPLAY-Prospecting,310.31,1.0,0.0,0.5,0.5
+432,3131,Paid Search,PS-Brand,310.31,0.0,1.0,0.5,0.5
+433,3132,Paid Social,META-Prospecting,774.75,1.0,0.0,0.5,0.5
+433,3132,Display,DISPLAY-Retargeting,774.75,0.0,1.0,0.5,0.5
+434,3140,Paid Social,META-Retargeting,307.47,1.0,0.0,0.5,0.5
+434,3140,Referral,REF-Partner,307.47,0.0,1.0,0.5,0.5
+435,3143,Email,EMAIL-Nurture,554.08,1.0,0.0,0.3333333333333333,0.4
+435,3143,Paid Search,PS-Brand,554.08,0.0,0.0,0.3333333333333333,0.2
+435,3143,Referral,REF-Customer,554.08,0.0,1.0,0.3333333333333333,0.4
+436,3149,Organic Search,SEO-Content,294.07,1.0,0.0,0.25,0.4
+436,3149,Display,DISPLAY-Retargeting,294.07,0.0,0.0,0.25,0.1
+436,3149,Organic Search,SEO-Product,294.07,0.0,0.0,0.25,0.1
+436,3149,Display,DISPLAY-Retargeting,294.07,0.0,1.0,0.25,0.4
+437,3150,Organic Search,SEO-Product,374.88,1.0,0.0,0.5,0.5
+437,3150,Email,EMAIL-Reactivation,374.88,0.0,1.0,0.5,0.5
+438,3152,Paid Search,PS-Brand,1217.55,1.0,0.0,0.2,0.4
+438,3152,Referral,REF-Partner,1217.55,0.0,0.0,0.2,0.06666666666666667
+438,3152,Paid Search,PS-NonBrand,1217.55,0.0,0.0,0.2,0.06666666666666667
+438,3152,Paid Social,META-Retargeting,1217.55,0.0,0.0,0.2,0.06666666666666667
+438,3152,Paid Search,PS-Brand,1217.55,0.0,1.0,0.2,0.4
+439,3154,Email,EMAIL-Nurture,539.53,1.0,1.0,1.0,1.0
+440,3161,Email,EMAIL-Nurture,173.1,1.0,0.0,0.3333333333333333,0.4
+440,3161,Email,EMAIL-Nurture,173.1,0.0,0.0,0.3333333333333333,0.2
+440,3161,Organic Search,SEO-Product,173.1,0.0,1.0,0.3333333333333333,0.4
+441,3171,Paid Search,PS-NonBrand,719.81,1.0,0.0,0.25,0.4
+441,3171,Paid Search,PS-Brand,719.81,0.0,0.0,0.25,0.1
+441,3171,Display,DISPLAY-Retargeting,719.81,0.0,0.0,0.25,0.1
+441,3171,Email,EMAIL-Reactivation,719.81,0.0,1.0,0.25,0.4
+442,3174,Paid Search,PS-NonBrand,357.95,1.0,0.0,0.3333333333333333,0.4
+442,3174,Paid Social,META-Retargeting,357.95,0.0,0.0,0.3333333333333333,0.2
+442,3174,Paid Social,META-Retargeting,357.95,0.0,1.0,0.3333333333333333,0.4
+443,3178,Organic Search,SEO-Product,276.51,1.0,0.0,0.25,0.4
+443,3178,Paid Search,PS-NonBrand,276.51,0.0,0.0,0.25,0.1
+443,3178,Organic Search,SEO-Product,276.51,0.0,0.0,0.25,0.1
+443,3178,Paid Social,META-Retargeting,276.51,0.0,1.0,0.25,0.4
+444,3182,Paid Social,META-Retargeting,322.98,1.0,0.0,0.5,0.5
+444,3182,Paid Search,PS-Brand,322.98,0.0,1.0,0.5,0.5
+445,3188,Referral,REF-Partner,227.92,1.0,0.0,0.5,0.5
+445,3188,Referral,REF-Partner,227.92,0.0,1.0,0.5,0.5
+446,3194,Display,DISPLAY-Retargeting,282.81,1.0,0.0,0.3333333333333333,0.4
+446,3194,Organic Search,SEO-Product,282.81,0.0,0.0,0.3333333333333333,0.2
+446,3194,Referral,REF-Partner,282.81,0.0,1.0,0.3333333333333333,0.4
+447,3198,Paid Search,PS-NonBrand,745.71,1.0,0.0,0.3333333333333333,0.4
+447,3198,Paid Social,META-Retargeting,745.71,0.0,0.0,0.3333333333333333,0.2
+447,3198,Email,EMAIL-Nurture,745.71,0.0,1.0,0.3333333333333333,0.4
+448,3201,Referral,REF-Partner,731.22,1.0,1.0,1.0,1.0
+449,3210,Paid Search,PS-Brand,1281.38,1.0,0.0,0.2,0.4
+449,3210,Email,EMAIL-Nurture,1281.38,0.0,0.0,0.2,0.06666666666666667
+449,3210,Referral,REF-Customer,1281.38,0.0,0.0,0.2,0.06666666666666667
+449,3210,Paid Social,META-Retargeting,1281.38,0.0,0.0,0.2,0.06666666666666667
+449,3210,Referral,REF-Partner,1281.38,0.0,1.0,0.2,0.4
+450,3224,Referral,REF-Partner,334.74,1.0,0.0,0.3333333333333333,0.4
+450,3224,Display,DISPLAY-Retargeting,334.74,0.0,0.0,0.3333333333333333,0.2
+450,3224,Display,DISPLAY-Prospecting,334.74,0.0,1.0,0.3333333333333333,0.4
+451,3226,Referral,REF-Partner,578.93,1.0,0.0,0.25,0.4
+451,3226,Organic Search,SEO-Content,578.93,0.0,0.0,0.25,0.1
+451,3226,Paid Search,PS-Brand,578.93,0.0,0.0,0.25,0.1
+451,3226,Paid Search,PS-Brand,578.93,0.0,1.0,0.25,0.4
+452,3229,Email,EMAIL-Reactivation,222.99,1.0,0.0,0.2,0.4
+452,3229,Paid Social,META-Prospecting,222.99,0.0,0.0,0.2,0.06666666666666667
+452,3229,Paid Social,META-Prospecting,222.99,0.0,0.0,0.2,0.06666666666666667
+452,3229,Paid Social,META-Retargeting,222.99,0.0,0.0,0.2,0.06666666666666667
+452,3229,Paid Search,PS-Brand,222.99,0.0,1.0,0.2,0.4
+453,3237,Paid Search,PS-Brand,782.67,1.0,1.0,1.0,1.0
+454,3240,Referral,REF-Partner,998.82,1.0,0.0,0.25,0.4
+454,3240,Paid Social,META-Prospecting,998.82,0.0,0.0,0.25,0.1
+454,3240,Email,EMAIL-Nurture,998.82,0.0,0.0,0.25,0.1
+454,3240,Paid Search,PS-Brand,998.82,0.0,1.0,0.25,0.4
+455,3241,Referral,REF-Customer,262.67,1.0,0.0,0.25,0.4
+455,3241,Paid Social,META-Retargeting,262.67,0.0,0.0,0.25,0.1
+455,3241,Paid Search,PS-Brand,262.67,0.0,0.0,0.25,0.1
+455,3241,Display,DISPLAY-Retargeting,262.67,0.0,1.0,0.25,0.4
+456,3250,Referral,REF-Customer,335.53,1.0,0.0,0.25,0.4
+456,3250,Organic Search,SEO-Content,335.53,0.0,0.0,0.25,0.1
+456,3250,Display,DISPLAY-Prospecting,335.53,0.0,0.0,0.25,0.1
+456,3250,Display,DISPLAY-Prospecting,335.53,0.0,1.0,0.25,0.4
+457,3251,Email,EMAIL-Reactivation,478.95,1.0,0.0,0.2,0.4
+457,3251,Organic Search,SEO-Content,478.95,0.0,0.0,0.2,0.06666666666666667
+457,3251,Email,EMAIL-Reactivation,478.95,0.0,0.0,0.2,0.06666666666666667
+457,3251,Paid Search,PS-Brand,478.95,0.0,0.0,0.2,0.06666666666666667
+457,3251,Display,DISPLAY-Retargeting,478.95,0.0,1.0,0.2,0.4
+458,3254,Email,EMAIL-Nurture,533.65,1.0,1.0,1.0,1.0
+459,3259,Organic Search,SEO-Content,408.04,1.0,0.0,0.25,0.4
+459,3259,Organic Search,SEO-Content,408.04,0.0,0.0,0.25,0.1
+459,3259,Paid Social,META-Prospecting,408.04,0.0,0.0,0.25,0.1
+459,3259,Organic Search,SEO-Content,408.04,0.0,1.0,0.25,0.4
+460,3262,Paid Search,PS-Brand,498.78,1.0,0.0,0.25,0.4
+460,3262,Paid Search,PS-NonBrand,498.78,0.0,0.0,0.25,0.1
+460,3262,Paid Search,PS-Brand,498.78,0.0,0.0,0.25,0.1
+460,3262,Paid Social,META-Prospecting,498.78,0.0,1.0,0.25,0.4
+461,3264,Paid Search,PS-NonBrand,567.83,1.0,0.0,0.3333333333333333,0.4
+461,3264,Referral,REF-Partner,567.83,0.0,0.0,0.3333333333333333,0.2
+461,3264,Referral,REF-Customer,567.83,0.0,1.0,0.3333333333333333,0.4
+462,3272,Organic Search,SEO-Content,201.79,1.0,1.0,1.0,1.0
+463,3274,Paid Search,PS-NonBrand,344.0,1.0,0.0,0.2,0.4
+463,3274,Paid Social,META-Retargeting,344.0,0.0,0.0,0.2,0.06666666666666667
+463,3274,Paid Search,PS-NonBrand,344.0,0.0,0.0,0.2,0.06666666666666667
+463,3274,Paid Search,PS-NonBrand,344.0,0.0,0.0,0.2,0.06666666666666667
+463,3274,Display,DISPLAY-Prospecting,344.0,0.0,1.0,0.2,0.4
+464,3277,Referral,REF-Customer,1127.99,1.0,0.0,0.25,0.4
+464,3277,Email,EMAIL-Nurture,1127.99,0.0,0.0,0.25,0.1
+464,3277,Referral,REF-Partner,1127.99,0.0,0.0,0.25,0.1
+464,3277,Paid Search,PS-NonBrand,1127.99,0.0,1.0,0.25,0.4
+465,3282,Paid Social,META-Retargeting,431.02,1.0,1.0,1.0,1.0
+466,3283,Paid Social,META-Prospecting,1019.2,1.0,1.0,1.0,1.0
+467,3324,Email,EMAIL-Reactivation,501.22,1.0,0.0,0.5,0.5
+467,3324,Paid Search,PS-NonBrand,501.22,0.0,1.0,0.5,0.5
+468,3331,Email,EMAIL-Reactivation,666.46,1.0,0.0,0.2,0.4
+468,3331,Organic Search,SEO-Product,666.46,0.0,0.0,0.2,0.06666666666666667
+468,3331,Paid Search,PS-NonBrand,666.46,0.0,0.0,0.2,0.06666666666666667
+468,3331,Paid Social,META-Retargeting,666.46,0.0,0.0,0.2,0.06666666666666667
+468,3331,Paid Search,PS-Brand,666.46,0.0,1.0,0.2,0.4
+469,3339,Display,DISPLAY-Retargeting,455.93,1.0,1.0,1.0,1.0
+470,3343,Paid Search,PS-Brand,493.4,1.0,0.0,0.3333333333333333,0.4
+470,3343,Display,DISPLAY-Retargeting,493.4,0.0,0.0,0.3333333333333333,0.2
+470,3343,Referral,REF-Customer,493.4,0.0,1.0,0.3333333333333333,0.4
+471,3348,Paid Search,PS-NonBrand,802.61,1.0,1.0,1.0,1.0
+472,3350,Paid Social,META-Retargeting,854.51,1.0,0.0,0.3333333333333333,0.4
+472,3350,Organic Search,SEO-Product,854.51,0.0,0.0,0.3333333333333333,0.2
+472,3350,Paid Social,META-Retargeting,854.51,0.0,1.0,0.3333333333333333,0.4
+473,3359,Paid Search,PS-Brand,825.94,1.0,0.0,0.25,0.4
+473,3359,Display,DISPLAY-Retargeting,825.94,0.0,0.0,0.25,0.1
+473,3359,Referral,REF-Partner,825.94,0.0,0.0,0.25,0.1
+473,3359,Referral,REF-Customer,825.94,0.0,1.0,0.25,0.4
+474,3360,Email,EMAIL-Reactivation,364.34,1.0,0.0,0.2,0.4
+474,3360,Display,DISPLAY-Prospecting,364.34,0.0,0.0,0.2,0.06666666666666667
+474,3360,Paid Search,PS-Brand,364.34,0.0,0.0,0.2,0.06666666666666667
+474,3360,Referral,REF-Customer,364.34,0.0,0.0,0.2,0.06666666666666667
+474,3360,Referral,REF-Customer,364.34,0.0,1.0,0.2,0.4
+475,3361,Paid Search,PS-Brand,401.33,1.0,0.0,0.3333333333333333,0.4
+475,3361,Organic Search,SEO-Content,401.33,0.0,0.0,0.3333333333333333,0.2
+475,3361,Organic Search,SEO-Product,401.33,0.0,1.0,0.3333333333333333,0.4
+476,3365,Paid Search,PS-Brand,181.4,1.0,0.0,0.3333333333333333,0.4
+476,3365,Email,EMAIL-Nurture,181.4,0.0,0.0,0.3333333333333333,0.2
+476,3365,Referral,REF-Customer,181.4,0.0,1.0,0.3333333333333333,0.4
+477,3374,Paid Social,META-Prospecting,427.48,1.0,0.0,0.5,0.5
+477,3374,Email,EMAIL-Reactivation,427.48,0.0,1.0,0.5,0.5
+478,3377,Paid Search,PS-NonBrand,215.57,1.0,0.0,0.5,0.5
+478,3377,Paid Social,META-Retargeting,215.57,0.0,1.0,0.5,0.5
+479,3383,Referral,REF-Partner,651.54,1.0,0.0,0.2,0.4
+479,3383,Display,DISPLAY-Retargeting,651.54,0.0,0.0,0.2,0.06666666666666667
+479,3383,Paid Social,META-Prospecting,651.54,0.0,0.0,0.2,0.06666666666666667
+479,3383,Referral,REF-Customer,651.54,0.0,0.0,0.2,0.06666666666666667
+479,3383,Paid Search,PS-Brand,651.54,0.0,1.0,0.2,0.4
+480,3388,Paid Search,PS-NonBrand,307.67,1.0,0.0,0.2,0.4
+480,3388,Paid Search,PS-Brand,307.67,0.0,0.0,0.2,0.06666666666666667
+480,3388,Email,EMAIL-Reactivation,307.67,0.0,0.0,0.2,0.06666666666666667
+480,3388,Email,EMAIL-Nurture,307.67,0.0,0.0,0.2,0.06666666666666667
+480,3388,Organic Search,SEO-Content,307.67,0.0,1.0,0.2,0.4
+481,3397,Referral,REF-Partner,451.11,1.0,0.0,0.2,0.4
+481,3397,Paid Search,PS-Brand,451.11,0.0,0.0,0.2,0.06666666666666667
+481,3397,Paid Social,META-Prospecting,451.11,0.0,0.0,0.2,0.06666666666666667
+481,3397,Display,DISPLAY-Retargeting,451.11,0.0,0.0,0.2,0.06666666666666667
+481,3397,Paid Search,PS-Brand,451.11,0.0,1.0,0.2,0.4
+482,3402,Referral,REF-Partner,211.37,1.0,0.0,0.3333333333333333,0.4
+482,3402,Organic Search,SEO-Content,211.37,0.0,0.0,0.3333333333333333,0.2
+482,3402,Paid Search,PS-Brand,211.37,0.0,1.0,0.3333333333333333,0.4
+483,3405,Paid Search,PS-NonBrand,373.98,1.0,0.0,0.2,0.4
+483,3405,Referral,REF-Customer,373.98,0.0,0.0,0.2,0.06666666666666667
+483,3405,Paid Social,META-Retargeting,373.98,0.0,0.0,0.2,0.06666666666666667
+483,3405,Referral,REF-Customer,373.98,0.0,0.0,0.2,0.06666666666666667
+483,3405,Email,EMAIL-Nurture,373.98,0.0,1.0,0.2,0.4
+484,3408,Referral,REF-Partner,554.0,1.0,1.0,1.0,1.0
+485,3429,Paid Search,PS-Brand,466.07,1.0,0.0,0.2,0.4
+485,3429,Paid Search,PS-Brand,466.07,0.0,0.0,0.2,0.06666666666666667
+485,3429,Referral,REF-Customer,466.07,0.0,0.0,0.2,0.06666666666666667
+485,3429,Display,DISPLAY-Retargeting,466.07,0.0,0.0,0.2,0.06666666666666667
+485,3429,Paid Search,PS-NonBrand,466.07,0.0,1.0,0.2,0.4
+486,3432,Paid Social,META-Prospecting,189.54,1.0,0.0,0.3333333333333333,0.4
+486,3432,Email,EMAIL-Nurture,189.54,0.0,0.0,0.3333333333333333,0.2
+486,3432,Paid Search,PS-Brand,189.54,0.0,1.0,0.3333333333333333,0.4
+487,3433,Referral,REF-Customer,195.8,1.0,1.0,1.0,1.0
+488,3446,Referral,REF-Customer,716.29,1.0,0.0,0.3333333333333333,0.4
+488,3446,Paid Social,META-Prospecting,716.29,0.0,0.0,0.3333333333333333,0.2
+488,3446,Paid Search,PS-NonBrand,716.29,0.0,1.0,0.3333333333333333,0.4
+489,3462,Email,EMAIL-Nurture,364.65,1.0,0.0,0.25,0.4
+489,3462,Referral,REF-Customer,364.65,0.0,0.0,0.25,0.1
+489,3462,Paid Social,META-Prospecting,364.65,0.0,0.0,0.25,0.1
+489,3462,Paid Search,PS-NonBrand,364.65,0.0,1.0,0.25,0.4
+490,3465,Paid Search,PS-NonBrand,849.71,1.0,0.0,0.5,0.5
+490,3465,Referral,REF-Customer,849.71,0.0,1.0,0.5,0.5
+491,3467,Display,DISPLAY-Retargeting,466.82,1.0,0.0,0.5,0.5
+491,3467,Organic Search,SEO-Product,466.82,0.0,1.0,0.5,0.5
+492,3471,Organic Search,SEO-Product,486.12,1.0,1.0,1.0,1.0
+493,3472,Paid Search,PS-Brand,551.87,1.0,0.0,0.3333333333333333,0.4
+493,3472,Referral,REF-Customer,551.87,0.0,0.0,0.3333333333333333,0.2
+493,3472,Paid Social,META-Prospecting,551.87,0.0,1.0,0.3333333333333333,0.4
+494,3473,Paid Social,META-Retargeting,895.72,1.0,0.0,0.25,0.4
+494,3473,Paid Search,PS-Brand,895.72,0.0,0.0,0.25,0.1
+494,3473,Paid Social,META-Retargeting,895.72,0.0,0.0,0.25,0.1
+494,3473,Referral,REF-Customer,895.72,0.0,1.0,0.25,0.4
+495,3475,Paid Search,PS-NonBrand,194.1,1.0,1.0,1.0,1.0
+496,3479,Email,EMAIL-Reactivation,360.23,1.0,0.0,0.3333333333333333,0.4
+496,3479,Paid Search,PS-Brand,360.23,0.0,0.0,0.3333333333333333,0.2
+496,3479,Paid Search,PS-Brand,360.23,0.0,1.0,0.3333333333333333,0.4
+497,3486,Paid Social,META-Retargeting,431.86,1.0,0.0,0.5,0.5
+497,3486,Paid Social,META-Prospecting,431.86,0.0,1.0,0.5,0.5
+498,3495,Email,EMAIL-Reactivation,1089.56,1.0,0.0,0.25,0.4
+498,3495,Paid Social,META-Retargeting,1089.56,0.0,0.0,0.25,0.1
+498,3495,Paid Social,META-Prospecting,1089.56,0.0,0.0,0.25,0.1
+498,3495,Email,EMAIL-Reactivation,1089.56,0.0,1.0,0.25,0.4
+499,3503,Display,DISPLAY-Retargeting,510.4,1.0,0.0,0.5,0.5
+499,3503,Organic Search,SEO-Content,510.4,0.0,1.0,0.5,0.5
+500,3510,Email,EMAIL-Nurture,320.45,1.0,0.0,0.3333333333333333,0.4
+500,3510,Paid Search,PS-Brand,320.45,0.0,0.0,0.3333333333333333,0.2
+500,3510,Organic Search,SEO-Content,320.45,0.0,1.0,0.3333333333333333,0.4
+501,3518,Paid Social,META-Retargeting,368.16,1.0,0.0,0.3333333333333333,0.4
+501,3518,Organic Search,SEO-Product,368.16,0.0,0.0,0.3333333333333333,0.2
+501,3518,Referral,REF-Customer,368.16,0.0,1.0,0.3333333333333333,0.4
+502,3523,Display,DISPLAY-Prospecting,320.79,1.0,0.0,0.25,0.4
+502,3523,Email,EMAIL-Reactivation,320.79,0.0,0.0,0.25,0.1
+502,3523,Organic Search,SEO-Product,320.79,0.0,0.0,0.25,0.1
+502,3523,Referral,REF-Partner,320.79,0.0,1.0,0.25,0.4
+503,3533,Paid Search,PS-Brand,607.52,1.0,0.0,0.3333333333333333,0.4
+503,3533,Paid Social,META-Prospecting,607.52,0.0,0.0,0.3333333333333333,0.2
+503,3533,Paid Search,PS-Brand,607.52,0.0,1.0,0.3333333333333333,0.4
+504,3548,Paid Social,META-Retargeting,511.57,1.0,0.0,0.5,0.5
+504,3548,Display,DISPLAY-Retargeting,511.57,0.0,1.0,0.5,0.5
+505,3552,Paid Social,META-Retargeting,246.4,1.0,0.0,0.5,0.5
+505,3552,Paid Social,META-Retargeting,246.4,0.0,1.0,0.5,0.5
+506,3555,Display,DISPLAY-Retargeting,581.66,1.0,0.0,0.25,0.4
+506,3555,Paid Search,PS-NonBrand,581.66,0.0,0.0,0.25,0.1
+506,3555,Paid Search,PS-NonBrand,581.66,0.0,0.0,0.25,0.1
+506,3555,Email,EMAIL-Reactivation,581.66,0.0,1.0,0.25,0.4
+507,3575,Paid Search,PS-Brand,364.61,1.0,0.0,0.5,0.5
+507,3575,Paid Search,PS-NonBrand,364.61,0.0,1.0,0.5,0.5
+508,3576,Display,DISPLAY-Retargeting,626.67,1.0,0.0,0.25,0.4
+508,3576,Organic Search,SEO-Content,626.67,0.0,0.0,0.25,0.1
+508,3576,Organic Search,SEO-Content,626.67,0.0,0.0,0.25,0.1
+508,3576,Referral,REF-Customer,626.67,0.0,1.0,0.25,0.4
+509,3580,Organic Search,SEO-Product,361.54,1.0,0.0,0.3333333333333333,0.4
+509,3580,Paid Search,PS-NonBrand,361.54,0.0,0.0,0.3333333333333333,0.2
+509,3580,Display,DISPLAY-Retargeting,361.54,0.0,1.0,0.3333333333333333,0.4
+510,3594,Paid Search,PS-Brand,673.82,1.0,0.0,0.3333333333333333,0.4
+510,3594,Display,DISPLAY-Retargeting,673.82,0.0,0.0,0.3333333333333333,0.2
+510,3594,Paid Social,META-Retargeting,673.82,0.0,1.0,0.3333333333333333,0.4
+511,3595,Display,DISPLAY-Prospecting,458.41,1.0,0.0,0.3333333333333333,0.4
+511,3595,Email,EMAIL-Nurture,458.41,0.0,0.0,0.3333333333333333,0.2
+511,3595,Email,EMAIL-Reactivation,458.41,0.0,1.0,0.3333333333333333,0.4
+512,3614,Referral,REF-Customer,322.29,1.0,1.0,1.0,1.0
+513,3616,Referral,REF-Customer,191.96,1.0,0.0,0.2,0.4
+513,3616,Organic Search,SEO-Product,191.96,0.0,0.0,0.2,0.06666666666666667
+513,3616,Display,DISPLAY-Retargeting,191.96,0.0,0.0,0.2,0.06666666666666667
+513,3616,Paid Social,META-Prospecting,191.96,0.0,0.0,0.2,0.06666666666666667
+513,3616,Paid Social,META-Prospecting,191.96,0.0,1.0,0.2,0.4
+514,3620,Organic Search,SEO-Product,316.53,1.0,0.0,0.5,0.5
+514,3620,Organic Search,SEO-Content,316.53,0.0,1.0,0.5,0.5
+515,3622,Paid Social,META-Retargeting,192.39,1.0,0.0,0.3333333333333333,0.4
+515,3622,Referral,REF-Partner,192.39,0.0,0.0,0.3333333333333333,0.2
+515,3622,Display,DISPLAY-Prospecting,192.39,0.0,1.0,0.3333333333333333,0.4
+516,3628,Email,EMAIL-Reactivation,354.46,1.0,0.0,0.25,0.4
+516,3628,Display,DISPLAY-Retargeting,354.46,0.0,0.0,0.25,0.1
+516,3628,Email,EMAIL-Reactivation,354.46,0.0,0.0,0.25,0.1
+516,3628,Display,DISPLAY-Retargeting,354.46,0.0,1.0,0.25,0.4
+517,3630,Email,EMAIL-Reactivation,650.72,1.0,0.0,0.25,0.4
+517,3630,Display,DISPLAY-Retargeting,650.72,0.0,0.0,0.25,0.1
+517,3630,Organic Search,SEO-Product,650.72,0.0,0.0,0.25,0.1
+517,3630,Paid Search,PS-NonBrand,650.72,0.0,1.0,0.25,0.4
+518,3631,Display,DISPLAY-Prospecting,177.38,1.0,0.0,0.5,0.5
+518,3631,Email,EMAIL-Nurture,177.38,0.0,1.0,0.5,0.5
+519,3638,Paid Search,PS-Brand,456.43,1.0,0.0,0.25,0.4
+519,3638,Organic Search,SEO-Content,456.43,0.0,0.0,0.25,0.1
+519,3638,Paid Search,PS-Brand,456.43,0.0,0.0,0.25,0.1
+519,3638,Paid Social,META-Retargeting,456.43,0.0,1.0,0.25,0.4
+520,3649,Paid Search,PS-NonBrand,247.83,1.0,0.0,0.5,0.5
+520,3649,Paid Social,META-Retargeting,247.83,0.0,1.0,0.5,0.5
+521,3651,Email,EMAIL-Reactivation,724.04,1.0,1.0,1.0,1.0
+522,3658,Paid Social,META-Prospecting,246.07,1.0,0.0,0.5,0.5
+522,3658,Paid Social,META-Prospecting,246.07,0.0,1.0,0.5,0.5
+523,3666,Paid Search,PS-Brand,685.24,1.0,0.0,0.5,0.5
+523,3666,Paid Social,META-Prospecting,685.24,0.0,1.0,0.5,0.5
+524,3668,Paid Social,META-Retargeting,930.8,1.0,0.0,0.2,0.4
+524,3668,Paid Social,META-Prospecting,930.8,0.0,0.0,0.2,0.06666666666666667
+524,3668,Display,DISPLAY-Prospecting,930.8,0.0,0.0,0.2,0.06666666666666667
+524,3668,Organic Search,SEO-Product,930.8,0.0,0.0,0.2,0.06666666666666667
+524,3668,Paid Search,PS-NonBrand,930.8,0.0,1.0,0.2,0.4
+525,3677,Referral,REF-Customer,502.7,1.0,1.0,1.0,1.0
+526,3682,Referral,REF-Partner,445.13,1.0,0.0,0.5,0.5
+526,3682,Referral,REF-Customer,445.13,0.0,1.0,0.5,0.5
+527,3687,Email,EMAIL-Nurture,261.11,1.0,0.0,0.2,0.4
+527,3687,Organic Search,SEO-Product,261.11,0.0,0.0,0.2,0.06666666666666667
+527,3687,Referral,REF-Partner,261.11,0.0,0.0,0.2,0.06666666666666667
+527,3687,Email,EMAIL-Reactivation,261.11,0.0,0.0,0.2,0.06666666666666667
+527,3687,Paid Search,PS-Brand,261.11,0.0,1.0,0.2,0.4
+528,3709,Referral,REF-Customer,648.3,1.0,0.0,0.2,0.4
+528,3709,Email,EMAIL-Nurture,648.3,0.0,0.0,0.2,0.06666666666666667
+528,3709,Email,EMAIL-Nurture,648.3,0.0,0.0,0.2,0.06666666666666667
+528,3709,Paid Social,META-Retargeting,648.3,0.0,0.0,0.2,0.06666666666666667
+528,3709,Paid Search,PS-NonBrand,648.3,0.0,1.0,0.2,0.4
+529,3716,Paid Search,PS-Brand,1598.87,1.0,0.0,0.2,0.4
+529,3716,Paid Search,PS-NonBrand,1598.87,0.0,0.0,0.2,0.06666666666666667
+529,3716,Paid Social,META-Retargeting,1598.87,0.0,0.0,0.2,0.06666666666666667
+529,3716,Paid Social,META-Retargeting,1598.87,0.0,0.0,0.2,0.06666666666666667
+529,3716,Display,DISPLAY-Retargeting,1598.87,0.0,1.0,0.2,0.4
+530,3730,Paid Search,PS-NonBrand,403.3,1.0,0.0,0.5,0.5
+530,3730,Paid Social,META-Retargeting,403.3,0.0,1.0,0.5,0.5
+531,3736,Paid Social,META-Prospecting,863.24,1.0,0.0,0.2,0.4
+531,3736,Display,DISPLAY-Retargeting,863.24,0.0,0.0,0.2,0.06666666666666667
+531,3736,Display,DISPLAY-Retargeting,863.24,0.0,0.0,0.2,0.06666666666666667
+531,3736,Paid Search,PS-NonBrand,863.24,0.0,0.0,0.2,0.06666666666666667
+531,3736,Paid Search,PS-NonBrand,863.24,0.0,1.0,0.2,0.4
+532,3741,Paid Social,META-Prospecting,558.49,1.0,0.0,0.25,0.4
+532,3741,Referral,REF-Customer,558.49,0.0,0.0,0.25,0.1
+532,3741,Referral,REF-Partner,558.49,0.0,0.0,0.25,0.1
+532,3741,Referral,REF-Partner,558.49,0.0,1.0,0.25,0.4
+533,3744,Paid Social,META-Retargeting,960.84,1.0,0.0,0.5,0.5
+533,3744,Paid Search,PS-Brand,960.84,0.0,1.0,0.5,0.5
+534,3756,Referral,REF-Customer,330.78,1.0,0.0,0.25,0.4
+534,3756,Display,DISPLAY-Prospecting,330.78,0.0,0.0,0.25,0.1
+534,3756,Organic Search,SEO-Content,330.78,0.0,0.0,0.25,0.1
+534,3756,Organic Search,SEO-Product,330.78,0.0,1.0,0.25,0.4
+535,3760,Display,DISPLAY-Retargeting,753.5,1.0,1.0,1.0,1.0
+536,3770,Paid Social,META-Retargeting,575.06,1.0,0.0,0.5,0.5
+536,3770,Organic Search,SEO-Product,575.06,0.0,1.0,0.5,0.5
+537,3776,Email,EMAIL-Reactivation,232.29,1.0,0.0,0.2,0.4
+537,3776,Paid Social,META-Retargeting,232.29,0.0,0.0,0.2,0.06666666666666667
+537,3776,Paid Search,PS-NonBrand,232.29,0.0,0.0,0.2,0.06666666666666667
+537,3776,Email,EMAIL-Nurture,232.29,0.0,0.0,0.2,0.06666666666666667
+537,3776,Email,EMAIL-Reactivation,232.29,0.0,1.0,0.2,0.4
+538,3777,Paid Social,META-Retargeting,596.8,1.0,0.0,0.3333333333333333,0.4
+538,3777,Email,EMAIL-Nurture,596.8,0.0,0.0,0.3333333333333333,0.2
+538,3777,Paid Social,META-Retargeting,596.8,0.0,1.0,0.3333333333333333,0.4
+539,3783,Paid Search,PS-NonBrand,423.65,1.0,0.0,0.5,0.5
+539,3783,Paid Search,PS-Brand,423.65,0.0,1.0,0.5,0.5
+540,3784,Paid Search,PS-NonBrand,864.92,1.0,0.0,0.2,0.4
+540,3784,Email,EMAIL-Nurture,864.92,0.0,0.0,0.2,0.06666666666666667
+540,3784,Paid Search,PS-Brand,864.92,0.0,0.0,0.2,0.06666666666666667
+540,3784,Referral,REF-Customer,864.92,0.0,0.0,0.2,0.06666666666666667
+540,3784,Paid Search,PS-Brand,864.92,0.0,1.0,0.2,0.4
+541,3793,Email,EMAIL-Reactivation,204.13,1.0,0.0,0.5,0.5
+541,3793,Email,EMAIL-Reactivation,204.13,0.0,1.0,0.5,0.5
+542,3794,Email,EMAIL-Reactivation,452.2,1.0,0.0,0.3333333333333333,0.4
+542,3794,Referral,REF-Partner,452.2,0.0,0.0,0.3333333333333333,0.2
+542,3794,Referral,REF-Customer,452.2,0.0,1.0,0.3333333333333333,0.4
+543,3796,Paid Social,META-Retargeting,612.76,1.0,1.0,1.0,1.0
+544,3799,Organic Search,SEO-Content,816.96,1.0,0.0,0.25,0.4
+544,3799,Paid Search,PS-Brand,816.96,0.0,0.0,0.25,0.1
+544,3799,Organic Search,SEO-Product,816.96,0.0,0.0,0.25,0.1
+544,3799,Paid Social,META-Prospecting,816.96,0.0,1.0,0.25,0.4
+545,3803,Paid Social,META-Prospecting,271.73,1.0,0.0,0.3333333333333333,0.4
+545,3803,Paid Search,PS-NonBrand,271.73,0.0,0.0,0.3333333333333333,0.2
+545,3803,Referral,REF-Customer,271.73,0.0,1.0,0.3333333333333333,0.4
+546,3805,Referral,REF-Partner,707.52,1.0,0.0,0.5,0.5
+546,3805,Paid Search,PS-NonBrand,707.52,0.0,1.0,0.5,0.5
+547,3808,Paid Search,PS-Brand,496.28,1.0,0.0,0.25,0.4
+547,3808,Paid Search,PS-NonBrand,496.28,0.0,0.0,0.25,0.1
+547,3808,Referral,REF-Customer,496.28,0.0,0.0,0.25,0.1
+547,3808,Organic Search,SEO-Content,496.28,0.0,1.0,0.25,0.4
+548,3810,Paid Search,PS-Brand,394.7,1.0,1.0,1.0,1.0
+549,3816,Paid Search,PS-NonBrand,486.44,1.0,0.0,0.25,0.4
+549,3816,Paid Social,META-Retargeting,486.44,0.0,0.0,0.25,0.1
+549,3816,Paid Social,META-Retargeting,486.44,0.0,0.0,0.25,0.1
+549,3816,Referral,REF-Customer,486.44,0.0,1.0,0.25,0.4
+550,3824,Referral,REF-Customer,481.4,1.0,0.0,0.5,0.5
+550,3824,Paid Search,PS-Brand,481.4,0.0,1.0,0.5,0.5
+551,3839,Organic Search,SEO-Content,263.53,1.0,0.0,0.25,0.4
+551,3839,Paid Search,PS-NonBrand,263.53,0.0,0.0,0.25,0.1
+551,3839,Paid Search,PS-Brand,263.53,0.0,0.0,0.25,0.1
+551,3839,Paid Search,PS-NonBrand,263.53,0.0,1.0,0.25,0.4
+552,3843,Paid Search,PS-Brand,349.16,1.0,1.0,1.0,1.0
+553,3856,Referral,REF-Partner,342.66,1.0,0.0,0.25,0.4
+553,3856,Referral,REF-Customer,342.66,0.0,0.0,0.25,0.1
+553,3856,Paid Search,PS-NonBrand,342.66,0.0,0.0,0.25,0.1
+553,3856,Organic Search,SEO-Product,342.66,0.0,1.0,0.25,0.4
+554,3869,Display,DISPLAY-Retargeting,469.15,1.0,0.0,0.5,0.5
+554,3869,Organic Search,SEO-Content,469.15,0.0,1.0,0.5,0.5
+555,3876,Email,EMAIL-Nurture,398.32,1.0,0.0,0.3333333333333333,0.4
+555,3876,Organic Search,SEO-Product,398.32,0.0,0.0,0.3333333333333333,0.2
+555,3876,Email,EMAIL-Reactivation,398.32,0.0,1.0,0.3333333333333333,0.4
+556,3898,Organic Search,SEO-Content,272.26,1.0,0.0,0.25,0.4
+556,3898,Organic Search,SEO-Product,272.26,0.0,0.0,0.25,0.1
+556,3898,Paid Search,PS-Brand,272.26,0.0,0.0,0.25,0.1
+556,3898,Referral,REF-Customer,272.26,0.0,1.0,0.25,0.4
+557,3931,Paid Social,META-Prospecting,284.99,1.0,0.0,0.25,0.4
+557,3931,Paid Search,PS-Brand,284.99,0.0,0.0,0.25,0.1
+557,3931,Organic Search,SEO-Product,284.99,0.0,0.0,0.25,0.1
+557,3931,Paid Search,PS-Brand,284.99,0.0,1.0,0.25,0.4
+558,3933,Paid Social,META-Prospecting,934.84,1.0,1.0,1.0,1.0
+559,3947,Email,EMAIL-Nurture,699.93,1.0,0.0,0.2,0.4
+559,3947,Paid Social,META-Retargeting,699.93,0.0,0.0,0.2,0.06666666666666667
+559,3947,Display,DISPLAY-Retargeting,699.93,0.0,0.0,0.2,0.06666666666666667
+559,3947,Email,EMAIL-Nurture,699.93,0.0,0.0,0.2,0.06666666666666667
+559,3947,Paid Social,META-Retargeting,699.93,0.0,1.0,0.2,0.4
+560,3957,Paid Social,META-Prospecting,430.14,1.0,0.0,0.2,0.4
+560,3957,Organic Search,SEO-Product,430.14,0.0,0.0,0.2,0.06666666666666667
+560,3957,Paid Social,META-Retargeting,430.14,0.0,0.0,0.2,0.06666666666666667
+560,3957,Paid Social,META-Retargeting,430.14,0.0,0.0,0.2,0.06666666666666667
+560,3957,Organic Search,SEO-Product,430.14,0.0,1.0,0.2,0.4
+561,3959,Referral,REF-Partner,412.3,1.0,0.0,0.3333333333333333,0.4
+561,3959,Paid Social,META-Retargeting,412.3,0.0,0.0,0.3333333333333333,0.2
+561,3959,Paid Search,PS-Brand,412.3,0.0,1.0,0.3333333333333333,0.4
+562,3964,Paid Social,META-Prospecting,197.61,1.0,1.0,1.0,1.0
+563,3965,Email,EMAIL-Reactivation,1226.15,1.0,0.0,0.25,0.4
+563,3965,Paid Search,PS-Brand,1226.15,0.0,0.0,0.25,0.1
+563,3965,Paid Search,PS-NonBrand,1226.15,0.0,0.0,0.25,0.1
+563,3965,Organic Search,SEO-Content,1226.15,0.0,1.0,0.25,0.4
+564,3971,Paid Search,PS-Brand,549.0,1.0,0.0,0.3333333333333333,0.4
+564,3971,Paid Search,PS-NonBrand,549.0,0.0,0.0,0.3333333333333333,0.2
+564,3971,Referral,REF-Customer,549.0,0.0,1.0,0.3333333333333333,0.4
+565,3975,Paid Search,PS-NonBrand,143.41,1.0,0.0,0.2,0.4
+565,3975,Paid Search,PS-Brand,143.41,0.0,0.0,0.2,0.06666666666666667
+565,3975,Email,EMAIL-Nurture,143.41,0.0,0.0,0.2,0.06666666666666667
+565,3975,Paid Search,PS-Brand,143.41,0.0,0.0,0.2,0.06666666666666667
+565,3975,Paid Search,PS-NonBrand,143.41,0.0,1.0,0.2,0.4
+566,3978,Paid Social,META-Prospecting,216.71,1.0,0.0,0.25,0.4
+566,3978,Organic Search,SEO-Product,216.71,0.0,0.0,0.25,0.1
+566,3978,Paid Search,PS-NonBrand,216.71,0.0,0.0,0.25,0.1
+566,3978,Paid Social,META-Prospecting,216.71,0.0,1.0,0.25,0.4
+567,3982,Paid Search,PS-Brand,504.07,1.0,0.0,0.25,0.4
+567,3982,Paid Search,PS-NonBrand,504.07,0.0,0.0,0.25,0.1
+567,3982,Referral,REF-Partner,504.07,0.0,0.0,0.25,0.1
+567,3982,Paid Social,META-Retargeting,504.07,0.0,1.0,0.25,0.4
+568,3983,Paid Social,META-Retargeting,320.54,1.0,1.0,1.0,1.0
+569,4003,Referral,REF-Customer,202.44,1.0,1.0,1.0,1.0
+570,4004,Paid Social,META-Retargeting,1233.61,1.0,0.0,0.25,0.4
+570,4004,Referral,REF-Customer,1233.61,0.0,0.0,0.25,0.1
+570,4004,Paid Search,PS-Brand,1233.61,0.0,0.0,0.25,0.1
+570,4004,Paid Search,PS-Brand,1233.61,0.0,1.0,0.25,0.4
+571,4009,Organic Search,SEO-Product,239.35,1.0,0.0,0.3333333333333333,0.4
+571,4009,Paid Search,PS-NonBrand,239.35,0.0,0.0,0.3333333333333333,0.2
+571,4009,Paid Search,PS-Brand,239.35,0.0,1.0,0.3333333333333333,0.4
+572,4016,Paid Search,PS-NonBrand,193.13,1.0,0.0,0.5,0.5
+572,4016,Organic Search,SEO-Product,193.13,0.0,1.0,0.5,0.5
+573,4018,Organic Search,SEO-Product,610.52,1.0,0.0,0.3333333333333333,0.4
+573,4018,Display,DISPLAY-Prospecting,610.52,0.0,0.0,0.3333333333333333,0.2
+573,4018,Referral,REF-Customer,610.52,0.0,1.0,0.3333333333333333,0.4
+574,4025,Email,EMAIL-Reactivation,725.5,1.0,0.0,0.5,0.5
+574,4025,Paid Social,META-Prospecting,725.5,0.0,1.0,0.5,0.5
+575,4027,Paid Social,META-Prospecting,392.06,1.0,0.0,0.3333333333333333,0.4
+575,4027,Organic Search,SEO-Content,392.06,0.0,0.0,0.3333333333333333,0.2
+575,4027,Paid Search,PS-NonBrand,392.06,0.0,1.0,0.3333333333333333,0.4
+576,4035,Paid Search,PS-NonBrand,276.97,1.0,0.0,0.25,0.4
+576,4035,Paid Search,PS-NonBrand,276.97,0.0,0.0,0.25,0.1
+576,4035,Referral,REF-Customer,276.97,0.0,0.0,0.25,0.1
+576,4035,Paid Search,PS-NonBrand,276.97,0.0,1.0,0.25,0.4
+577,4043,Organic Search,SEO-Content,1098.05,1.0,0.0,0.2,0.4
+577,4043,Paid Search,PS-NonBrand,1098.05,0.0,0.0,0.2,0.06666666666666667
+577,4043,Paid Social,META-Retargeting,1098.05,0.0,0.0,0.2,0.06666666666666667
+577,4043,Referral,REF-Partner,1098.05,0.0,0.0,0.2,0.06666666666666667
+577,4043,Display,DISPLAY-Retargeting,1098.05,0.0,1.0,0.2,0.4
+578,4052,Paid Social,META-Prospecting,427.84,1.0,1.0,1.0,1.0
+579,4079,Display,DISPLAY-Retargeting,595.6,1.0,0.0,0.3333333333333333,0.4
+579,4079,Paid Social,META-Retargeting,595.6,0.0,0.0,0.3333333333333333,0.2
+579,4079,Paid Search,PS-Brand,595.6,0.0,1.0,0.3333333333333333,0.4
+580,4080,Paid Social,META-Retargeting,301.43,1.0,0.0,0.25,0.4
+580,4080,Paid Social,META-Retargeting,301.43,0.0,0.0,0.25,0.1
+580,4080,Paid Social,META-Retargeting,301.43,0.0,0.0,0.25,0.1
+580,4080,Organic Search,SEO-Content,301.43,0.0,1.0,0.25,0.4
+581,4081,Display,DISPLAY-Retargeting,370.68,1.0,0.0,0.3333333333333333,0.4
+581,4081,Organic Search,SEO-Content,370.68,0.0,0.0,0.3333333333333333,0.2
+581,4081,Email,EMAIL-Nurture,370.68,0.0,1.0,0.3333333333333333,0.4
+582,4089,Paid Social,META-Prospecting,575.52,1.0,1.0,1.0,1.0
+583,4090,Paid Social,META-Retargeting,150.23,1.0,0.0,0.2,0.4
+583,4090,Paid Search,PS-Brand,150.23,0.0,0.0,0.2,0.06666666666666667
+583,4090,Email,EMAIL-Nurture,150.23,0.0,0.0,0.2,0.06666666666666667
+583,4090,Display,DISPLAY-Prospecting,150.23,0.0,0.0,0.2,0.06666666666666667
+583,4090,Email,EMAIL-Reactivation,150.23,0.0,1.0,0.2,0.4
+584,4093,Paid Social,META-Retargeting,498.56,1.0,1.0,1.0,1.0
+585,4095,Paid Search,PS-NonBrand,736.96,1.0,0.0,0.25,0.4
+585,4095,Paid Search,PS-Brand,736.96,0.0,0.0,0.25,0.1
+585,4095,Email,EMAIL-Nurture,736.96,0.0,0.0,0.25,0.1
+585,4095,Paid Social,META-Retargeting,736.96,0.0,1.0,0.25,0.4
+586,4102,Organic Search,SEO-Product,592.32,1.0,0.0,0.3333333333333333,0.4
+586,4102,Paid Search,PS-Brand,592.32,0.0,0.0,0.3333333333333333,0.2
+586,4102,Organic Search,SEO-Content,592.32,0.0,1.0,0.3333333333333333,0.4
+587,4110,Paid Social,META-Prospecting,318.28,1.0,0.0,0.3333333333333333,0.4
+587,4110,Display,DISPLAY-Prospecting,318.28,0.0,0.0,0.3333333333333333,0.2
+587,4110,Paid Social,META-Retargeting,318.28,0.0,1.0,0.3333333333333333,0.4
+588,4118,Organic Search,SEO-Product,971.8,1.0,0.0,0.5,0.5
+588,4118,Paid Social,META-Retargeting,971.8,0.0,1.0,0.5,0.5
+589,4119,Organic Search,SEO-Content,309.09,1.0,0.0,0.2,0.4
+589,4119,Paid Social,META-Retargeting,309.09,0.0,0.0,0.2,0.06666666666666667
+589,4119,Paid Social,META-Retargeting,309.09,0.0,0.0,0.2,0.06666666666666667
+589,4119,Organic Search,SEO-Content,309.09,0.0,0.0,0.2,0.06666666666666667
+589,4119,Paid Social,META-Retargeting,309.09,0.0,1.0,0.2,0.4
+590,4122,Email,EMAIL-Nurture,251.86,1.0,0.0,0.5,0.5
+590,4122,Organic Search,SEO-Product,251.86,0.0,1.0,0.5,0.5
+591,4134,Display,DISPLAY-Prospecting,698.29,1.0,0.0,0.3333333333333333,0.4
+591,4134,Referral,REF-Customer,698.29,0.0,0.0,0.3333333333333333,0.2
+591,4134,Display,DISPLAY-Retargeting,698.29,0.0,1.0,0.3333333333333333,0.4
+592,4135,Paid Social,META-Prospecting,470.92,1.0,0.0,0.5,0.5
+592,4135,Paid Search,PS-NonBrand,470.92,0.0,1.0,0.5,0.5
+593,4139,Organic Search,SEO-Product,1087.61,1.0,0.0,0.25,0.4
+593,4139,Display,DISPLAY-Prospecting,1087.61,0.0,0.0,0.25,0.1
+593,4139,Paid Search,PS-Brand,1087.61,0.0,0.0,0.25,0.1
+593,4139,Organic Search,SEO-Content,1087.61,0.0,1.0,0.25,0.4
+594,4140,Paid Search,PS-Brand,490.12,1.0,0.0,0.25,0.4
+594,4140,Paid Social,META-Retargeting,490.12,0.0,0.0,0.25,0.1
+594,4140,Organic Search,SEO-Product,490.12,0.0,0.0,0.25,0.1
+594,4140,Referral,REF-Partner,490.12,0.0,1.0,0.25,0.4
+595,4142,Paid Search,PS-NonBrand,305.25,1.0,0.0,0.2,0.4
+595,4142,Paid Social,META-Retargeting,305.25,0.0,0.0,0.2,0.06666666666666667
+595,4142,Paid Social,META-Retargeting,305.25,0.0,0.0,0.2,0.06666666666666667
+595,4142,Paid Social,META-Prospecting,305.25,0.0,0.0,0.2,0.06666666666666667
+595,4142,Display,DISPLAY-Retargeting,305.25,0.0,1.0,0.2,0.4
+596,4152,Display,DISPLAY-Prospecting,522.78,1.0,1.0,1.0,1.0
+597,4155,Display,DISPLAY-Retargeting,472.18,1.0,0.0,0.25,0.4
+597,4155,Display,DISPLAY-Retargeting,472.18,0.0,0.0,0.25,0.1
+597,4155,Paid Search,PS-Brand,472.18,0.0,0.0,0.25,0.1
+597,4155,Email,EMAIL-Nurture,472.18,0.0,1.0,0.25,0.4
+598,4158,Paid Social,META-Prospecting,350.21,1.0,0.0,0.2,0.4
+598,4158,Paid Social,META-Retargeting,350.21,0.0,0.0,0.2,0.06666666666666667
+598,4158,Organic Search,SEO-Product,350.21,0.0,0.0,0.2,0.06666666666666667
+598,4158,Paid Search,PS-Brand,350.21,0.0,0.0,0.2,0.06666666666666667
+598,4158,Paid Search,PS-NonBrand,350.21,0.0,1.0,0.2,0.4
+599,4171,Paid Search,PS-NonBrand,618.77,1.0,1.0,1.0,1.0
+600,4181,Paid Search,PS-NonBrand,364.95,1.0,0.0,0.2,0.4
+600,4181,Paid Search,PS-NonBrand,364.95,0.0,0.0,0.2,0.06666666666666667
+600,4181,Email,EMAIL-Reactivation,364.95,0.0,0.0,0.2,0.06666666666666667
+600,4181,Paid Social,META-Retargeting,364.95,0.0,0.0,0.2,0.06666666666666667
+600,4181,Paid Social,META-Retargeting,364.95,0.0,1.0,0.2,0.4
+601,4196,Email,EMAIL-Nurture,461.52,1.0,0.0,0.3333333333333333,0.4
+601,4196,Paid Search,PS-Brand,461.52,0.0,0.0,0.3333333333333333,0.2
+601,4196,Paid Search,PS-NonBrand,461.52,0.0,1.0,0.3333333333333333,0.4
+602,4197,Paid Search,PS-Brand,543.58,1.0,0.0,0.3333333333333333,0.4
+602,4197,Paid Social,META-Retargeting,543.58,0.0,0.0,0.3333333333333333,0.2
+602,4197,Display,DISPLAY-Retargeting,543.58,0.0,1.0,0.3333333333333333,0.4
+603,4215,Paid Search,PS-NonBrand,495.44,1.0,0.0,0.5,0.5
+603,4215,Paid Search,PS-Brand,495.44,0.0,1.0,0.5,0.5
+604,4221,Organic Search,SEO-Product,269.24,1.0,0.0,0.5,0.5
+604,4221,Paid Search,PS-NonBrand,269.24,0.0,1.0,0.5,0.5
+605,4228,Referral,REF-Customer,533.54,1.0,0.0,0.5,0.5
+605,4228,Organic Search,SEO-Content,533.54,0.0,1.0,0.5,0.5
+606,4229,Paid Search,PS-NonBrand,553.24,1.0,0.0,0.5,0.5
+606,4229,Organic Search,SEO-Content,553.24,0.0,1.0,0.5,0.5
+607,4230,Paid Search,PS-Brand,409.19,1.0,0.0,0.25,0.4
+607,4230,Paid Search,PS-NonBrand,409.19,0.0,0.0,0.25,0.1
+607,4230,Display,DISPLAY-Retargeting,409.19,0.0,0.0,0.25,0.1
+607,4230,Paid Social,META-Prospecting,409.19,0.0,1.0,0.25,0.4
+608,4242,Paid Social,META-Retargeting,516.93,1.0,0.0,0.2,0.4
+608,4242,Paid Social,META-Prospecting,516.93,0.0,0.0,0.2,0.06666666666666667
+608,4242,Paid Social,META-Retargeting,516.93,0.0,0.0,0.2,0.06666666666666667
+608,4242,Email,EMAIL-Nurture,516.93,0.0,0.0,0.2,0.06666666666666667
+608,4242,Email,EMAIL-Reactivation,516.93,0.0,1.0,0.2,0.4
+609,4245,Paid Search,PS-NonBrand,165.76,1.0,0.0,0.25,0.4
+609,4245,Paid Social,META-Retargeting,165.76,0.0,0.0,0.25,0.1
+609,4245,Email,EMAIL-Nurture,165.76,0.0,0.0,0.25,0.1
+609,4245,Email,EMAIL-Nurture,165.76,0.0,1.0,0.25,0.4
+610,4252,Paid Search,PS-Brand,478.51,1.0,0.0,0.25,0.4
+610,4252,Paid Search,PS-Brand,478.51,0.0,0.0,0.25,0.1
+610,4252,Paid Social,META-Retargeting,478.51,0.0,0.0,0.25,0.1
+610,4252,Display,DISPLAY-Retargeting,478.51,0.0,1.0,0.25,0.4
+611,4253,Paid Search,PS-Brand,271.2,1.0,1.0,1.0,1.0
+612,4256,Organic Search,SEO-Content,187.27,1.0,0.0,0.3333333333333333,0.4
+612,4256,Email,EMAIL-Reactivation,187.27,0.0,0.0,0.3333333333333333,0.2
+612,4256,Paid Search,PS-NonBrand,187.27,0.0,1.0,0.3333333333333333,0.4
+613,4275,Display,DISPLAY-Prospecting,447.09,1.0,0.0,0.25,0.4
+613,4275,Paid Social,META-Prospecting,447.09,0.0,0.0,0.25,0.1
+613,4275,Referral,REF-Customer,447.09,0.0,0.0,0.25,0.1
+613,4275,Display,DISPLAY-Prospecting,447.09,0.0,1.0,0.25,0.4
+614,4276,Email,EMAIL-Nurture,392.11,1.0,1.0,1.0,1.0
+615,4278,Organic Search,SEO-Product,346.45,1.0,0.0,0.25,0.4
+615,4278,Referral,REF-Customer,346.45,0.0,0.0,0.25,0.1
+615,4278,Organic Search,SEO-Product,346.45,0.0,0.0,0.25,0.1
+615,4278,Paid Search,PS-NonBrand,346.45,0.0,1.0,0.25,0.4
+616,4280,Display,DISPLAY-Retargeting,663.04,1.0,0.0,0.2,0.4
+616,4280,Paid Search,PS-Brand,663.04,0.0,0.0,0.2,0.06666666666666667
+616,4280,Paid Social,META-Retargeting,663.04,0.0,0.0,0.2,0.06666666666666667
+616,4280,Display,DISPLAY-Retargeting,663.04,0.0,0.0,0.2,0.06666666666666667
+616,4280,Paid Search,PS-Brand,663.04,0.0,1.0,0.2,0.4
+617,4300,Display,DISPLAY-Prospecting,644.9,1.0,0.0,0.3333333333333333,0.4
+617,4300,Display,DISPLAY-Prospecting,644.9,0.0,0.0,0.3333333333333333,0.2
+617,4300,Email,EMAIL-Nurture,644.9,0.0,1.0,0.3333333333333333,0.4
+618,4301,Paid Search,PS-Brand,418.88,1.0,1.0,1.0,1.0
+619,4304,Paid Social,META-Prospecting,173.33,1.0,0.0,0.3333333333333333,0.4
+619,4304,Paid Social,META-Prospecting,173.33,0.0,0.0,0.3333333333333333,0.2
+619,4304,Paid Social,META-Retargeting,173.33,0.0,1.0,0.3333333333333333,0.4
+620,4306,Organic Search,SEO-Content,492.54,1.0,0.0,0.3333333333333333,0.4
+620,4306,Paid Search,PS-Brand,492.54,0.0,0.0,0.3333333333333333,0.2
+620,4306,Organic Search,SEO-Content,492.54,0.0,1.0,0.3333333333333333,0.4
+621,4324,Email,EMAIL-Nurture,621.0,1.0,0.0,0.5,0.5
+621,4324,Paid Social,META-Retargeting,621.0,0.0,1.0,0.5,0.5
+622,4329,Paid Search,PS-Brand,518.31,1.0,1.0,1.0,1.0
+623,4334,Paid Search,PS-Brand,422.22,1.0,1.0,1.0,1.0
+624,4347,Display,DISPLAY-Retargeting,294.08,1.0,0.0,0.3333333333333333,0.4
+624,4347,Paid Search,PS-Brand,294.08,0.0,0.0,0.3333333333333333,0.2
+624,4347,Organic Search,SEO-Product,294.08,0.0,1.0,0.3333333333333333,0.4
+625,4354,Paid Search,PS-NonBrand,324.3,1.0,0.0,0.2,0.4
+625,4354,Paid Social,META-Retargeting,324.3,0.0,0.0,0.2,0.06666666666666667
+625,4354,Email,EMAIL-Reactivation,324.3,0.0,0.0,0.2,0.06666666666666667
+625,4354,Display,DISPLAY-Retargeting,324.3,0.0,0.0,0.2,0.06666666666666667
+625,4354,Paid Search,PS-Brand,324.3,0.0,1.0,0.2,0.4
+626,4356,Paid Social,META-Prospecting,474.32,1.0,0.0,0.2,0.4
+626,4356,Paid Social,META-Retargeting,474.32,0.0,0.0,0.2,0.06666666666666667
+626,4356,Paid Search,PS-Brand,474.32,0.0,0.0,0.2,0.06666666666666667
+626,4356,Paid Search,PS-Brand,474.32,0.0,0.0,0.2,0.06666666666666667
+626,4356,Display,DISPLAY-Retargeting,474.32,0.0,1.0,0.2,0.4
+627,4362,Email,EMAIL-Nurture,426.32,1.0,0.0,0.25,0.4
+627,4362,Paid Social,META-Prospecting,426.32,0.0,0.0,0.25,0.1
+627,4362,Organic Search,SEO-Content,426.32,0.0,0.0,0.25,0.1
+627,4362,Organic Search,SEO-Product,426.32,0.0,1.0,0.25,0.4
+628,4364,Paid Search,PS-Brand,390.73,1.0,1.0,1.0,1.0
+629,4370,Referral,REF-Customer,293.71,1.0,0.0,0.5,0.5
+629,4370,Display,DISPLAY-Retargeting,293.71,0.0,1.0,0.5,0.5
+630,4371,Referral,REF-Customer,441.17,1.0,1.0,1.0,1.0
+631,4382,Paid Social,META-Retargeting,593.09,1.0,0.0,0.25,0.4
+631,4382,Display,DISPLAY-Retargeting,593.09,0.0,0.0,0.25,0.1
+631,4382,Email,EMAIL-Reactivation,593.09,0.0,0.0,0.25,0.1
+631,4382,Display,DISPLAY-Prospecting,593.09,0.0,1.0,0.25,0.4
+632,4383,Paid Search,PS-Brand,432.19,1.0,0.0,0.5,0.5
+632,4383,Paid Social,META-Retargeting,432.19,0.0,1.0,0.5,0.5
+633,4400,Email,EMAIL-Nurture,505.38,1.0,0.0,0.25,0.4
+633,4400,Referral,REF-Customer,505.38,0.0,0.0,0.25,0.1
+633,4400,Paid Search,PS-NonBrand,505.38,0.0,0.0,0.25,0.1
+633,4400,Organic Search,SEO-Content,505.38,0.0,1.0,0.25,0.4
+634,4403,Paid Search,PS-NonBrand,810.1,1.0,0.0,0.2,0.4
+634,4403,Paid Social,META-Retargeting,810.1,0.0,0.0,0.2,0.06666666666666667
+634,4403,Paid Social,META-Prospecting,810.1,0.0,0.0,0.2,0.06666666666666667
+634,4403,Paid Search,PS-Brand,810.1,0.0,0.0,0.2,0.06666666666666667
+634,4403,Display,DISPLAY-Prospecting,810.1,0.0,1.0,0.2,0.4
+635,4409,Paid Social,META-Retargeting,531.37,1.0,0.0,0.2,0.4
+635,4409,Paid Search,PS-NonBrand,531.37,0.0,0.0,0.2,0.06666666666666667
+635,4409,Email,EMAIL-Nurture,531.37,0.0,0.0,0.2,0.06666666666666667
+635,4409,Referral,REF-Partner,531.37,0.0,0.0,0.2,0.06666666666666667
+635,4409,Organic Search,SEO-Content,531.37,0.0,1.0,0.2,0.4
+636,4415,Referral,REF-Customer,1126.79,1.0,0.0,0.5,0.5
+636,4415,Paid Social,META-Prospecting,1126.79,0.0,1.0,0.5,0.5
+637,4419,Paid Social,META-Prospecting,886.55,1.0,0.0,0.25,0.4
+637,4419,Display,DISPLAY-Prospecting,886.55,0.0,0.0,0.25,0.1
+637,4419,Paid Search,PS-NonBrand,886.55,0.0,0.0,0.25,0.1
+637,4419,Organic Search,SEO-Content,886.55,0.0,1.0,0.25,0.4
+638,4428,Referral,REF-Customer,1286.04,1.0,1.0,1.0,1.0
+639,4432,Organic Search,SEO-Content,535.84,1.0,0.0,0.3333333333333333,0.4
+639,4432,Paid Search,PS-Brand,535.84,0.0,0.0,0.3333333333333333,0.2
+639,4432,Email,EMAIL-Reactivation,535.84,0.0,1.0,0.3333333333333333,0.4
+640,4443,Referral,REF-Partner,623.23,1.0,0.0,0.2,0.4
+640,4443,Paid Social,META-Prospecting,623.23,0.0,0.0,0.2,0.06666666666666667
+640,4443,Paid Search,PS-Brand,623.23,0.0,0.0,0.2,0.06666666666666667
+640,4443,Organic Search,SEO-Product,623.23,0.0,0.0,0.2,0.06666666666666667
+640,4443,Organic Search,SEO-Content,623.23,0.0,1.0,0.2,0.4
+641,4448,Email,EMAIL-Nurture,427.56,1.0,0.0,0.25,0.4
+641,4448,Paid Social,META-Retargeting,427.56,0.0,0.0,0.25,0.1
+641,4448,Paid Search,PS-Brand,427.56,0.0,0.0,0.25,0.1
+641,4448,Paid Social,META-Retargeting,427.56,0.0,1.0,0.25,0.4
+642,4455,Referral,REF-Partner,450.91,1.0,0.0,0.25,0.4
+642,4455,Display,DISPLAY-Retargeting,450.91,0.0,0.0,0.25,0.1
+642,4455,Paid Social,META-Retargeting,450.91,0.0,0.0,0.25,0.1
+642,4455,Organic Search,SEO-Content,450.91,0.0,1.0,0.25,0.4
+643,4468,Referral,REF-Customer,334.92,1.0,0.0,0.2,0.4
+643,4468,Display,DISPLAY-Prospecting,334.92,0.0,0.0,0.2,0.06666666666666667
+643,4468,Paid Social,META-Prospecting,334.92,0.0,0.0,0.2,0.06666666666666667
+643,4468,Paid Search,PS-Brand,334.92,0.0,0.0,0.2,0.06666666666666667
+643,4468,Paid Social,META-Retargeting,334.92,0.0,1.0,0.2,0.4
+644,4470,Paid Social,META-Prospecting,919.11,1.0,0.0,0.5,0.5
+644,4470,Paid Social,META-Retargeting,919.11,0.0,1.0,0.5,0.5
+645,4472,Paid Search,PS-Brand,222.09,1.0,0.0,0.3333333333333333,0.4
+645,4472,Email,EMAIL-Reactivation,222.09,0.0,0.0,0.3333333333333333,0.2
+645,4472,Organic Search,SEO-Content,222.09,0.0,1.0,0.3333333333333333,0.4
+646,4475,Paid Search,PS-NonBrand,901.22,1.0,0.0,0.2,0.4
+646,4475,Paid Search,PS-Brand,901.22,0.0,0.0,0.2,0.06666666666666667
+646,4475,Paid Social,META-Prospecting,901.22,0.0,0.0,0.2,0.06666666666666667
+646,4475,Paid Social,META-Prospecting,901.22,0.0,0.0,0.2,0.06666666666666667
+646,4475,Paid Social,META-Prospecting,901.22,0.0,1.0,0.2,0.4
+647,4490,Organic Search,SEO-Content,485.69,1.0,0.0,0.5,0.5
+647,4490,Email,EMAIL-Nurture,485.69,0.0,1.0,0.5,0.5
+648,4492,Email,EMAIL-Reactivation,556.29,1.0,0.0,0.5,0.5
+648,4492,Display,DISPLAY-Prospecting,556.29,0.0,1.0,0.5,0.5
+649,4493,Display,DISPLAY-Retargeting,236.3,1.0,0.0,0.3333333333333333,0.4
+649,4493,Email,EMAIL-Nurture,236.3,0.0,0.0,0.3333333333333333,0.2
+649,4493,Display,DISPLAY-Prospecting,236.3,0.0,1.0,0.3333333333333333,0.4
+650,4500,Email,EMAIL-Nurture,358.85,1.0,0.0,0.3333333333333333,0.4
+650,4500,Organic Search,SEO-Product,358.85,0.0,0.0,0.3333333333333333,0.2
+650,4500,Organic Search,SEO-Product,358.85,0.0,1.0,0.3333333333333333,0.4
+651,4506,Organic Search,SEO-Content,192.76,1.0,1.0,1.0,1.0
+652,4510,Paid Search,PS-Brand,323.32,1.0,1.0,1.0,1.0
+653,4516,Paid Search,PS-NonBrand,312.4,1.0,0.0,0.25,0.4
+653,4516,Paid Search,PS-NonBrand,312.4,0.0,0.0,0.25,0.1
+653,4516,Referral,REF-Customer,312.4,0.0,0.0,0.25,0.1
+653,4516,Organic Search,SEO-Content,312.4,0.0,1.0,0.25,0.4
+654,4527,Paid Search,PS-NonBrand,769.81,1.0,1.0,1.0,1.0
+655,4530,Paid Search,PS-Brand,434.9,1.0,0.0,0.3333333333333333,0.4
+655,4530,Email,EMAIL-Reactivation,434.9,0.0,0.0,0.3333333333333333,0.2
+655,4530,Paid Search,PS-NonBrand,434.9,0.0,1.0,0.3333333333333333,0.4
+656,4543,Organic Search,SEO-Product,157.02,1.0,0.0,0.2,0.4
+656,4543,Email,EMAIL-Nurture,157.02,0.0,0.0,0.2,0.06666666666666667
+656,4543,Paid Social,META-Retargeting,157.02,0.0,0.0,0.2,0.06666666666666667
+656,4543,Email,EMAIL-Nurture,157.02,0.0,0.0,0.2,0.06666666666666667
+656,4543,Paid Social,META-Retargeting,157.02,0.0,1.0,0.2,0.4
+657,4546,Paid Search,PS-Brand,383.81,1.0,1.0,1.0,1.0
+658,4547,Email,EMAIL-Nurture,182.72,1.0,0.0,0.3333333333333333,0.4
+658,4547,Organic Search,SEO-Content,182.72,0.0,0.0,0.3333333333333333,0.2
+658,4547,Paid Social,META-Retargeting,182.72,0.0,1.0,0.3333333333333333,0.4
+659,4551,Email,EMAIL-Reactivation,636.02,1.0,0.0,0.5,0.5
+659,4551,Email,EMAIL-Reactivation,636.02,0.0,1.0,0.5,0.5
+660,4557,Referral,REF-Partner,672.48,1.0,0.0,0.2,0.4
+660,4557,Referral,REF-Customer,672.48,0.0,0.0,0.2,0.06666666666666667
+660,4557,Paid Social,META-Prospecting,672.48,0.0,0.0,0.2,0.06666666666666667
+660,4557,Organic Search,SEO-Product,672.48,0.0,0.0,0.2,0.06666666666666667
+660,4557,Paid Social,META-Retargeting,672.48,0.0,1.0,0.2,0.4
+661,4560,Organic Search,SEO-Content,675.1,1.0,0.0,0.25,0.4
+661,4560,Email,EMAIL-Reactivation,675.1,0.0,0.0,0.25,0.1
+661,4560,Paid Social,META-Retargeting,675.1,0.0,0.0,0.25,0.1
+661,4560,Paid Social,META-Retargeting,675.1,0.0,1.0,0.25,0.4
+662,4561,Organic Search,SEO-Product,1154.05,1.0,0.0,0.25,0.4
+662,4561,Paid Search,PS-Brand,1154.05,0.0,0.0,0.25,0.1
+662,4561,Paid Social,META-Retargeting,1154.05,0.0,0.0,0.25,0.1
+662,4561,Referral,REF-Partner,1154.05,0.0,1.0,0.25,0.4
+663,4591,Paid Search,PS-Brand,300.88,1.0,1.0,1.0,1.0
+664,4605,Paid Search,PS-Brand,788.35,1.0,0.0,0.25,0.4
+664,4605,Organic Search,SEO-Content,788.35,0.0,0.0,0.25,0.1
+664,4605,Paid Social,META-Retargeting,788.35,0.0,0.0,0.25,0.1
+664,4605,Organic Search,SEO-Product,788.35,0.0,1.0,0.25,0.4
+665,4622,Organic Search,SEO-Content,602.29,1.0,1.0,1.0,1.0
+666,4628,Referral,REF-Customer,324.86,1.0,1.0,1.0,1.0
+667,4640,Paid Social,META-Retargeting,610.08,1.0,0.0,0.25,0.4
+667,4640,Email,EMAIL-Nurture,610.08,0.0,0.0,0.25,0.1
+667,4640,Paid Social,META-Retargeting,610.08,0.0,0.0,0.25,0.1
+667,4640,Paid Social,META-Retargeting,610.08,0.0,1.0,0.25,0.4
+668,4645,Email,EMAIL-Nurture,355.4,1.0,0.0,0.2,0.4
+668,4645,Referral,REF-Customer,355.4,0.0,0.0,0.2,0.06666666666666667
+668,4645,Paid Search,PS-Brand,355.4,0.0,0.0,0.2,0.06666666666666667
+668,4645,Display,DISPLAY-Retargeting,355.4,0.0,0.0,0.2,0.06666666666666667
+668,4645,Display,DISPLAY-Retargeting,355.4,0.0,1.0,0.2,0.4
+669,4648,Paid Social,META-Prospecting,263.3,1.0,0.0,0.5,0.5
+669,4648,Organic Search,SEO-Content,263.3,0.0,1.0,0.5,0.5
+670,4673,Display,DISPLAY-Prospecting,861.69,1.0,0.0,0.25,0.4
+670,4673,Paid Social,META-Prospecting,861.69,0.0,0.0,0.25,0.1
+670,4673,Paid Search,PS-NonBrand,861.69,0.0,0.0,0.25,0.1
+670,4673,Paid Social,META-Retargeting,861.69,0.0,1.0,0.25,0.4
+671,4697,Organic Search,SEO-Product,741.91,1.0,1.0,1.0,1.0
+672,4715,Email,EMAIL-Reactivation,275.67,1.0,0.0,0.3333333333333333,0.4
+672,4715,Email,EMAIL-Reactivation,275.67,0.0,0.0,0.3333333333333333,0.2
+672,4715,Email,EMAIL-Reactivation,275.67,0.0,1.0,0.3333333333333333,0.4
+673,4723,Referral,REF-Partner,419.67,1.0,1.0,1.0,1.0
+674,4736,Organic Search,SEO-Product,1130.35,1.0,0.0,0.5,0.5
+674,4736,Paid Social,META-Prospecting,1130.35,0.0,1.0,0.5,0.5
+675,4740,Email,EMAIL-Reactivation,391.53,1.0,0.0,0.2,0.4
+675,4740,Referral,REF-Customer,391.53,0.0,0.0,0.2,0.06666666666666667
+675,4740,Referral,REF-Customer,391.53,0.0,0.0,0.2,0.06666666666666667
+675,4740,Display,DISPLAY-Retargeting,391.53,0.0,0.0,0.2,0.06666666666666667
+675,4740,Paid Social,META-Retargeting,391.53,0.0,1.0,0.2,0.4
+676,4756,Organic Search,SEO-Product,580.7,1.0,0.0,0.25,0.4
+676,4756,Organic Search,SEO-Product,580.7,0.0,0.0,0.25,0.1
+676,4756,Paid Social,META-Prospecting,580.7,0.0,0.0,0.25,0.1
+676,4756,Paid Social,META-Prospecting,580.7,0.0,1.0,0.25,0.4
+677,4764,Paid Search,PS-NonBrand,213.18,1.0,0.0,0.25,0.4
+677,4764,Paid Social,META-Retargeting,213.18,0.0,0.0,0.25,0.1
+677,4764,Email,EMAIL-Nurture,213.18,0.0,0.0,0.25,0.1
+677,4764,Paid Social,META-Retargeting,213.18,0.0,1.0,0.25,0.4
+678,4765,Paid Search,PS-NonBrand,180.37,1.0,1.0,1.0,1.0
+679,4777,Referral,REF-Partner,601.7,1.0,1.0,1.0,1.0
+680,4780,Paid Social,META-Prospecting,351.18,1.0,1.0,1.0,1.0
+681,4786,Paid Social,META-Retargeting,614.15,1.0,0.0,0.2,0.4
+681,4786,Email,EMAIL-Reactivation,614.15,0.0,0.0,0.2,0.06666666666666667
+681,4786,Paid Social,META-Retargeting,614.15,0.0,0.0,0.2,0.06666666666666667
+681,4786,Organic Search,SEO-Content,614.15,0.0,0.0,0.2,0.06666666666666667
+681,4786,Paid Social,META-Retargeting,614.15,0.0,1.0,0.2,0.4
+682,4790,Paid Search,PS-NonBrand,261.72,1.0,0.0,0.5,0.5
+682,4790,Referral,REF-Customer,261.72,0.0,1.0,0.5,0.5
+683,4792,Paid Search,PS-Brand,251.73,1.0,1.0,1.0,1.0
+684,4798,Organic Search,SEO-Content,812.32,1.0,0.0,0.2,0.4
+684,4798,Referral,REF-Customer,812.32,0.0,0.0,0.2,0.06666666666666667
+684,4798,Display,DISPLAY-Retargeting,812.32,0.0,0.0,0.2,0.06666666666666667
+684,4798,Referral,REF-Customer,812.32,0.0,0.0,0.2,0.06666666666666667
+684,4798,Paid Search,PS-NonBrand,812.32,0.0,1.0,0.2,0.4
+685,4800,Paid Social,META-Retargeting,592.2,1.0,0.0,0.25,0.4
+685,4800,Paid Search,PS-Brand,592.2,0.0,0.0,0.25,0.1
+685,4800,Paid Social,META-Retargeting,592.2,0.0,0.0,0.25,0.1
+685,4800,Paid Search,PS-NonBrand,592.2,0.0,1.0,0.25,0.4
+686,4803,Paid Social,META-Prospecting,446.42,1.0,1.0,1.0,1.0
+687,4809,Display,DISPLAY-Prospecting,560.08,1.0,0.0,0.5,0.5
+687,4809,Paid Social,META-Retargeting,560.08,0.0,1.0,0.5,0.5
+688,4812,Paid Social,META-Prospecting,705.33,1.0,1.0,1.0,1.0
+689,4815,Paid Social,META-Retargeting,623.04,1.0,0.0,0.3333333333333333,0.4
+689,4815,Referral,REF-Customer,623.04,0.0,0.0,0.3333333333333333,0.2
+689,4815,Paid Search,PS-Brand,623.04,0.0,1.0,0.3333333333333333,0.4
+690,4823,Organic Search,SEO-Product,154.16,1.0,0.0,0.2,0.4
+690,4823,Paid Search,PS-NonBrand,154.16,0.0,0.0,0.2,0.06666666666666667
+690,4823,Organic Search,SEO-Content,154.16,0.0,0.0,0.2,0.06666666666666667
+690,4823,Paid Search,PS-Brand,154.16,0.0,0.0,0.2,0.06666666666666667
+690,4823,Organic Search,SEO-Content,154.16,0.0,1.0,0.2,0.4
+691,4826,Organic Search,SEO-Product,1241.1,1.0,0.0,0.25,0.4
+691,4826,Referral,REF-Customer,1241.1,0.0,0.0,0.25,0.1
+691,4826,Email,EMAIL-Reactivation,1241.1,0.0,0.0,0.25,0.1
+691,4826,Email,EMAIL-Reactivation,1241.1,0.0,1.0,0.25,0.4
+692,4834,Paid Social,META-Prospecting,269.45,1.0,0.0,0.2,0.4
+692,4834,Referral,REF-Customer,269.45,0.0,0.0,0.2,0.06666666666666667
+692,4834,Referral,REF-Customer,269.45,0.0,0.0,0.2,0.06666666666666667
+692,4834,Paid Social,META-Retargeting,269.45,0.0,0.0,0.2,0.06666666666666667
+692,4834,Referral,REF-Customer,269.45,0.0,1.0,0.2,0.4
+693,4835,Paid Search,PS-Brand,221.28,1.0,0.0,0.5,0.5
+693,4835,Referral,REF-Partner,221.28,0.0,1.0,0.5,0.5
+694,4838,Referral,REF-Customer,366.69,1.0,0.0,0.25,0.4
+694,4838,Paid Social,META-Prospecting,366.69,0.0,0.0,0.25,0.1
+694,4838,Paid Search,PS-NonBrand,366.69,0.0,0.0,0.25,0.1
+694,4838,Paid Search,PS-Brand,366.69,0.0,1.0,0.25,0.4
+695,4839,Organic Search,SEO-Content,454.86,1.0,0.0,0.5,0.5
+695,4839,Referral,REF-Customer,454.86,0.0,1.0,0.5,0.5
+696,4842,Email,EMAIL-Nurture,350.77,1.0,0.0,0.3333333333333333,0.4
+696,4842,Referral,REF-Partner,350.77,0.0,0.0,0.3333333333333333,0.2
+696,4842,Paid Social,META-Retargeting,350.77,0.0,1.0,0.3333333333333333,0.4
+697,4846,Paid Social,META-Retargeting,391.66,1.0,1.0,1.0,1.0
+698,4847,Organic Search,SEO-Content,510.14,1.0,0.0,0.25,0.4
+698,4847,Paid Social,META-Prospecting,510.14,0.0,0.0,0.25,0.1
+698,4847,Paid Social,META-Prospecting,510.14,0.0,0.0,0.25,0.1
+698,4847,Paid Search,PS-NonBrand,510.14,0.0,1.0,0.25,0.4
+699,4870,Organic Search,SEO-Product,457.61,1.0,0.0,0.3333333333333333,0.4
+699,4870,Organic Search,SEO-Product,457.61,0.0,0.0,0.3333333333333333,0.2
+699,4870,Paid Search,PS-NonBrand,457.61,0.0,1.0,0.3333333333333333,0.4
+700,4875,Referral,REF-Partner,239.81,1.0,0.0,0.2,0.4
+700,4875,Paid Search,PS-Brand,239.81,0.0,0.0,0.2,0.06666666666666667
+700,4875,Paid Search,PS-NonBrand,239.81,0.0,0.0,0.2,0.06666666666666667
+700,4875,Organic Search,SEO-Product,239.81,0.0,0.0,0.2,0.06666666666666667
+700,4875,Paid Search,PS-NonBrand,239.81,0.0,1.0,0.2,0.4
+701,4885,Email,EMAIL-Reactivation,526.57,1.0,0.0,0.2,0.4
+701,4885,Paid Social,META-Prospecting,526.57,0.0,0.0,0.2,0.06666666666666667
+701,4885,Organic Search,SEO-Content,526.57,0.0,0.0,0.2,0.06666666666666667
+701,4885,Display,DISPLAY-Retargeting,526.57,0.0,0.0,0.2,0.06666666666666667
+701,4885,Paid Search,PS-Brand,526.57,0.0,1.0,0.2,0.4
+702,4933,Email,EMAIL-Nurture,631.03,1.0,0.0,0.25,0.4
+702,4933,Email,EMAIL-Nurture,631.03,0.0,0.0,0.25,0.1
+702,4933,Paid Search,PS-Brand,631.03,0.0,0.0,0.25,0.1
+702,4933,Email,EMAIL-Nurture,631.03,0.0,1.0,0.25,0.4
+703,4946,Organic Search,SEO-Content,210.42,1.0,1.0,1.0,1.0
+704,4947,Referral,REF-Partner,463.29,1.0,0.0,0.2,0.4
+704,4947,Referral,REF-Customer,463.29,0.0,0.0,0.2,0.06666666666666667
+704,4947,Paid Search,PS-Brand,463.29,0.0,0.0,0.2,0.06666666666666667
+704,4947,Organic Search,SEO-Product,463.29,0.0,0.0,0.2,0.06666666666666667
+704,4947,Email,EMAIL-Nurture,463.29,0.0,1.0,0.2,0.4
+705,4958,Paid Social,META-Retargeting,299.0,1.0,0.0,0.25,0.4
+705,4958,Paid Search,PS-Brand,299.0,0.0,0.0,0.25,0.1
+705,4958,Email,EMAIL-Reactivation,299.0,0.0,0.0,0.25,0.1
+705,4958,Paid Search,PS-Brand,299.0,0.0,1.0,0.25,0.4
+706,4960,Paid Social,META-Retargeting,687.44,1.0,0.0,0.25,0.4
+706,4960,Paid Search,PS-NonBrand,687.44,0.0,0.0,0.25,0.1
+706,4960,Paid Search,PS-Brand,687.44,0.0,0.0,0.25,0.1
+706,4960,Referral,REF-Customer,687.44,0.0,1.0,0.25,0.4
+707,4972,Email,EMAIL-Reactivation,433.82,1.0,0.0,0.5,0.5
+707,4972,Display,DISPLAY-Retargeting,433.82,0.0,1.0,0.5,0.5
+708,4974,Organic Search,SEO-Product,239.62,1.0,1.0,1.0,1.0
+709,4982,Paid Search,PS-Brand,215.42,1.0,0.0,0.2,0.4
+709,4982,Organic Search,SEO-Product,215.42,0.0,0.0,0.2,0.06666666666666667
+709,4982,Paid Search,PS-Brand,215.42,0.0,0.0,0.2,0.06666666666666667
+709,4982,Referral,REF-Partner,215.42,0.0,0.0,0.2,0.06666666666666667
+709,4982,Display,DISPLAY-Prospecting,215.42,0.0,1.0,0.2,0.4
+710,4988,Email,EMAIL-Reactivation,271.09,1.0,0.0,0.3333333333333333,0.4
+710,4988,Organic Search,SEO-Product,271.09,0.0,0.0,0.3333333333333333,0.2
+710,4988,Paid Search,PS-NonBrand,271.09,0.0,1.0,0.3333333333333333,0.4
+711,4991,Paid Social,META-Prospecting,491.76,1.0,0.0,0.2,0.4
+711,4991,Paid Search,PS-Brand,491.76,0.0,0.0,0.2,0.06666666666666667
+711,4991,Paid Search,PS-NonBrand,491.76,0.0,0.0,0.2,0.06666666666666667
+711,4991,Organic Search,SEO-Content,491.76,0.0,0.0,0.2,0.06666666666666667
+711,4991,Organic Search,SEO-Content,491.76,0.0,1.0,0.2,0.4
+712,4992,Paid Social,META-Prospecting,407.07,1.0,1.0,1.0,1.0
+713,4996,Paid Search,PS-Brand,625.05,1.0,1.0,1.0,1.0
+714,4999,Paid Search,PS-NonBrand,383.31,1.0,1.0,1.0,1.0

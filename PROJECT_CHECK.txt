@@ -1,0 +1,13 @@
+{
+  "customers_rows": 5000,
+  "touchpoints_rows": 15063,
+  "conversions_rows": 714,
+  "daily_rows": 4380,
+  "total_spend": 4253646.88,
+  "total_revenue": 360647.46,
+  "total_conversions": 714,
+  "sql_files": 6,
+  "charts": 4,
+  "pptx_exists": true,
+  "notebook_exists": true
+}
